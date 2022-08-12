@@ -89,14 +89,17 @@
 | de | Hotel | Hotel |
 | de | Hôtel particulier | Hôtel particulier |
 | de | Hotel Restaurant | Hotel Restaurant |
+| de | Industrieel oppervlak | Industrieel oppervlak |
 | de | Industriefläche | Industriefläche |
 | de | Industriegebäude | Industriegebäude |
 | de | Industriehalle | Industriehalle |
 | de | Industrieland | Industrieland |
+| de | Industriële hal | Industriële hal |
 | de | Insel | Insel |
 | de | Jagdgebiet | Jagdgebiet |
 | de | Jagdgut | Jagdgut |
 | de | Kabarett  | Kabarett  |
+| de | Kantoor | Kantoor |
 | de | Käserei | Käserei |
 | de | Katamaran | Katamaran |
 | de | Keller | Keller |
@@ -116,6 +119,7 @@
 | de | Lebensmittelgeschäft | Lebensmittelgeschäft |
 | de | Loft | Loft |
 | de | Lokal | Lokal |
+| de | Magazijn | Magazijn |
 | de | Mehrfamilienhaus | Mehrfamilienhaus |
 | de | Metzgerei | Metzgerei |
 | de | Miethaus | Miethaus |
@@ -171,6 +175,7 @@
 | de | Snackshop | Snackshop |
 | de | Solarium | Solarium |
 | de | Sommerhaus | Sommerhaus |
+| de | Speelhal | Speelhal |
 | de | Speicher | Speicher |
 | de | Sporthalle | Sporthalle |
 | de | Stadthaus | Stadthaus |
@@ -199,6 +204,7 @@
 | de | Wellness  | Wellness  |
 | de | Wellness Center | Wellness Center |
 | de | Werk  | Werk  |
+| de | werkplaats | werkplaats |
 | de | Werkstatt | Werkstatt |
 | de | Wohn- und Gewerbehaus | Wohn- und Gewerbehaus |
 | de | Wohnanlage | Wohnanlage |
@@ -476,7 +482,7 @@
 | fr | Commerce | Commerce |
 | fr | Contigüe | Contigüe |
 | fr | Dépendance | Dépendance |
-| fr | Dépôt | Dépôt |
+| fr | Dépôt | Dépot |
 | fr | Discothèque | Discothèque |
 | fr | Discothèque   | Discothèque   |
 | fr | Divers  | Divers  |
@@ -646,6 +652,7 @@
 | it | Appartamento su mappa | Appartamento su mappa |
 | it | Appartamento su un piano | Appartamento su un piano |
 | it | Appartamento villa | Appartamento villa |
+| it | Arcata | Arcata |
 | it | Area campeggio | Area campeggio |
 | it | Art gallery | Art gallery |
 | it | Attico | Attico |
@@ -761,6 +768,7 @@
 | it | Negozio | Negozio |
 | it | Negozio alimentare | Negozio alimentare |
 | it | Negozio di giardinaggio | Negozio di giardinaggio |
+| it | Officina | Officina |
 | it | Officina automobili | Officina automobili |
 | it | Open space | Open space |
 | it | Padiglione | Padiglione |
@@ -805,6 +813,7 @@
 | it | Stazione di servizio | Stazione di servizio |
 | it | Su due piani | Su due piani |
 | it | Su tre piani | Su tre piani |
+| it | Superficie industriale | Superficie industriale |
 | it | Tabacchino | Tabacchino |
 | it | Tea-Room | Tea-Room |
 | it | Teatro | Teatro |

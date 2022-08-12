@@ -9,6 +9,7 @@
 | de | Anwalt/Jurist | Anwalt/Jurist |
 | de | Architekt | Architekt |
 | de | Assistent/in | Assistent/in |
+| de | Aussicht | Aussicht |
 | de | Bank | Bank |
 | de | Bauherrschaft | Bauherrschaft |
 | de | Bauunternehmer | Bauunternehmer |
@@ -103,6 +104,7 @@
 | en | Promoter | Promoter |
 | en | Property agent | Property agent |
 | en | Property manager | Property manager |
+| en | Prospect | Prospect |
 | en | Real estate agent | Real estate agent |
 | en | Relocation partner | Relocation partner |
 | en | Rental broker | Rental broker |
@@ -129,7 +131,6 @@
 | fr | Beauté/Bien-être | Beauté/Bien-être |
 | fr | Client | Client |
 | fr | Collaborateur | Collaborateur |
-| fr | Collègue | Collaborateur |
 | fr | Commerçant | Commerçant |
 | fr | Comptable | Comptable |
 | fr | Concierge | Concierge |
@@ -166,6 +167,7 @@
 | fr | Plombier | Plombier |
 | fr | Promoteur | Promoteur |
 | fr | Propriétaire | Propriétaire |
+| fr | Prospect | Prospect |
 | fr | Restauration | Restauration |
 | fr | Serrurier | Serrurier |
 | fr | Visites | Visites |
@@ -217,6 +219,7 @@
 | it | portineria | portineria |
 | it | promotore | promotore |
 | it | Proprietario | Proprietario |
+| it | Prospettiva | Prospettiva |
 | it | Ristorazione | Ristorazione |
 | it | Strutture alberghiere | Strutture alberghiere |
 | it | tributarista | tributarista |

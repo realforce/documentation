@@ -5,7 +5,7 @@
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
 | 1 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact ID in your system |
-| 2 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
+| 2,a,b , toto | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
 | 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact lastname |
 | 4 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second firstname |
 | 5 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second lastname |
