@@ -1,0 +1,62 @@
+# Value: Language
+
+## Supported values
+
+| Language | Supported value | RealForce value |
+| :--- | :--- | :--- |
+| de | ar | Arabisch |
+| de | Arabisch | Arabisch |
+| de | Chinesisch | Chinesisch |
+| de | de | Deutsch |
+| de | Deutsch | Deutsch |
+| de | en | Englisch |
+| de | Englisch | Englisch |
+| de | fr | Französisch |
+| de | Französisch | Französisch |
+| de | it | Italienisch |
+| de | Italienisch | Italienisch |
+| de | ru | Russisch |
+| de | Russisch | Russisch |
+| de | zh | Chinesisch |
+| en | ar | Arab |
+| en | Arab | Arab |
+| en | Chinese | Chinese |
+| en | de | German |
+| en | en | English |
+| en | English | English |
+| en | fr | French |
+| en | French | French |
+| en | German | German |
+| en | it | Italian |
+| en | Italian | Italian |
+| en | ru | Russian |
+| en | Russian | Russian |
+| en | zh | Chinese |
+| fr | Allemand | Allemand |
+| fr | Anglais | Anglais |
+| fr | ar | Arabe |
+| fr | Arabe | Arabe |
+| fr | Chinois | Chinois |
+| fr | de | Allemand |
+| fr | en | Anglais |
+| fr | fr | Français |
+| fr | Français | Français |
+| fr | it | Italien |
+| fr | Italien | Italien |
+| fr | ru | Russe |
+| fr | Russe | Russe |
+| fr | zh | Chinois |
+| it | ar | Arabo |
+| it | Arabo | Arabo |
+| it | Cinese | Cinese |
+| it | de | Tedesco |
+| it | en | Inglese |
+| it | fr | Francese |
+| it | Francese | Francese |
+| it | Inglese | Inglese |
+| it | it | Italiano |
+| it | Italiano | Italiano |
+| it | ru | Russo |
+| it | Russo | Russo |
+| it | Tedesco | Tedesco |
+| it | zh | Cinese |
