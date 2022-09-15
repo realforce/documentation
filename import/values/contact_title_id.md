@@ -42,6 +42,7 @@
 | fr | Monsieur | Monsieur |
 | fr | Monsieur et Madame | Monsieur et Madame |
 | fr | Mr. | Monsieur |
+| fr | Mrs. | Messieurs |
 | fr | Société | Société |
 | fr | Son Excellence Madame | Son Excellence Madame |
 | fr | Son Excellence Monsieur | Son Excellence Monsieur |
