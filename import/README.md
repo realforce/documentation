@@ -5,6 +5,7 @@ RealForce Import System allows you to import files from third party systems trou
 - [Contact - Publimmo CSV](./formats/contact-publimmo-csv.md)
 - [Contact - Realforce CSV](./formats/contact-realforce-csv.md)
 - [Promotion - Realforce CSV](./formats/promotion-realforce-csv.md)
+- [Property - Realforce CSV](./formats/property-realforce-csv.md)
 - [Search - Realforce CSV](./formats/search-realforce-csv.md)
 
 Can't find a suitable file format to import your data into RealForce ?
