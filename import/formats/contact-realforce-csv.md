@@ -5,7 +5,7 @@
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
 | 1 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact ID in your system |
-| 2,a,b , toto | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
+| 2 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
 | 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact lastname |
 | 4 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second firstname |
 | 5 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second lastname |
@@ -16,10 +16,10 @@
 | 10 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact bank name |
 | 11 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact private comment |
 | 12 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact ranking from 1 to 3 |
-| 13 | string | [Contact Type](../values/contact_type_id.md) | Comma separated list of contact types |
-| 14 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Comma separated list of phones |
-| 15 | json | { "notes": string, "value": string, "use_mailing": boolean, "is_main": boolean } | Comma separated list of emails |
-| 16 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Comma separated list of addresses |
+| 13 | string | [Contact Type](../values/contact_type_id.md) | Semicolon separated list of contact types |
+| 14 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Semicolon separated list of phones |
+| 15 | json | { "notes": string, "value": string, "use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
+| 16 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
 | 17 | string | [Pipeline Stage](../values/pipeline_stage_id.md) | Contact pipeline stage |
 | 18 | date | YYYY-MM-DD | Contact pipeline date |
 | 19 | date | YYYY-MM-DD | Contact birthdate |

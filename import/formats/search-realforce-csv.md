@@ -11,19 +11,19 @@
 | 5 | string | [Transaction Type](../values/transaction_type_id.md) | Property transaction type |
 | 6 | string | [Property Category](../values/property_category_id.md) | Property category |
 | 7 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
-| 8 | string | [Property Position](../values/property_position_id.md) | Comma separated list of property positions |
-| 9 | string | [Property Furnishing](../values/property_furnishing_id.md) | Comma separated list of property furnishings |
-| 10 | string | [Property Style](../values/property_style_id.md) | Comma separated list of property styles |
-| 11 | string | [Property View](../values/property_view_id.md) | Comma separated list of property views |
-| 12 | string | [Property Sonority](../values/property_sonority_id.md) | Comma separated list of property sonorities |
-| 13 | string | [Property Space Type](../values/property_space_type_id.md) | Comma separated list of property space types |
-| 14 | string | [Country](../values/country_id.md) | Comma separated list of property countries |
-| 15 | string | [Canton](../values/canton_id.md) | Comma separated list of property cantons |
-| 16 | string | [District](../values/district_id.md) | Comma separated list of property districts |
-| 17 | string | [Zone](../values/zone_id.md) | Comma separated list of property zones |
-| 18 | string | [City](../values/city_id.md) | Comma separated list of property cities |
-| 19 | string | [Quarter](../values/quarter_id.md) | Comma separated list of property quarters |
-| 20 | string | [Zip](../values/zip_id.md) | Comma separated list of property zipcodes |
+| 8 | string | [Property Position](../values/property_position_id.md) | Semicolon separated list of property positions |
+| 9 | string | [Property Furnishing](../values/property_furnishing_id.md) | Semicolon separated list of property furnishings |
+| 10 | string | [Property Style](../values/property_style_id.md) | Semicolon separated list of property styles |
+| 11 | string | [Property View](../values/property_view_id.md) | Semicolon separated list of property views |
+| 12 | string | [Property Sonority](../values/property_sonority_id.md) | Semicolon separated list of property sonorities |
+| 13 | string | [Property Space Type](../values/property_space_type_id.md) | Semicolon separated list of property space types |
+| 14 | string | [Country](../values/country_id.md) | Semicolon separated list of property countries |
+| 15 | string | [Canton](../values/canton_id.md) | Semicolon separated list of property cantons |
+| 16 | string | [District](../values/district_id.md) | Semicolon separated list of property districts |
+| 17 | string | [Zone](../values/zone_id.md) | Semicolon separated list of property zones |
+| 18 | string | [City](../values/city_id.md) | Semicolon separated list of property cities |
+| 19 | string | [Quarter](../values/quarter_id.md) | Semicolon separated list of property quarters |
+| 20 | string | [Zip](../values/zip_id.md) | Semicolon separated list of property zipcodes |
 | 21 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 22 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
 | 23 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |

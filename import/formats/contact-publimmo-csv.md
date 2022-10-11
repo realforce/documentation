@@ -9,12 +9,12 @@
 | 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact lastname |
 | 4 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
 | 5 | string | [Language](../values/language_id.md) | Contact language |
-| 6,20,25,26,27 | json | { "notes": string, "value": string, "use_mailing": boolean, "is_main": boolean } | Comma separated list of emails |
+| 6,20,25,26,27 | json | { "notes": string, "value": string, "use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
 | 7 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is archived |
-| 8,9,10,11,12 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Comma separated list of addresses |
-| 13,14,15,30 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Comma separated list of phones |
+| 8,9,10,11,12 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
+| 13,14,15,30 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Semicolon separated list of phones |
 | 16 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
-| 19 | string | [Contact Type](../values/contact_type_id.md) | Comma separated list of contact types |
+| 19 | string | [Contact Type](../values/contact_type_id.md) | Semicolon separated list of contact types |
 | 21 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact company name |
 | 22 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is a direct client |
 | 23 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second lastname |
