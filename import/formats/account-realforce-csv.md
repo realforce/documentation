@@ -10,7 +10,7 @@
 | 4 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User password |
 | 5 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User firstname |
 | 6 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User lastname |
-| 7 | date | YYYY-MM-DD | User expiry date |
+| 7 | date | d.m.Y | d-m-Y | Y-m-d | User expiry date |
 | 8 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User private comment |
 | 9 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | User is active |
 

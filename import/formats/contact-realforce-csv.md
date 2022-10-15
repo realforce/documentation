@@ -21,11 +21,11 @@
 | 15 | json | { "notes": string, "value": string, "use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
 | 16 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
 | 17 | string | [Pipeline Stage](../values/pipeline_stage_id.md) | Contact pipeline stage |
-| 18 | date | YYYY-MM-DD | Contact pipeline date |
-| 19 | date | YYYY-MM-DD | Contact birthdate |
-| 20 | datetime | YYYY-MM-DD hh:mm:ss | Contact creation date & time |
-| 21 | datetime | YYYY-MM-DD hh:mm:ss | Contact update date & time |
-| 22 | date | YYYY-MM-DD | Contact last communication date |
+| 18 | date | d.m.Y | d-m-Y | Y-m-d | Contact pipeline date |
+| 19 | date | d.m.Y | d-m-Y | Y-m-d | Contact birthdate |
+| 20 | datetime | d.m.Y h:m:s | d-m-Y h:m:s | Y-m-d h:m:s | Contact creation date & time |
+| 21 | datetime | d.m.Y h:m:s | d-m-Y h:m:s | Y-m-d h:m:s | Contact update date & time |
+| 22 | date | d.m.Y | d-m-Y | Y-m-d | Contact last communication date |
 | 23 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
 | 24 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the sale broker in charge |
 | 25 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the rental broker in charge |

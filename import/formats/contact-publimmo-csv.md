@@ -21,8 +21,8 @@
 | 24 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second firstname |
 | 30 | string | [Country](../values/country_id.md) | Contact nationality |
 | 31 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact private comment |
-| 33 | datetime | YYYY-MM-DD hh:mm:ss | Contact creation date & time |
-| 34 | datetime | YYYY-MM-DD hh:mm:ss | Contact update date & time |
+| 33 | datetime | d.m.Y h:m:s | d-m-Y h:m:s | Y-m-d h:m:s | Contact creation date & time |
+| 34 | datetime | d.m.Y h:m:s | d-m-Y h:m:s | Y-m-d h:m:s | Contact update date & time |
 
 ## Sample
 
