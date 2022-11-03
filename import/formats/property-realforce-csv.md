@@ -23,7 +23,7 @@
 | 17 | string | [Property Availability](../values/property_availability_id.md) | Property availability |
 | 18 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Promotion ID |
 | 19 | string | [Transaction Type](../values/transaction_type_id.md) | Property transaction type |
-| 20 | date | d.m.Y | d-m-Y | Y-m-d | Property availability date |
+| 20 | date | d.m.Y | d-m-Y | Y-m-d |  |
 | 21 | json | { "location_path": LocationPath, "zip": string, "line1": string, "line2": string, "line3": string, "environmentId": string, "altitude": string, "longitude": string, "latitude": string } | Property real location |
 | 22 | json | { "location_path": LocationPath, "zip": string, "line1": string, "line2": string, "line3": string, "environmentId": string, "altitude": string, "longitude": string, "latitude": string } | Property alternate location |
 | 23 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
