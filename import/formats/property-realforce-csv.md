@@ -28,11 +28,20 @@
 | 22 | json | { "location_path": LocationPath, "zip": string, "line1": string, "line2": string, "line3": string, "environmentId": string, "altitude": string, "longitude": string, "latitude": string } | Property alternate location |
 | 23 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
 | 24 | json | { "filename": string, "is_brochure"?: boolean, "is_plan"?: boolean } | Semicolon separated list of documents |
+| 25 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property floor |
+| 26 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property volume |
+| 27 | json | { "amenity_id": string, "value": string } | Property availability date |
+| 28 |  |  |  |
+| 29 |  |  |  |
+| 30 |  |  |  |
+| 31 |  |  |  |
+| 32 |  |  |  |
+| 33 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | property is new |
 
 ## Sample
 
 [property-realforce.csv](../samples/property-realforce.csv)
 ```
-ID,reference,statusId,categoryId,subcategoryId,price,currencyId,brokerAccountId,visibilityId,priceSqm,habitable,land,rooms,bedrooms,bathrooms,floors,availabilityId,promotionId,transactionTypeId,availabilityDate,realLocation,altLocation,photos,documents
-OLDID00044,referenceTest,Actif,Appartement,Appartement à rénover,1200000,CHF,IDUSER001,Agence,1300,5000,15000,18,9,4,5,Immédiatement,,Vente,2022-08-31,"{""country"":""Suisse"",""canton"":""Genève"",""district"":""Aigle"",""zone"":""Genève"",""city"":""Genève"",""quarter"":""Champel"",""zip"":""1207"",""line1"":""Rue de la gare 1"",""line2"":""Les bureaux du futur"",""line3"":""Batiment A"",""environmentId"":""Montagne"",""altitude"":""1207"",""longitude"":""1207"",""latitude"":""1207""}","{""country"":""Suisse"",""canton"":""Genève"",""district"":""Aigle"",""zone"":""Genève"",""city"":""Genève"",""quarter"":""Champel"",""zip"":""1207"",""line1"":""Rue de la gare 1"",""line2"":""Les bureaux du futures"",""line3"":""Batiment A"",""environmentId"":""Ville"",""altitude"":""1207"",""longitude"":""1207"",""latitude"":""1207""}","{""filename"":""23849.jpg"",""brochure_page"":""1"",""is_plan"":""true"",""is_portal"":""true"",""is_website"":""true""};{""filename"":""23718.jpg"",""brochure_page"":""0.5"",""is_plan"":""false"",""is_portal"":""true"",""is_website"":""false""};{""filename"":""19571.jpg"",""brochure_page"":""0"",""is_plan"":""false"",""is_portal"":""false"",""is_website"":""true""};{""filename"":""23959.jpg"",""brochure_page"":""0"",""is_plan"":""false"",""is_portal"":""false"",""is_website"":""false""}",
+ID,reference,statusId,categoryId,subcategoryId,price,currencyId,brokerAccountId,visibilityId,priceSqm,habitable,land,rooms,bedrooms,bathrooms,floors,availabilityId,promotionId,transactionTypeId,availabilityDate,realLocation,altLocation,photos,documents,floor,volume,amenities,genericTitle,genericDescription,constructionYear,renovationYear,ceiling,isNew
+OLDID00044,referenceTest,Actif,Appartement,Appartement à rénover,1200000,CHF,IDUSER001,Agence,1300,5000,15000,18,9,4,5,Immédiatement,,Vente,2022-08-31,"{""country"":""Suisse"",""canton"":""Genève"",""district"":""Aigle"",""zone"":""Genève"",""city"":""Genève"",""quarter"":""Champel"",""zip"":""1207"",""line1"":""Rue de la gare 1"",""line2"":""Les bureaux du futur"",""line3"":""Batiment A"",""environmentId"":""Montagne"",""altitude"":""1207"",""longitude"":""1207"",""latitude"":""1207""}","{""country"":""Suisse"",""canton"":""Genève"",""district"":""Aigle"",""zone"":""Genève"",""city"":""Genève"",""quarter"":""Champel"",""zip"":""1207"",""line1"":""Rue de la gare 1"",""line2"":""Les bureaux du futures"",""line3"":""Batiment A"",""environmentId"":""Ville"",""altitude"":""1207"",""longitude"":""1207"",""latitude"":""1207""}","{""filename"":""23849.jpg"",""brochure_page"":""1"",""is_plan"":""true"",""is_portal"":""true"",""is_website"":""true""};{""filename"":""23718.jpg"",""brochure_page"":""0.5"",""is_plan"":""false"",""is_portal"":""true"",""is_website"":""false""};{""filename"":""19571.jpg"",""brochure_page"":""0"",""is_plan"":""false"",""is_portal"":""false"",""is_website"":""true""};{""filename"":""23959.jpg"",""brochure_page"":""0"",""is_plan"":""false"",""is_portal"":""false"",""is_website"":""false""}",,2,100,"{""amenity_id"":""amenity_fireplace"",""amenity_value"":""1""}",titre generique, description generique,2015,2016,3,TRUE
 ```
