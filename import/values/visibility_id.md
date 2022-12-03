@@ -16,6 +16,7 @@
 | fr | Groupe | Groupe |
 | fr | Privé | Privé |
 | fr | Réseau MLS | Réseau MLS |
+| fr | visibility_agency | Agence |
 | it | Agenzia | Agenzia |
 | it | Group | Group |
 | it | Privato | Privato |

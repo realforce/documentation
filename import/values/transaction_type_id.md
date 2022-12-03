@@ -10,5 +10,7 @@
 | en | Rental | Rental |
 | fr | Achat | Achat |
 | fr | Location | Location |
+| fr | RENT | Location |
+| fr | SALE | Vente |
 | it | Acquisto | Acquisto |
 | it | Affitto | Affitto |

@@ -54,6 +54,7 @@
 | fr | Réservé | Réservé |
 | fr | Réservé propriétaire | Réservé propriétaire |
 | fr | Réservé, acompte versé | Réservé, acompte versé |
+| fr | status_property_active | Actif |
 | fr | Suspendu | Suspendu |
 | fr | Vendu | Vendu |
 | fr | Vendu concur. | Vendu concur. |

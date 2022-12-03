@@ -442,6 +442,8 @@
 | fr | Appartement sur plan | Appartement sur plan |
 | fr | Appartement traversant | Appartement traversant |
 | fr | Appartement villa | Appartement villa |
+| fr | APPT-1 | Appartement |
+| fr | APPT-2 | Appartement |
 | fr | Arcade | Arcade |
 | fr | Atelier | Atelier |
 | fr | Attique | Attique |
@@ -515,6 +517,7 @@
 | fr | Garage  | Garage  |
 | fr | Garage automobile | Garage automobile |
 | fr | Garage individuel | Garage individuel |
+| fr | GARDEN-0 | Terrain |
 | fr | Gérance | Gérance |
 | fr | Gîte | Gîte |
 | fr | Grange | Grange |
@@ -527,6 +530,7 @@
 | fr | Hôtel  | Hôtel |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtel Restaurant | Hôtel Restaurant |
+| fr | HOUSE-5 | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
 | fr | Immeuble administratif | Immeuble administratif |
@@ -537,6 +541,11 @@
 | fr | Immeuble industriel | Immeuble industriel |
 | fr | Immeuble mixte | Immeuble mixte |
 | fr | Immeubles de rendement | Immeubles de rendement |
+| fr | INDUS-10 | Entreprise |
+| fr | INDUS-19 | Atelier |
+| fr | INDUS-2 | Local commercial |
+| fr | INDUS-38 | Parking |
+| fr | INDUS-5 | Dépot |
 | fr | Institut de beauté  | Institut de beauté |
 | fr | Jardin d'enfants | Jardin d'enfants |
 | fr | Jardinerie | Jardinerie |
@@ -576,6 +585,7 @@
 | fr | Menuiserie | Menuiserie |
 | fr | Mobile Home | Mobile Home |
 | fr | Open space | Open space |
+| fr | PARK-1 | Parking |
 | fr | Parking | Parking |
 | fr | Parking communautaire | Parking communautaire |
 | fr | Parking double | Parking double |
@@ -605,6 +615,7 @@
 | fr | Salon de coiffure | Salon de coiffure |
 | fr | Sandwicherie  | Sandwicherie  |
 | fr | Sauna | Sauna |
+| fr | SECONDARY-1 | Annexe |
 | fr | Showroom | Showroom |
 | fr | Snack | Snack |
 | fr | Solarium | Solarium |

@@ -778,6 +778,9 @@
 | fr | Alarme incendie | Alarme incendie |
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
+| fr | amenity_fireplace | Cheminée |
+| fr | amenity_garage | Garage |
+| fr | amenity_parking | Parking |
 | fr | Animalerie | Animalerie |
 | fr | Animaux acceptés | Animaux acceptés |
 | fr | Antiquaire | Antiquaire |

@@ -54,6 +54,7 @@
 | en | Workshop | Workshop |
 | fr | Annexe | Annexe |
 | fr | Appartement | Appartement |
+| fr | APPT | Appartement |
 | fr | Arcade | Arcade |
 | fr | Atelier | Atelier |
 | fr | Bateau | Bateau |
@@ -64,9 +65,11 @@
 | fr | Dépot | Dépot |
 | fr | Enseigne | Enseigne |
 | fr | Entreprise | Entreprise |
+| fr | GARDEN | Terrain |
 | fr | Halle industrielle | Halle industrielle |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtellerie | Hôtellerie |
+| fr | HOUSE | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
 | fr | Local commercial | Local commercial |
@@ -74,6 +77,7 @@
 | fr | Maison | Maison |
 | fr | Mobile home | Mobile home |
 | fr | Parking | Parking |
+| fr | SECONDARY | Annexe |
 | fr | Surfaces industrielles | Surfaces industrielles |
 | fr | Terrain | Terrain |
 | it | Allegato  | Allegato  |
