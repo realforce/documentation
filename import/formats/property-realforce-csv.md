@@ -16,8 +16,8 @@
 | 10 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price per SQM |
 | 11 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property habitable area |
 | 12 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land area |
-| 13 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of rooms |
-| 14 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of bedrooms |
+| 13 | Float |  | Property number of rooms |
+| 14 | Float |  | Property number of bedrooms |
 | 15 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of bathrooms |
 | 16 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of floors |
 | 17 | string | [Property Availability](../values/property_availability_id.md) | Property availability |

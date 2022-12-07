@@ -15,7 +15,7 @@
 | 28 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property habitable area |
 | 29 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land area |
 | 30 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property usable area |
-| 26 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of rooms |
+| 26 | Float |  | Property number of rooms |
 | 16 | string | [Property Availability](../values/property_availability_id.md) | Property availability |
 | 5 | string | [Transaction Type](../values/transaction_type_id.md) | Property transaction type |
 | 16 | date | d.m.Y | d-m-Y | Y-m-d | Property availability date |
