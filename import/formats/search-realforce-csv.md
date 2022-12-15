@@ -17,25 +17,25 @@
 | 11 | string | [Property View](../values/property_view_id.md) | Semicolon separated list of property views |
 | 12 | string | [Property Sonority](../values/property_sonority_id.md) | Semicolon separated list of property sonorities |
 | 13 | string | [Property Space Type](../values/property_space_type_id.md) | Semicolon separated list of property space types |
-| 14 | string | [Country](../values/country_id.md) | Semicolon separated list of property countries |
-| 15 | string | [Canton](../values/canton_id.md) | Semicolon separated list of property cantons |
-| 16 | string | [District](../values/district_id.md) | Semicolon separated list of property districts |
-| 17 | string | [Zone](../values/zone_id.md) | Semicolon separated list of property zones |
-| 18 | string | [City](../values/city_id.md) | Semicolon separated list of property cities |
-| 19 | string | [Quarter](../values/quarter_id.md) | Semicolon separated list of property quarters |
-| 20 | string | [Zip](../values/zip_id.md) | Semicolon separated list of property zipcodes |
+| 14 |  |  |  |
+| 15 |  |  |  |
+| 16 |  |  |  |
+| 17 |  |  |  |
+| 18 |  |  |  |
+| 19 |  |  |  |
+| 20 |  |  |  |
 | 21 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 22 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 23 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
-| 24 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
-| 25 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area min |
-| 26 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |
-| 27 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property room min |
-| 28 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property room max |
-| 29 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property bedroom min |
-| 30 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property bedroom max |
-| 31 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
-| 32 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
+| 23 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
+| 24 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
+| 25 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
+| 26 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
+| 27 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
+| 28 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
+| 29 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
+| 30 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
+| 31 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
+| 32 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
 | 33 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 34 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |

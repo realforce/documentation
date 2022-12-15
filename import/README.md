@@ -10,6 +10,7 @@ RealForce Import System allows you to import files from third party systems trou
 - [Property - Idxv1 IDX](./formats/property-idxv1-idx.md)
 - [Property - Publimmo IDX](./formats/property-publimmo-idx.md)
 - [Property - Realforce CSV](./formats/property-realforce-csv.md)
+- [Search - Publimmo PUBLIMMOCSV](./formats/search-publimmo-publimmocsv.md)
 - [Search - Realforce CSV](./formats/search-realforce-csv.md)
 
 Can't find a suitable file format to import your data into RealForce ?

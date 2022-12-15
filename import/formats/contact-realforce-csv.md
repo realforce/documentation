@@ -15,7 +15,7 @@
 | 9 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact employment |
 | 10 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact bank name |
 | 11 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact private comment |
-| 12 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact ranking from 1 to 3 |
+| 12 | Integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact ranking from 1 to 3 |
 | 13 | string | [Contact Type](../values/contact_type_id.md) | Semicolon separated list of contact types |
 | 14 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Semicolon separated list of phones |
 | 15 | json | { "notes": string, "value": string, "use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
@@ -35,7 +35,7 @@
 | 29 | string | [Visibility](../values/visibility_id.md) | Contact visibility/sharing |
 | 30 | string | [Country](../values/country_id.md) | Contact nationality |
 | 31 | string | [Family](../values/family_id.md) | Contact family |
-| 32 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact number of children |
+| 32 | Integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact number of children |
 | 33 | string | [Origin](../values/origin_id.md) | Contact origin |
 | 34 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the intermediary broker |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is archived |
