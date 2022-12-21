@@ -32,15 +32,20 @@
 | en | Sir and Madam | Sir and Madam |
 | en | Succession | Succession |
 | fr | Docteur | Docteur |
+| fr | Frau | Madame |
+| fr | Frau und Herr | Madame et Monsieur |
+| fr | Herr | Monsieur |
 | fr | Hoirie | Hoirie |
 | fr | Madame | Madame |
 | fr | Madame et Monsieur | Madame et Monsieur |
+| fr | Madame, Monsieur | Madame et Monsieur |
 | fr | Mademoiselle | Mademoiselle |
 | fr | Maître | Maître |
 | fr | Mesdames | Mesdames |
 | fr | Messieurs | Messieurs |
 | fr | Monsieur | Monsieur |
 | fr | Monsieur et Madame | Monsieur et Madame |
+| fr | Ms, Mr | Madame et Monsieur |
 | fr | Société | Société |
 | fr | Son Excellence Madame | Son Excellence Madame |
 | fr | Son Excellence Monsieur | Son Excellence Monsieur |

@@ -778,6 +778,7 @@
 | fr | Alarme incendie | Alarme incendie |
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
+| fr | amenity_balcony | Balcon |
 | fr | amenity_fireplace | Cheminée |
 | fr | amenity_garage | Garage |
 | fr | amenity_parking | Parking |

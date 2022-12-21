@@ -20,16 +20,16 @@
 | 35 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Search real location |
 | 35 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 31 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
-| 35 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
+| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
+| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
+| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area min |
+| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
+| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
+| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
 | 34 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 34 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |

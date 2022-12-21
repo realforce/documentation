@@ -170,6 +170,7 @@
 | fr | Prospect | Prospect |
 | fr | Restauration | Restauration |
 | fr | Serrurier | Serrurier |
+| fr | Vendeur | Propriétaire |
 | fr | Visites | Visites |
 | it | Acquirente | Acquirente |
 | it | agente immobiliare | agente immobiliare |

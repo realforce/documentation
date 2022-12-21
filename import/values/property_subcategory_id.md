@@ -530,6 +530,8 @@
 | fr | Hôtel  | Hôtel |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtel Restaurant | Hôtel Restaurant |
+| fr | HOUSE-1 | Maison |
+| fr | HOUSE-3 | Maison |
 | fr | HOUSE-5 | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |

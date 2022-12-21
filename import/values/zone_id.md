@@ -7,3 +7,9 @@ You will only find below values that have a different spelling than the one Real
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| fr | Begnins | Nyon |
+| fr | Coppet | Terre Sainte |
+| fr | Crans-près-Céligny | Terre Sainte |
+| fr | LeVaud | Nyon |
+| fr | Rolle | Nyon |
+| fr | Saint-Cergue | Nyon |

@@ -26,16 +26,16 @@
 | 20 |  |  |  |
 | 21 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 22 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 23 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
-| 24 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
-| 25 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
-| 26 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
-| 27 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
-| 28 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
-| 29 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
-| 30 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
-| 31 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
-| 32 | Float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
+| 23 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
+| 24 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
+| 25 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area min |
+| 26 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |
+| 27 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
+| 28 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
+| 29 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
+| 30 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
+| 31 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
+| 32 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
 | 33 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 34 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
