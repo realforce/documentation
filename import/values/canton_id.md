@@ -19,3 +19,4 @@ You will only find below values that have a different spelling than the one Real
 | fr | Mont-sur-Rolle | Vaud |
 | fr | Nyon | Vaud |
 | fr | Trélex | Vaud |
+| fr | Zug | Zoug |
