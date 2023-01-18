@@ -8,7 +8,7 @@
 | 16 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
 | 1 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Contact ID this search is linked to |
 | 7 | string | [Search Status](../values/search_status_id.md) | Search status |
-| 35 | string | [Transaction Type](../values/transaction_type_id.md) | Property transaction type |
+| 35 | string | [Search Transaction Type](../values/search_transaction_type_id.md) | Property transaction type |
 | 35 | string | [Property Category](../values/property_category_id.md) | Property category |
 | 35 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
 | 8 | string | [Property Position](../values/property_position_id.md) | Semicolon separated list of property positions |

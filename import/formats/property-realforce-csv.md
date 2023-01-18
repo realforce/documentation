@@ -22,7 +22,7 @@
 | 16 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of floors |
 | 17 | string | [Property Availability](../values/property_availability_id.md) | Property availability |
 | 18 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Promotion ID |
-| 19 | string | [Transaction Type](../values/transaction_type_id.md) | Property transaction type |
+| 19 | string | [Property Transaction Type](../values/property_transaction_type_id.md) | Property transaction type |
 | 20 | date | d.m.Y | d-m-Y | Y-m-d | Property availability date |
 | 21 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Property real location |
 | 22 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Property alternate location |
