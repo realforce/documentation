@@ -12,6 +12,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | CAROUGE GE | Carouge |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
+| fr | Dompierre FR | Dompierre |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | GRANGES-MARNAND | Granges-près-Marnand |
 | fr | LAUSANNE 26 | Lausanne |

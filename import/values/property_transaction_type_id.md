@@ -9,6 +9,8 @@
 | en | Rental | Rental |
 | en | Sale | Sale |
 | fr | Location | Location |
+| fr | RENT | Location |
+| fr | SALE | Vente |
 | fr | Vente | Vente |
 | it | Affitto | Affitto |
 | it | Vendita | Vendita |

@@ -779,9 +779,17 @@
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
 | fr | amenity_balcony | Balcon |
+| fr | amenity_elevator | Ascenseur |
 | fr | amenity_fireplace | Cheminée |
 | fr | amenity_garage | Garage |
+| fr | amenity_high_school | Ecole secondaire |
+| fr | amenity_motorway | Entrée/Sortie autoroute |
 | fr | amenity_parking | Parking |
+| fr | amenity_public_tansport | Proche Transports publics |
+| fr | amenity_school_primary | Ecole primaire |
+| fr | amenity_shop | Commerces |
+| fr | amenity_swimming_pool | Piscine |
+| fr | amenity_wheelchair | Praticable en chaise roulante |
 | fr | Animalerie | Animalerie |
 | fr | Animaux acceptés | Animaux acceptés |
 | fr | Antiquaire | Antiquaire |

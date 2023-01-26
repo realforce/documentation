@@ -72,6 +72,7 @@
 | fr | HOUSE | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
+| fr | INDUS | Local commercial |
 | fr | Local commercial | Local commercial |
 | fr | Logement de vacances | Logement de vacances |
 | fr | Maison | Maison |
