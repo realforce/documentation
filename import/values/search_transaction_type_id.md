@@ -9,6 +9,8 @@
 | en | Purchase | Purchase |
 | en | Rental | Rental |
 | fr | Achat | Achat |
+| fr | Acheter | Achat |
 | fr | Location | Location |
+| fr | Louer | Location |
 | it | Acquisto | Acquisto |
 | it | Affitto | Affitto |
