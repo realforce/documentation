@@ -8,6 +8,7 @@
 | de | Camping | Camping |
 | de | Chalet | Chalet |
 | de | Ferienwohnung | Ferienwohnung |
+| de | Garage | Garage |
 | de | Gebäude | Gebäude |
 | de | Geschäftslokal | Geschäftslokal |
 | de | Grundstück | Grundstück |
@@ -37,6 +38,7 @@
 | en | Car park | Car park |
 | en | Chalet | Chalet |
 | en | Flat | Flat |
+| en | Garage | Garage |
 | en | Holiday home | Holiday home |
 | en | Hotel | Hotel |
 | en | House | House |
@@ -65,6 +67,7 @@
 | fr | Dépot | Dépot |
 | fr | Enseigne | Enseigne |
 | fr | Entreprise | Entreprise |
+| fr | Garage | Garage |
 | fr | GARDEN | Terrain |
 | fr | Halle industrielle | Halle industrielle |
 | fr | Hôtel particulier | Hôtel particulier |
@@ -92,6 +95,7 @@
 | it | Casa | Casa |
 | it | Chalet | Chalet |
 | it | Chiavi in mano | Chiavi in mano |
+| it | Garage | Garage |
 | it | Hôtel particulier | Hôtel particulier |
 | it | Immobile | Immobile |
 | it | Insegna | Insegna |
