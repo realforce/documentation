@@ -4,6 +4,7 @@
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| de | Autogarage  | Autogarage  |
 | de | Boot | Boot |
 | de | Camping | Camping |
 | de | Chalet | Chalet |
@@ -67,7 +68,7 @@
 | fr | Dépot | Dépot |
 | fr | Enseigne | Enseigne |
 | fr | Entreprise | Entreprise |
-| fr | Garage | Garage |
+| fr | Garage | Garage  |
 | fr | GARDEN | Terrain |
 | fr | Halle industrielle | Halle industrielle |
 | fr | Hôtel particulier | Hôtel particulier |

@@ -58,6 +58,7 @@
 | de | Festsaal | Festsaal |
 | de | Firma | Firma |
 | de | Fleischerei  | Fleischerei  |
+| de | Garage | Garage |
 | de | Garage aussen | Garage aussen |
 | de | Garage innen | Garage innen |
 | de | Gartencenter | Gartencenter |
@@ -514,7 +515,7 @@
 | fr | Fromagerie | Fromagerie |
 | fr | Galerie d'art | Galerie d'art |
 | fr | Galetas | Galetas |
-| fr | Garage  | Garage  |
+| fr | Garage  | Garage |
 | fr | Garage automobile | Garage automobile |
 | fr | Garage individuel | Garage individuel |
 | fr | GARDEN-0 | Terrain |
