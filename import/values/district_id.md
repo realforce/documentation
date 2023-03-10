@@ -33,6 +33,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Rolle | Nyon |
 | fr | Saint-Livres | Morges |
 | fr | Saint-Oyens | Morges |
+| fr | Saxon | Martigny |
 | fr | Tannay | Nyon |
 | fr | Trélex | Nyon |
 | fr | Versoix | Genève |
