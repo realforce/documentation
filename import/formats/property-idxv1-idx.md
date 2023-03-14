@@ -10,6 +10,7 @@
 | 3 | string | [Property Category](../values/property_category_id.md) | Property category |
 | 3,4 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
 | 5,19,20 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price |
+| 21 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property monthly charges |
 | 23 | string | [Currency](../values/currency_id.md) | Property currency |
 | 80 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
 | 28 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property habitable area |
