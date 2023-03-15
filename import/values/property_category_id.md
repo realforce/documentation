@@ -65,6 +65,7 @@
 | fr | Camping | Camping |
 | fr | Chalet | Chalet |
 | fr | Clés-en-main | Clés-en-main |
+| fr | Commercial | Local commercial |
 | fr | Dépot | Dépot |
 | fr | Enseigne | Enseigne |
 | fr | Entreprise | Entreprise |

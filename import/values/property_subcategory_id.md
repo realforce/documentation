@@ -483,6 +483,7 @@
 | fr | Château | Château |
 | fr | Cinéma | Cinéma |
 | fr | Commerce | Commerce |
+| fr | Commercial | Local commercial |
 | fr | Contigüe | Contigüe |
 | fr | Dépendance | Dépendance |
 | fr | Dépôt | Dépot |
