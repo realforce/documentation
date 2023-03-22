@@ -16,6 +16,7 @@
 | en | Limited broker | Limited broker |
 | en | Manager | Manager |
 | en | Public | Public |
+| fr | admin | Administrateur |
 | fr | Administrateur | Administrateur |
 | fr | Assistant(e) | Assistant(e) |
 | fr | Courtier | Courtier |
