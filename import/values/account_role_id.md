@@ -21,6 +21,7 @@
 | fr | Assistant(e) | Assistant(e) |
 | fr | Courtier | Courtier |
 | fr | Courtier Restreint | Courtier Restreint |
+| fr | Gérant | Administrateur |
 | fr | Manager | Manager |
 | fr | Public | Public |
 | it | Amministratore | Amministratore |

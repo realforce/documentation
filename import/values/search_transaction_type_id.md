@@ -12,5 +12,6 @@
 | fr | Acheter | Achat |
 | fr | Location | Location |
 | fr | Louer | Location |
+| fr | Vente | Achat |
 | it | Acquisto | Acquisto |
 | it | Affitto | Affitto |
