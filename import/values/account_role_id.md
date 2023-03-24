@@ -19,11 +19,14 @@
 | fr | admin | Administrateur |
 | fr | Administrateur | Administrateur |
 | fr | Assistant(e) | Assistant(e) |
+| fr | Commercial | Courtier |
 | fr | Courtier | Courtier |
 | fr | Courtier Restreint | Courtier Restreint |
 | fr | Gérant | Administrateur |
 | fr | Manager | Manager |
 | fr | Public | Public |
+| fr | Responsable agence | Assistant(e) |
+| fr | Stagiaire | Public |
 | it | Amministratore | Amministratore |
 | it | Assistente | Assistente |
 | it | Manager | Manager |

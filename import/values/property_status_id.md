@@ -42,9 +42,12 @@
 | en | Suspended | Suspended |
 | fr | # | # |
 | fr | Actif | Actif |
+| fr | Attente mandat | Prospect |
+| fr | Autre | Actif |
 | fr | Chantier ouvert | Chantier ouvert |
 | fr | Contrat expiré | Contrat expiré |
 | fr | Contrat résilié | Contrat résilié |
+| fr | En cours | Actif |
 | fr | En cours d'insertion | En cours d'insertion |
 | fr | Loué | Loué |
 | fr | Loué concur. | Loué concur. |
@@ -54,11 +57,18 @@
 | fr | Réservé | Réservé |
 | fr | Réservé propriétaire | Réservé propriétaire |
 | fr | Réservé, acompte versé | Réservé, acompte versé |
+| fr | Retiré par l'agence | Suspendu |
+| fr | Retiré par le propriétaire | Suspendu |
+| fr | Sous offre / réservation | Réservé |
 | fr | status_property_active | Actif |
 | fr | Suspendu | Suspendu |
 | fr | Vendu | Vendu |
 | fr | Vendu concur. | Vendu concur. |
 | fr | Vendu p. propriétaire | Vendu p. propriétaire |
+| fr | Vendu/loué par l'agence | Vendu |
+| fr | Vendu/loué par le propriétaire | Vendu p. propriétaire |
+| fr | Vendu/loué par un confrère | Vendu concur. |
+| fr | Vente/location annulée | Suspendu |
 | it | # | # |
 | it | Affittato | Affittato |
 | it | Affittato concorr. | Affittato concorr. |

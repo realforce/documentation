@@ -11,6 +11,7 @@
 | fr | Achat | Achat |
 | fr | Acheter | Achat |
 | fr | Location | Location |
+| fr | Location saisonnière | Location |
 | fr | Louer | Location |
 | fr | Vente | Achat |
 | it | Acquisto | Acquisto |

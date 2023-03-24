@@ -9,6 +9,10 @@ You will only find below values that have a different spelling than the one Real
 | :--- | :--- | :--- |
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
+| fr | Biel/Bienne | Biel / Bienne |
+| fr | Blonay, Avenches | Blonay |
+| fr | Buchillon, Aclens | Buchillon |
+| fr | Bussigny-près-Lausanne | Bussigny |
 | fr | CAROUGE GE | Carouge |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
