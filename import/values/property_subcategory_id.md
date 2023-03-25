@@ -562,12 +562,14 @@
 | fr | Magasin  | Magasin  |
 | fr | Maison | Maison |
 | fr | Maison à rénover | Maison à rénover |
+| fr | Maison Appartement | Maison |
 | fr | Maison contemporaine | Maison contemporaine |
 | fr | Maison d'été | Maison d'été |
 | fr | Maison de Maître | Maison de Maître |
 | fr | Maison de plage | Maison de plage |
 | fr | Maison de plain-pied | Maison de plain-pied |
 | fr | Maison de vacances | Maison de vacances |
+| fr | Maison de village | Maison |
 | fr | Maison de ville | Maison de ville |
 | fr | Maison double | Maison double |
 | fr | Maison en pierre | Maison en pierre |
@@ -605,6 +607,7 @@
 | fr | Place pour moto extérieure | Place pour moto extérieure |
 | fr | Place pour moto intérieure | Place pour moto intérieure |
 | fr | Pressing | Pressing |
+| fr | Propriété | Maison |
 | fr | Propriété viticole | Propriété viticole |
 | fr | Pub | Pub |
 | fr | Quartier Ger | Quartier Ger |
@@ -632,6 +635,7 @@
 | fr | Terrain agricole | Terrain agricole |
 | fr | Terrain artisanal | Terrain artisanal |
 | fr | Terrain commercial | Terrain commercial |
+| fr | Terrain constructible | Terrain |
 | fr | Terrain équipé | Terrain équipé |
 | fr | Terrain inconstructible | Terrain inconstructible |
 | fr | Terrain industriel | Terrain industriel |
@@ -641,6 +645,7 @@
 | fr | Villa | Villa |
 | fr | Villa clés-en-main | Villa clés-en-main |
 | fr | Villa contiguë | Villa contiguë |
+| fr | Villa jumelée | Maison |
 | fr | Vitrine | Vitrine |
 | fr | Voilier | Voilier |
 | fr | Wellness  | Wellness  |

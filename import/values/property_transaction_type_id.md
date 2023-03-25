@@ -9,6 +9,7 @@
 | en | Rental | Rental |
 | en | Sale | Sale |
 | fr | Location | Location |
+| fr | Programme | Vente |
 | fr | RENT | Location |
 | fr | SALE | Vente |
 | fr | Vente | Vente |

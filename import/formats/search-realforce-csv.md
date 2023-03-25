@@ -33,7 +33,7 @@
 | 27 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 28 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
 | 29 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
-| 30 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Search is hidden in matching |
+| 30 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Search is hidden in global matching |
 
 ## Sample
 

@@ -57,18 +57,26 @@
 | en | Workshop | Workshop |
 | fr | Annexe | Annexe |
 | fr | Appartement | Appartement |
+| fr | Appartement villa | Appartement |
 | fr | APPT | Appartement |
 | fr | Arcade | Arcade |
 | fr | Atelier | Atelier |
+| fr | Attique | Appartement |
 | fr | Bateau | Bateau |
 | fr | Bureau | Bureau |
 | fr | Camping | Camping |
 | fr | Chalet | Chalet |
+| fr | Chambre | Appartement |
+| fr | Château | Maison |
 | fr | Clés-en-main | Clés-en-main |
 | fr | Commercial | Local commercial |
 | fr | Dépot | Dépot |
+| fr | Duplex | Appartement |
 | fr | Enseigne | Enseigne |
+| fr | Ensemble immobilier | Immeuble |
+| fr | Entrepôt | Halle industrielle |
 | fr | Entreprise | Entreprise |
+| fr | Ferme | Maison |
 | fr | Garage | Garage |
 | fr | GARDEN | Terrain |
 | fr | Halle industrielle | Halle industrielle |
@@ -78,14 +86,27 @@
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
 | fr | INDUS | Local commercial |
+| fr | Local | Local commercial |
 | fr | Local commercial | Local commercial |
+| fr | Loft | Appartement |
 | fr | Logement de vacances | Logement de vacances |
 | fr | Maison | Maison |
+| fr | Maison Appartement | Maison |
+| fr | Maison de village | Maison |
+| fr | Maison jumelée | Maison |
+| fr | Manoir | Maison |
 | fr | Mobile home | Mobile home |
 | fr | Parking | Parking |
+| fr | Propriété | Maison |
+| fr | Remise | Dépot |
 | fr | SECONDARY | Annexe |
+| fr | Studio | Appartement |
 | fr | Surfaces industrielles | Surfaces industrielles |
 | fr | Terrain | Terrain |
+| fr | Terrain constructible | Terrain |
+| fr | Triplex | Appartement |
+| fr | Villa | Maison |
+| fr | Villa jumelée | Maison |
 | it | Allegato  | Allegato  |
 | it | Alloggio vacanze | Alloggio vacanze |
 | it | Appartamento | Appartamento |

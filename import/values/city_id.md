@@ -9,6 +9,7 @@ You will only find below values that have a different spelling than the one Real
 | :--- | :--- | :--- |
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
+| fr | Bellerive VD | Bellerive |
 | fr | Biel/Bienne | Biel / Bienne |
 | fr | Blonay, Avenches | Blonay |
 | fr | Buchillon, Aclens | Buchillon |
@@ -16,22 +17,45 @@ You will only find below values that have a different spelling than the one Real
 | fr | CAROUGE GE | Carouge |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
+| fr | Collex | Collex-Bossy |
+| fr | Collombey | Collombey-Muraz |
+| fr | Colombier B | Colombier |
+| fr | Cottens FR | Cottens |
+| fr | Cugy | Cugy (FR) |
+| fr | Cugy VD | Cugy (VD) |
 | fr | Dompierre FR | Dompierre |
+| fr | Dompierre VD | Dompierre |
+| fr | Dompierre VD VD | Dompierre |
+| fr | Ecublens | Écublens (FR) |
+| fr | Ecublens VD | Écublens (VD) |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | GRANGES-MARNAND | Granges-près-Marnand |
+| fr | Grangettes-près-Romont | Grangettes |
+| fr | La Joux FR | La Joux |
 | fr | LAUSANNE 26 | Lausanne |
 | fr | LeVaud | Le Vaud |
+| fr | Lully VD | Lully |
+| fr | Lully VD VD | Lully |
 | fr | MEX VD | Mex |
+| fr | Mézières Lavaux | Mézières |
 | fr | MONT-PELERIN | Le Mont-Pèlerin |
+| fr | Montet (Glâne) | Montet |
 | fr | MORAT | Morat (Murten) |
+| fr | Muraz (Collombey) | Collombey-Muraz |
 | fr | OLLON VD | Ollon |
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
+| fr | Romont FR | Romont |
+| fr | Saint-sulpice VD | Saint-Sulpice |
+| fr | Sâles FR | Sâles |
 | fr | ST-AUBIN FR | Saint-Aubin |
+| fr | St-Barthélemy VD | Saint-Barthélemy |
 | fr | ST-LEGIER-LA-CHIESAZ | Saint-Légier-La Chiésaz |
 | fr | ST-PREX | Saint-Prex |
+| fr | St-Saphorin (Lavaux) | Saint-Saphorin |
 | fr | ST-SULPICE VD | Saint-Sulpice |
 | fr | STE-CROIX | Sainte-Croix |
+| fr | Tannay VD | Tannay |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
 | fr | VILLENEUVE VD | Villeneuve |
 | fr | Villeneuve(VD) | Villeneuve |

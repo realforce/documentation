@@ -15,7 +15,7 @@ RealForce Import System allows you to import files from third party systems trou
 - [Property - Idxv3 IDX](./formats/property-idxv3-idx.md)
 - [Property - Publimmo IDX](./formats/property-publimmo-idx.md)
 - [Property - Realforce CSV](./formats/property-realforce-csv.md)
-- [Search - Apimo CSV](./formats/search-apimo-csv.md)
+- [Search - Apimo APIMOCSV](./formats/search-apimo-apimocsv.md)
 - [Search - Publimmo PUBLIMMOCSV](./formats/search-publimmo-publimmocsv.md)
 - [Search - Realforce CSV](./formats/search-realforce-csv.md)
 
