@@ -562,7 +562,6 @@
 | fr | Magasin  | Magasin  |
 | fr | Maison | Maison |
 | fr | Maison à rénover | Maison à rénover |
-| fr | Maison Appartement | Maison |
 | fr | Maison contemporaine | Maison contemporaine |
 | fr | Maison d'été | Maison d'été |
 | fr | Maison de Maître | Maison de Maître |
@@ -645,7 +644,6 @@
 | fr | Villa | Villa |
 | fr | Villa clés-en-main | Villa clés-en-main |
 | fr | Villa contiguë | Villa contiguë |
-| fr | Villa jumelée | Maison |
 | fr | Vitrine | Vitrine |
 | fr | Voilier | Voilier |
 | fr | Wellness  | Wellness  |

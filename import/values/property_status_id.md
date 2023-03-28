@@ -43,7 +43,6 @@
 | fr | # | # |
 | fr | Actif | Actif |
 | fr | Attente mandat | Prospect |
-| fr | Autre | Actif |
 | fr | Chantier ouvert | Chantier ouvert |
 | fr | Contrat expiré | Contrat expiré |
 | fr | Contrat résilié | Contrat résilié |

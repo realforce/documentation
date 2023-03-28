@@ -91,7 +91,6 @@
 | fr | Loft | Appartement |
 | fr | Logement de vacances | Logement de vacances |
 | fr | Maison | Maison |
-| fr | Maison Appartement | Maison |
 | fr | Maison de village | Maison |
 | fr | Maison jumelée | Maison |
 | fr | Manoir | Maison |
