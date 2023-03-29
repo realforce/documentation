@@ -33,7 +33,7 @@
 | 110 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property ceiling height |
 | 163 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property number of floors |
 | 164 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property year renovated |
-| 171 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | property is new |
+| 171 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
 | 181 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property visit3d |
 
 ## Sample

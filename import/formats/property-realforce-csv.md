@@ -36,7 +36,7 @@
 | 30 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property year build |
 | 31 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property year renovated |
 | 32 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property ceiling height |
-| 33 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | property is new |
+| 33 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
 | 34 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property usable area |
 | 35 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property visit3d |
 | 36 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property monthly charges |
