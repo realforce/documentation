@@ -63,12 +63,15 @@
 | fr | Atelier | Atelier |
 | fr | Attique | Appartement |
 | fr | Bateau | Bateau |
+| fr | Box | Dépot |
 | fr | Bureau | Bureau |
 | fr | Camping | Camping |
+| fr | Cave | Dépot |
 | fr | Chalet | Chalet |
 | fr | Chambre | Appartement |
 | fr | Château | Maison |
 | fr | Clés-en-main | Clés-en-main |
+| fr | Commerce | Local commercial |
 | fr | Commercial | Local commercial |
 | fr | Dépot | Dépot |
 | fr | Duplex | Appartement |
@@ -88,6 +91,7 @@
 | fr | INDUS | Local commercial |
 | fr | Local | Local commercial |
 | fr | Local commercial | Local commercial |
+| fr | Locaux | Local commercial |
 | fr | Loft | Appartement |
 | fr | Logement de vacances | Logement de vacances |
 | fr | Maison | Maison |

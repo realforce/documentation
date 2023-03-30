@@ -11,22 +11,32 @@ You will only find below values that have a different spelling than the one Real
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
 | fr | AttaLens VS | Attalens |
+| fr | Baden-Baden | Baden |
 | fr | BalLens VS | Ballens |
+| fr | Basel | Bâle |
 | fr | Bellerive VD | Bellerive |
+| fr | Bern | Berne |
+| fr | Bernex GE | Bernex |
 | fr | Biel/Bienne | Biel / Bienne |
 | fr | Blonay, Avenches | Blonay |
 | fr | BoffLens VS | Bofflens |
 | fr | BouLens VS | Boulens |
+| fr | Boussens VD | Boussens |
 | fr | BrembLens VS | Bremblens |
 | fr | Buchillon, Aclens | Buchillon |
 | fr | Bussigny-près-Lausanne | Bussigny |
+| fr | Bussigny-près-Lausanne VD | Bussigny |
 | fr | CAROUGE GE | Carouge |
+| fr | Chailly-Montreux VD | Chailly-Montreux |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
+| fr | Clarens VD | Clarens |
 | fr | Collex | Collex-Bossy |
 | fr | Collombey | Collombey-Muraz |
+| fr | Collombey VS | Collombey-Muraz |
 | fr | Colombier B | Colombier |
 | fr | Colombier NE | Colombier |
+| fr | Cossonay-Gare | Cossonay |
 | fr | Cottens FR | Cottens |
 | fr | Cottens VD | Cottens |
 | fr | Cugy | Cugy (FR) |
@@ -42,8 +52,12 @@ You will only find below values that have a different spelling than the one Real
 | fr | EcubLens VS VD | Écublens (VD) |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | FerLens VS | Ferlens |
+| fr | Gland VD | Gland |
+| fr | Gland VD VD | Gland |
+| fr | Grandvaux VD | Grandvaux |
 | fr | GRANGES-MARNAND | Granges-près-Marnand |
 | fr | Grangettes-près-Romont | Grangettes |
+| fr | Grangettes-près-Romont FR | Grangettes |
 | fr | La Joux FR | La Joux |
 | fr | LAUSANNE 26 | Lausanne |
 | fr | Lens VS | Lens |
@@ -53,20 +67,26 @@ You will only find below values that have a different spelling than the one Real
 | fr | MEX VD | Mex |
 | fr | Mézières Lavaux | Mézières |
 | fr | Mézières VD | Mézières |
+| fr | Mies-Tannay VD | Mies-Tannay |
 | fr | Mollens VS | Mollens |
 | fr | MolLens VS VS | Mollens |
 | fr | MONT-PELERIN | Le Mont-Pèlerin |
 | fr | Montet (Glâne) | Montet |
+| fr | Montreux VD | Montreux |
 | fr | MORAT | Morat (Murten) |
 | fr | Muraz (Collombey) | Collombey-Muraz |
 | fr | OLLON VD | Ollon |
 | fr | OuLens VS-sous-EchalLens VS | Oulens-sous-Échallens |
+| fr | Perroy VD | Perroy |
+| fr | Pregny | Pregny-Chambésy |
+| fr | Puidoux-Gare | Puidoux |
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
 | fr | Romont FR | Romont |
 | fr | Saint-sulpice VD | Saint-Sulpice |
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
 | fr | Sâles FR | Sâles |
+| fr | Savigny VD | Savigny |
 | fr | SenarcLens VS | Senarclens |
 | fr | ST-AUBIN FR | Saint-Aubin |
 | fr | St-Barthélemy VD | Saint-Barthélemy |
@@ -83,4 +103,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | VuffLens VS-la-Ville | Vufflens-la-Ville |
 | fr | VuffLens VS-le-Château | Vufflens-le-Château |
 | fr | VUFFLENS-VILLE | Vufflens-la-Ville |
+| fr | Winterthur | Winterthour |
 | fr | YVERDON | Yverdon-les-Bains |
+| fr | Zug | Zoug |
+| fr | Zug (Zug) | Zoug |

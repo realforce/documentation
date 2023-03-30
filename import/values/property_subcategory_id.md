@@ -557,6 +557,7 @@
 | fr | Laboratoire  | Laboratoire  |
 | fr | Local | Local |
 | fr | Local commercial | Local commercial |
+| fr | Locaux | Local commercial |
 | fr | Loft | Loft |
 | fr | Lotissement | Lotissement |
 | fr | Magasin  | Magasin  |
