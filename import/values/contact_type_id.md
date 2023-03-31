@@ -116,6 +116,7 @@
 | en | Viewings | Viewings |
 | en | Yacht broker | Yacht broker |
 | fr | Acheteur | Acheteur |
+| fr | Agence immobilière | Agent immobilier |
 | fr | Agent immobilier | Agent immobilier |
 | fr | Ambassadeur | Ambassadeur |
 | fr | Annonceur | Annonceur |
@@ -134,7 +135,9 @@
 | fr | Commerçant | Commerçant |
 | fr | Comptable | Comptable |
 | fr | Concierge | Concierge |
+| fr | Conciergerie | Concierge |
 | fr | Constructeur | Constructeur |
+| fr | Courtier | Courtier immobilier |
 | fr | Courtier de yacht | Courtier de yacht |
 | fr | Courtier immobilier | Courtier immobilier |
 | fr | Courtier Location | Courtier Location |

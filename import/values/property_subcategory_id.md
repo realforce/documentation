@@ -445,6 +445,7 @@
 | fr | Appartement villa | Appartement villa |
 | fr | APPT-1 | Appartement |
 | fr | APPT-2 | Appartement |
+| fr | APPT-7 | Appartement |
 | fr | Arcade | Arcade |
 | fr | Atelier | Atelier |
 | fr | Attique | Attique |
@@ -520,6 +521,8 @@
 | fr | Garage automobile | Garage automobile |
 | fr | Garage individuel | Garage individuel |
 | fr | GARDEN-0 | Terrain |
+| fr | GASTRO-1 | Hôtellerie |
+| fr | GASTRO-2 | Hôtellerie |
 | fr | Gérance | Gérance |
 | fr | Gîte | Gîte |
 | fr | Grange | Grange |
@@ -533,8 +536,10 @@
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtel Restaurant | Hôtel Restaurant |
 | fr | HOUSE-1 | Maison |
+| fr | HOUSE-12 | Chalet |
 | fr | HOUSE-3 | Maison |
 | fr | HOUSE-5 | Maison |
+| fr | HOUSE-7 | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
 | fr | Immeuble administratif | Immeuble administratif |
@@ -546,6 +551,7 @@
 | fr | Immeuble mixte | Immeuble mixte |
 | fr | Immeubles de rendement | Immeubles de rendement |
 | fr | INDUS-10 | Entreprise |
+| fr | INDUS-18 | Arcade |
 | fr | INDUS-19 | Atelier |
 | fr | INDUS-2 | Local commercial |
 | fr | INDUS-38 | Parking |
@@ -607,6 +613,7 @@
 | fr | Place pour moto extérieure | Place pour moto extérieure |
 | fr | Place pour moto intérieure | Place pour moto intérieure |
 | fr | Pressing | Pressing |
+| fr | PROP-1 | Terrain |
 | fr | Propriété | Maison |
 | fr | Propriété viticole | Propriété viticole |
 | fr | Pub | Pub |

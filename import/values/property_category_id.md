@@ -100,6 +100,7 @@
 | fr | Manoir | Maison |
 | fr | Mobile home | Mobile home |
 | fr | Parking | Parking |
+| fr | PROP | Terrain |
 | fr | Propriété | Maison |
 | fr | Remise | Dépot |
 | fr | SECONDARY | Annexe |
