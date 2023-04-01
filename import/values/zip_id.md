@@ -7,3 +7,4 @@ You will only find below values that have a different spelling than the one Real
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| fr | 1919 |  |

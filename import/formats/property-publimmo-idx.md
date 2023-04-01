@@ -4,8 +4,7 @@
 
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
-| 6,7,8 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | @rfDoc#ignore |
-| 8 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property ID in your system |
+| 6,7,8 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property ID in your system |
 | 6,7,8 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property reference |
 | 3 | string | [Property Category](../values/property_category_id.md) | Property category |
 | 3,4 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |

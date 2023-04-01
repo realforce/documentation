@@ -10,6 +10,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Begnins | Nyon |
 | fr | Coppet | Terre Sainte |
 | fr | Crans-près-Céligny | Terre Sainte |
+| fr | Gryon | Aigle |
 | fr | LeVaud | Nyon |
 | fr | Rolle | Nyon |
 | fr | Saint-Cergue | Nyon |
+| fr | Yverdon-les-Bains | Jura-Nord vaudois |

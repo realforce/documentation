@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- |
 | 1 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search ID in your system |
 | 16 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
-| 1 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Contact ID this search is linked to |
+| 6,25,26,27 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Contact ID this search is linked to |
 | 7 | string | [Search Status](../values/search_status_id.md) | Search status |
 | 35 | string | [Search Transaction Type](../values/search_transaction_type_id.md) | Property transaction type |
 | 35 | string | [Property Category](../values/property_category_id.md) | Property category |

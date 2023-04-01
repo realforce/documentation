@@ -426,6 +426,7 @@
 | en | Woodshed | Woodshed |
 | en | Workshop | Workshop |
 | fr | Agence de voyage | Agence de voyage |
+| fr | Ancien | Appartement |
 | fr | Appartement | Appartement |
 | fr | Appartement à rénover | Appartement à rénover |
 | fr | Appartement avec jardin | Appartement avec jardin |
@@ -613,6 +614,7 @@
 | fr | Place pour moto extérieure | Place pour moto extérieure |
 | fr | Place pour moto intérieure | Place pour moto intérieure |
 | fr | Pressing | Pressing |
+| fr | Promotions/Neuf | Appartement |
 | fr | PROP-1 | Terrain |
 | fr | Propriété | Maison |
 | fr | Propriété viticole | Propriété viticole |

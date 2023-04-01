@@ -4,7 +4,7 @@
 
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
-| 1 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact ID in your system |
+| 6,25,26,27 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact ID in your system |
 | 2 | string | [Contact Title](../values/contact_title_id.md) | Contact title |
 | 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact lastname |
 | 4 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |

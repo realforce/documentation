@@ -26,6 +26,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Buchillon, Aclens | Buchillon |
 | fr | Bussigny-près-Lausanne | Bussigny |
 | fr | Bussigny-près-Lausanne VD | Bussigny |
+| fr | Capellen | Luxembourg  |
 | fr | CAROUGE GE | Carouge |
 | fr | Chailly-Montreux VD | Chailly-Montreux |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
@@ -50,20 +51,25 @@ You will only find below values that have a different spelling than the one Real
 | fr | Ecublens VD | Écublens (VD) |
 | fr | EcubLens VS | Écublens (VD) |
 | fr | EcubLens VS VD | Écublens (VD) |
+| fr | Esch-sur-Alzette | Luxembourg  |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | FerLens VS | Ferlens |
+| fr | Frensdorf | Berlin |
 | fr | Gland VD | Gland |
 | fr | Gland VD VD | Gland |
 | fr | Grandvaux VD | Grandvaux |
 | fr | GRANGES-MARNAND | Granges-près-Marnand |
 | fr | Grangettes-près-Romont | Grangettes |
 | fr | Grangettes-près-Romont FR | Grangettes |
+| fr | La Comballaz | Ormont-Dessous |
+| fr | La Croix | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
 | fr | LAUSANNE 26 | Lausanne |
 | fr | Lens VS | Lens |
 | fr | LeVaud | Le Vaud |
 | fr | Lully VD | Lully |
 | fr | Lully VD VD | Lully |
+| fr | Maxilly-sur-Léman | Évian-les-Bains |
 | fr | MEX VD | Mex |
 | fr | Mézières Lavaux | Mézières |
 | fr | Mézières VD | Mézières |
@@ -83,10 +89,12 @@ You will only find below values that have a different spelling than the one Real
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
 | fr | Romont FR | Romont |
+| fr | Saint-Cierges | St-Cierges |
 | fr | Saint-sulpice VD | Saint-Sulpice |
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
 | fr | Sâles FR | Sâles |
 | fr | Savigny VD | Savigny |
+| fr | Sédeilles | Villarzel |
 | fr | SenarcLens VS | Senarclens |
 | fr | ST-AUBIN FR | Saint-Aubin |
 | fr | St-Barthélemy VD | Saint-Barthélemy |

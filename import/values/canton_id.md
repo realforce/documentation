@@ -21,8 +21,13 @@ You will only find below values that have a different spelling than the one Real
 | fr | LeVaud | Vaud |
 | fr | Marchissy | Vaud |
 | fr | Mont-sur-Rolle | Vaud |
+| fr | Monthey | Valais |
+| fr | Montreux | Vaud |
 | fr | Nyon | Vaud |
 | fr | OllonVD | Vaud |
+| fr | Savigny | Vaud |
 | fr | Trélex | Vaud |
 | fr | Vevey | Vaud |
+| fr | Villars-sur-Ollon | Vaud |
+| fr | Yverdon-les-Bains | Vaud |
 | fr | Zug | Zoug |

@@ -82,6 +82,7 @@
 | fr | Ferme | Maison |
 | fr | Garage | Garage |
 | fr | GARDEN | Terrain |
+| fr | GASTRO | Hôtellerie |
 | fr | Halle industrielle | Halle industrielle |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtellerie | Hôtellerie |

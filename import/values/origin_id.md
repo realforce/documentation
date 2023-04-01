@@ -15,6 +15,7 @@
 | de | Auf Empfehlung | Auf Empfehlung |
 | de | Barnes | Barnes |
 | de | bazzile-with-realforce | bazzile-with-realforce |
+| de | Belles demeures | Belles demeures |
 | de | Bilanz | Bilanz |
 | de | Briefpost | Briefpost |
 | de | broken | broken |
@@ -45,6 +46,7 @@
 | de | La Sélection Immostreet | La Sélection Immostreet |
 | de | La Tribune | La Tribune |
 | de | Le 24heures | Le 24heures |
+| de | Le Bon coin | Le Bon coin |
 | de | Le Matin | Le Matin |
 | de | Le Nouvelliste | Le Nouvelliste |
 | de | Le Régional | Le Régional |
@@ -84,6 +86,7 @@
 | en | Agency website | Agency website |
 | en | Barnes | Barnes |
 | en | bazzile-with-realforce | bazzile-with-realforce |
+| en | Belles demeures | Belles demeures |
 | en | Bilan | Bilan |
 | en | broken | broken |
 | en | Business provider | Business provider |
@@ -113,6 +116,7 @@
 | en | La Sélection Immostreet | La Sélection Immostreet |
 | en | La Tribune | La Tribune |
 | en | Le 24heures | Le 24heures |
+| en | Le Bon coin | Le Bon coin |
 | en | Le Matin | Le Matin |
 | en | Le Nouvelliste | Le Nouvelliste |
 | en | Le Régional | Le Régional |
@@ -157,6 +161,7 @@
 | fr | Autre | Autre |
 | fr | Barnes | Barnes |
 | fr | bazzile-with-realforce | bazzile-with-realforce |
+| fr | Belles demeures | Belles demeures |
 | fr | Bilan | Bilan |
 | fr | Bouche à oreille | Bouche à oreille |
 | fr | broken | broken |
@@ -187,6 +192,7 @@
 | fr | La Sélection Immostreet | La Sélection Immostreet |
 | fr | La Tribune | La Tribune |
 | fr | Le 24heures | Le 24heures |
+| fr | Le Bon coin | Le Bon coin |
 | fr | Le Matin | Le Matin |
 | fr | Le Nouvelliste | Le Nouvelliste |
 | fr | Le Régional | Le Régional |
@@ -217,6 +223,7 @@
 | fr | TV | TV |
 | fr | urbanhome.ch | urbanhome.ch |
 | fr | Web | Web |
+| if | Le Bon coin | Le Bon coin |
 | it | 20 Minutes | 20 Minutes |
 | it | 24 H Immobilier | 24 H Immobilier |
 | it | acheter-louer-france | acheter-louer-france |
@@ -227,6 +234,7 @@
 | it | Altro | Altro |
 | it | Barnes | Barnes |
 | it | bazzile-with-realforce | bazzile-with-realforce |
+| it | Belles demeures | Belles demeures |
 | it | Bilan | Bilan |
 | it | broken | broken |
 | it | Cote Magazine | Cote Magazine |
