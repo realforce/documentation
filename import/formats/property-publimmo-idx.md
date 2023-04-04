@@ -21,7 +21,7 @@
 | 16 | date | d.m.Y | d-m-Y | Y-m-d | Property availability date |
 | 9,10,11 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Property real location |
 | 9,10,11 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Property alternate location |
-| 25 | json | { "filename": string, "is_brochure"?: boolean, "is_plan"?: boolean } | Semicolon separated list of documents |
+| 65 | json | { "filename": string, "is_brochure"?: boolean, "is_plan"?: boolean } | Semicolon separated list of documents |
 | 47,48,49,50,51,88,89,90,91,143,144,145,146 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
 | 25 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property floor |
 | 31 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property volume |

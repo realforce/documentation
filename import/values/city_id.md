@@ -54,6 +54,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Esch-sur-Alzette | Luxembourg  |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | FerLens VS | Ferlens |
+| fr | Fes | Fès |
 | fr | Frensdorf | Berlin |
 | fr | Gland VD | Gland |
 | fr | Gland VD VD | Gland |
@@ -81,6 +82,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Montreux VD | Montreux |
 | fr | MORAT | Morat (Murten) |
 | fr | Muraz (Collombey) | Collombey-Muraz |
+| fr | Na Jomtien Sattahip District Chon Buri | Na Chom Thian |
 | fr | OLLON VD | Ollon |
 | fr | OuLens VS-sous-EchalLens VS | Oulens-sous-Échallens |
 | fr | Perroy VD | Perroy |
@@ -108,6 +110,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
 | fr | VILLENEUVE VD | Villeneuve |
 | fr | Villeneuve(VD) | Villeneuve |
+| fr | VilleneuveVD | Villeneuve |
 | fr | VuffLens VS-la-Ville | Vufflens-la-Ville |
 | fr | VuffLens VS-le-Château | Vufflens-le-Château |
 | fr | VUFFLENS-VILLE | Vufflens-la-Ville |

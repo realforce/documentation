@@ -33,6 +33,7 @@
 | de | Essen / Wohnen | Essen / Wohnen |
 | de | Esszimmer | Esszimmer |
 | de | Estrich | Estrich |
+| de | Exterior | Exterior |
 | de | Galerie | Galerie |
 | de | Gang | Gang |
 | de | Garage | Garage |
@@ -138,6 +139,7 @@
 | en | Entrance(s) | Entrance(s) |
 | en | Equipped kitchen | Equipped kitchen |
 | en | Exercise room(s) | Exercise room(s) |
+| en | Exterior | Exterior |
 | en | Exterior swimming pool(s) | Exterior swimming pool(s) |
 | en | Gallery | Gallery |
 | en | Garage(s) | Garage(s) |
@@ -256,6 +258,7 @@
 | fr | Entrée(s) | Entrée(s) |
 | fr | Entrepôt(s) | Entrepôt(s) |
 | fr | Escalier(s) | Escalier(s) |
+| fr | Exterieur | Exterieur |
 | fr | Galerie | Galerie |
 | fr | Garage(s) | Garage(s) |
 | fr | Grange(s) | Grange(s) |
@@ -355,6 +358,7 @@
 | it | Disimpegno | Disimpegno |
 | it | Doccia / WC | Doccia / WC |
 | it | Doppia reception | Doppia reception |
+| it | Exterior | Exterior |
 | it | Exterior swimming pool(s) | Exterior swimming pool(s) |
 | it | Fabbricato annesso | Fabbricato annesso |
 | it | Fienile | Fienile |

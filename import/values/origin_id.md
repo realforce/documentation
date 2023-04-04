@@ -264,6 +264,7 @@
 | it | La Sélection Immostreet | La Sélection Immostreet |
 | it | La Tribune | La Tribune |
 | it | Le 24heures | Le 24heures |
+| it | Le Bon coin | Le Bon coin |
 | it | Le Matin | Le Matin |
 | it | Le Nouvelliste | Le Nouvelliste |
 | it | Le Régional | Le Régional |

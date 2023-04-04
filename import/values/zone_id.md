@@ -14,4 +14,6 @@ You will only find below values that have a different spelling than the one Real
 | fr | LeVaud | Nyon |
 | fr | Rolle | Nyon |
 | fr | Saint-Cergue | Nyon |
+| fr | Vernier | Rive Droite (campagne) |
+| fr | Versoix | Rive Droite (lac) |
 | fr | Yverdon-les-Bains | Jura-Nord vaudois |

@@ -22,6 +22,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Caux | Riviera-Pays-d'Enhaut |
 | fr | Chamoson | Conthey |
 | fr | Chancy | Genève |
+| fr | Châtel-Saint-Denis | Veveyse |
 | fr | Chernex | Riviera-Pays-d'Enhaut |
 | fr | Collombey | Monthey |
 | fr | Collombey-Muraz | Monthey |
@@ -32,6 +33,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Crissier | Ouest lausannois |
 | fr | Cully | Lavaux-Oron |
 | fr | Dorénaz | Saint-Maurice |
+| fr | Evolène | Hérens |
 | fr | Finhaut | Saint-Maurice |
 | fr | Forel(Lavaux) | Lavaux-Oron |
 | fr | Founex | Nyon |
@@ -63,6 +65,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | OllonVD | Aigle |
 | fr | Ormont-Dessous | Aigle |
 | fr | Ormont-Dessus | Aigle |
+| fr | Payerne | Broye-Vully |
 | fr | Prangins | Nyon |
 | fr | Rennaz | Aigle |
 | fr | Roche(VD) | Aigle |
