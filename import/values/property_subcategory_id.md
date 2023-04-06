@@ -540,6 +540,7 @@
 | fr | HOUSE-12 | Chalet |
 | fr | HOUSE-3 | Maison |
 | fr | HOUSE-5 | Maison |
+| fr | HOUSE-6 | Maison |
 | fr | HOUSE-7 | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
@@ -551,6 +552,7 @@
 | fr | Immeuble industriel | Immeuble industriel |
 | fr | Immeuble mixte | Immeuble mixte |
 | fr | Immeubles de rendement | Immeubles de rendement |
+| fr | INDUS-1 | Local commercial |
 | fr | INDUS-10 | Entreprise |
 | fr | INDUS-18 | Arcade |
 | fr | INDUS-19 | Atelier |

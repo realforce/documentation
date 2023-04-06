@@ -8,7 +8,7 @@
 | 2 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property reference |
 | 3 | string | [Property Status](../values/property_status_id.md) | Property status |
 | 4 | string | [Property Category](../values/property_category_id.md) | Property category |
-| 5 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
+| 5 |  | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
 | 6 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price |
 | 7 | string | [Currency](../values/currency_id.md) | Property currency |
 | 8 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |

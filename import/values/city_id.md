@@ -55,6 +55,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | FerLens VS | Ferlens |
 | fr | Fes | Fès |
+| fr | Forel (Lavaux) | Forel |
 | fr | Frensdorf | Berlin |
 | fr | Gland VD | Gland |
 | fr | Gland VD VD | Gland |
@@ -66,6 +67,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | La Croix | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
 | fr | LAUSANNE 26 | Lausanne |
+| fr | Lavey-Village | Lavey-Morcles |
 | fr | Lens VS | Lens |
 | fr | LeVaud | Le Vaud |
 | fr | Lully VD | Lully |
@@ -100,6 +102,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | SenarcLens VS | Senarclens |
 | fr | ST-AUBIN FR | Saint-Aubin |
 | fr | St-Barthélemy VD | Saint-Barthélemy |
+| fr | St-Brais | Saint-Brais |
 | fr | ST-LEGIER-LA-CHIESAZ | Saint-Légier-La Chiésaz |
 | fr | ST-PREX | Saint-Prex |
 | fr | St-Saphorin (Lavaux) | Saint-Saphorin |
@@ -108,6 +111,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | SulLens VS | Sullens |
 | fr | Tannay VD | Tannay |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
+| fr | Villeneuve FR | Villeneuve |
 | fr | VILLENEUVE VD | Villeneuve |
 | fr | Villeneuve(VD) | Villeneuve |
 | fr | VilleneuveVD | Villeneuve |

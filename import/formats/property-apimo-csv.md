@@ -10,7 +10,7 @@
 | 3 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is archived |
 | 4 | string | [Property Transaction Type](../values/property_transaction_type_id.md) | Property transaction type |
 | 5 | string | [Property Category](../values/property_category_id.md) | Property category |
-| 5 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
+| 5 |  | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
 | 7,8,10,11 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Property real location |
 | 17 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price |
 | 19 | string | [Currency](../values/currency_id.md) | Property currency |

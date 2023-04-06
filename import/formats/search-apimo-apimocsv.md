@@ -8,7 +8,7 @@
 | 1 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Contact ID this search is linked to |
 | 7 | string | [Search Transaction Type](../values/search_transaction_type_id.md) | Property transaction type |
 | 8 | string | [Property Category](../values/property_category_id.md) | Property category |
-| 8 | string | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
+| 8 |  | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
 | 9 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
 | 10 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
 | 12 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
