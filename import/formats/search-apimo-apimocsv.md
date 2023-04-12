@@ -12,6 +12,7 @@
 | 9 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
 | 10 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
 | 12 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
+| 12 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
 | 12 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
 | 8,13 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area min |
 | 14 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |

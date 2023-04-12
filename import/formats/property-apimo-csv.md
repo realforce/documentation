@@ -27,6 +27,7 @@
 | 54 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
 | 55 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property creation date & time |
 | 56 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property update date & time |
+| 57 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | owner ID |
 
 ## Sample
 
