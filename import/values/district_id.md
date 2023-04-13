@@ -7,6 +7,7 @@ You will only find below values that have a different spelling than the one Real
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| fr | Arzier-Le Muids | Nyon |
 | fr | Arzier-LeMuids | Nyon |
 | fr | Aubonne | Morges |
 | fr | Ayent | Hérens |
@@ -17,6 +18,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bern | Berne-Mittelland |
 | fr | Bex | Aigle |
 | fr | Bogis-Bossey | Nyon |
+| fr | BROYE - VULLY | Broye-Vully |
 | fr | Bulle | Gruyère |
 | fr | Bursins | Nyon |
 | fr | Caux | Riviera-Pays-d'Enhaut |
@@ -32,6 +34,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Crassier | Nyon |
 | fr | Crissier | Ouest lausannois |
 | fr | Cully | Lavaux-Oron |
+| fr | District de Gruyère (FR) | Gruyère |
+| fr | District de la Glâne (FR) | Glâne |
 | fr | Dorénaz | Saint-Maurice |
 | fr | Evolène | Hérens |
 | fr | Finhaut | Saint-Maurice |
@@ -42,6 +46,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Gland | Nyon |
 | fr | Gryon | Aigle |
 | fr | Haute-Nendaz | Conthey |
+| fr | JURA - NORD VAUDOIS | Jura-Nord vaudois |
 | fr | Kappelen | Seeland |
 | fr | LaTzoumaz | Martigny |
 | fr | Lavey-Village | Aigle |
@@ -65,9 +70,11 @@ You will only find below values that have a different spelling than the one Real
 | fr | OllonVD | Aigle |
 | fr | Ormont-Dessous | Aigle |
 | fr | Ormont-Dessus | Aigle |
+| fr | OUEST-LAUSANNOIS | Ouest lausannois |
 | fr | Payerne | Broye-Vully |
 | fr | Prangins | Nyon |
 | fr | Rennaz | Aigle |
+| fr | RIVIERA - PAYS-D'ENHAUT | Riviera-Pays-d'Enhaut |
 | fr | Roche(VD) | Aigle |
 | fr | Rolle | Nyon |
 | fr | Saillon | Martigny |
@@ -89,6 +96,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Verbier | Entremont |
 | fr | Vernayaz | Saint-Maurice |
 | fr | Versoix | Genève |
+| fr | VEVEY DISTRICT | Riviera-Pays-d'Enhaut |
 | fr | Vich | Nyon |
 | fr | Villars | Aigle |
 | fr | Villars-sur-Ollon | Aigle |

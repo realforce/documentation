@@ -15,6 +15,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Crissier | Vaud |
 | fr | Essertines-sur-Yverdon | Vaud |
 | fr | Founex | Vaud |
+| fr | GENEVE - CANTON | Genève |
 | fr | Gland | Vaud |
 | fr | Lausanne | Vaud |
 | fr | LeMuids | Vaud |

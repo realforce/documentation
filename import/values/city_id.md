@@ -19,6 +19,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bernex GE | Bernex |
 | fr | Biel/Bienne | Biel / Bienne |
 | fr | Blonay, Avenches | Blonay |
+| fr | Blonay-Saint-Légier | Blonay |
 | fr | BoffLens VS | Bofflens |
 | fr | BouLens VS | Boulens |
 | fr | Boussens VD | Boussens |
@@ -40,6 +41,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Cossonay-Gare | Cossonay |
 | fr | Cottens FR | Cottens |
 | fr | Cottens VD | Cottens |
+| fr | Crans | Crans-près-Céligny |
 | fr | Cugy | Cugy (FR) |
 | fr | Cugy VD | Cugy (VD) |
 | fr | DailLens VS | Daillens |
@@ -59,10 +61,14 @@ You will only find below values that have a different spelling than the one Real
 | fr | Frensdorf | Berlin |
 | fr | Gland VD | Gland |
 | fr | Gland VD VD | Gland |
+| fr | Goumoëns | Goumoens-la-Ville |
 | fr | Grandvaux VD | Grandvaux |
 | fr | GRANGES-MARNAND | Granges-près-Marnand |
 | fr | Grangettes-près-Romont | Grangettes |
 | fr | Grangettes-près-Romont FR | Grangettes |
+| fr | Hautemorges | Pampigny |
+| fr | Jorat-Menthue | Peney-le-Jorat |
+| fr | Jorat-Mézières | Mézières |
 | fr | La Comballaz | Ormont-Dessous |
 | fr | La Croix | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
@@ -81,6 +87,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | MolLens VS VS | Mollens |
 | fr | MONT-PELERIN | Le Mont-Pèlerin |
 | fr | Montet (Glâne) | Montet |
+| fr | Montilier | Montilier (Muntelier) |
+| fr | Montilliez | Montilier (Muntelier) |
 | fr | Montreux VD | Montreux |
 | fr | MORAT | Morat (Murten) |
 | fr | Muraz (Collombey) | Collombey-Muraz |
@@ -93,6 +101,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
 | fr | Romont FR | Romont |
+| fr | Saint-Cergue | St-Cergue |
 | fr | Saint-Cierges | St-Cierges |
 | fr | Saint-sulpice VD | Saint-Sulpice |
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
@@ -110,6 +119,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | STE-CROIX | Sainte-Croix |
 | fr | SulLens VS | Sullens |
 | fr | Tannay VD | Tannay |
+| fr | Territet-Veytaux | Territet |
+| fr | Valbroye | Cerniaz |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
 | fr | Villeneuve FR | Villeneuve |
 | fr | VILLENEUVE VD | Villeneuve |
