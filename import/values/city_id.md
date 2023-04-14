@@ -30,6 +30,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Capellen | Luxembourg  |
 | fr | CAROUGE GE | Carouge |
 | fr | Chailly-Montreux VD | Chailly-Montreux |
+| fr | Chailly-Rovéréaz | Lausanne |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
 | fr | Clarens VD | Clarens |
@@ -86,6 +87,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Mollens VS | Mollens |
 | fr | MolLens VS VS | Mollens |
 | fr | MONT-PELERIN | Le Mont-Pèlerin |
+| fr | Montanaire | Thierrens |
 | fr | Montet (Glâne) | Montet |
 | fr | Montilier | Montilier (Muntelier) |
 | fr | Montilliez | Montilier (Muntelier) |
@@ -107,8 +109,10 @@ You will only find below values that have a different spelling than the one Real
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
 | fr | Sâles FR | Sâles |
 | fr | Savigny VD | Savigny |
+| fr | Secteur Nicolas | Lausanne |
 | fr | Sédeilles | Villarzel |
 | fr | SenarcLens VS | Senarclens |
+| fr | Sous-Gare-Ouchy | Lausanne |
 | fr | ST-AUBIN FR | Saint-Aubin |
 | fr | St-Barthélemy VD | Saint-Barthélemy |
 | fr | St-Brais | Saint-Brais |
@@ -119,6 +123,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | STE-CROIX | Sainte-Croix |
 | fr | SulLens VS | Sullens |
 | fr | Tannay VD | Tannay |
+| fr | Terre-Sainte | Nyon |
 | fr | Territet-Veytaux | Territet |
 | fr | Valbroye | Cerniaz |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
@@ -126,10 +131,12 @@ You will only find below values that have a different spelling than the one Real
 | fr | VILLENEUVE VD | Villeneuve |
 | fr | Villeneuve(VD) | Villeneuve |
 | fr | VilleneuveVD | Villeneuve |
+| fr | Vinet-Pontaise | Lausanne |
 | fr | VuffLens VS-la-Ville | Vufflens-la-Ville |
 | fr | VuffLens VS-le-Château | Vufflens-le-Château |
 | fr | VUFFLENS-VILLE | Vufflens-la-Ville |
 | fr | Winterthur | Winterthour |
 | fr | YVERDON | Yverdon-les-Bains |
+| fr | Zone cossonay | Cossonay |
 | fr | Zug | Zoug |
 | fr | Zug (Zug) | Zoug |

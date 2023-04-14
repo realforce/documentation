@@ -35,6 +35,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Crissier | Ouest lausannois |
 | fr | Cully | Lavaux-Oron |
 | fr | District de Gruyère (FR) | Gruyère |
+| fr | District de la Broye (FR) | Broye |
 | fr | District de la Glâne (FR) | Glâne |
 | fr | Dorénaz | Saint-Maurice |
 | fr | Evolène | Hérens |
