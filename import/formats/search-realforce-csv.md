@@ -31,7 +31,7 @@
 | 25 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
 | 26 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
 | 27 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
-| 28 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
+| 28 |  |  | Property is new |
 | 29 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
 | 30 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Search is hidden in global matching |
 
@@ -40,5 +40,5 @@
 [search-realforce.csv](../samples/search-realforce.csv)
 ```
 ID,managerAccountId,contactContactId,statusId,transactionTypeId,categoryId,subcategoryId,positionIds,furnishingIds,styleIds,viewIds,sonorityIds,propertySpaceTypeIds,realLocation,label,comment,priceMin,priceMax,areaMin,areaMax,roomMin,roomMax,bedroomMin,bedroomMax,landMin,landMax,updateDate,isPropertyNew,isAllowedForeigners,isHiddenMatching
-IDSEARCH00001,IDUSER002,IDCONTACT000002,En cours,Location,Appartement,Appartement à rénover,Combles; Dernier étage,Non meublé; Meublé,Rustique; Classique,Aperçu; Belle vue; Campagne,Bruyant; Normal,Abri(s) de jardin; Arcade(s); Balcon(s),"{""location_name"":""geneve"", ""location_level"":""zone"", ""zip"":"""", ""line1"":"""", ""line2"":"""", ""line3"":"""", ""environment_id"":"""", ""altitude"":"""", ""longitude"":"""", ""latitude"":""""}; {""location_name"":""sion"", ""location_level"":""canton"", ""zip"":"""", ""line1"":"""", ""line2"":"""", ""line3"":"""", ""environment_id"":"""", ""altitude"":"""", ""longitude"":"""", ""latitude"":""""}",Recherche importée de test,Ceci est un commentaire de test,1000,2000,100,200,3,4,1,2,1000,2000,2022-07-01,FALSE,TRUE,FALSE
+IDSEARCH00001,IDUSER002,IDCONTACT000002,En cours,Location,Appartement,Appartement à rénover,Combles; Dernier étage,Non meublé; Meublé,Rustique; Classique,Aperçu; Belle vue; Campagne,Bruyant; Normal,Abri(s) de jardin; Arcade(s); Balcon(s),"{""location_name"":""geneve"", ""location_level"":""zone"", ""zip"":"""", ""line1"":"""", ""line2"":"""", ""line3"":"""", ""environment_id"":"""", ""altitude"":"""", ""longitude"":"""", ""latitude"":""""}; {""location_name"":""sion"", ""location_level"":""canton"", ""zip"":"""", ""line1"":"""", ""line2"":"""", ""line3"":"""", ""environment_id"":"""", ""altitude"":"""", ""longitude"":"""", ""latitude"":""""}",Recherche importée de test,Ceci est un commentaire de test,1000,2000,100,200,3,4,1,2,1000,2000,2022-07-01,null,TRUE,FALSE
 ```

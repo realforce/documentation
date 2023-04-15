@@ -31,7 +31,7 @@
 | 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
 | 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
 | 34 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
-| 34 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is new |
+| 34 |  |  | Property is new |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
 | 36 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Search is hidden in global matching |
 
