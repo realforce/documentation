@@ -139,6 +139,8 @@
 | fr | Docteur | Docteur |
 | fr | Eminence | Eminence |
 | fr | Général | Général |
+| fr | greeting_man | Cher Monsieur |
+| fr | greeting_woman | Chère Madame |
 | fr | Lieutenant | Lieutenant |
 | fr | Madame | Madame |
 | fr | Madame l'Ambassadrice | Madame l'Ambassadrice |
