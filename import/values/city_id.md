@@ -70,6 +70,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Hautemorges | Pampigny |
 | fr | Jorat-Menthue | Peney-le-Jorat |
 | fr | Jorat-Mézières | Mézières |
+| fr | Jorat-Mézières VD | Mézières |
 | fr | La Comballaz | Ormont-Dessous |
 | fr | La Croix | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
@@ -84,6 +85,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Mézières Lavaux | Mézières |
 | fr | Mézières VD | Mézières |
 | fr | Mies-Tannay VD | Mies-Tannay |
+| fr | Mollens VD | Mollens |
 | fr | Mollens VS | Mollens |
 | fr | MolLens VS VS | Mollens |
 | fr | MONT-PELERIN | Le Mont-Pèlerin |
@@ -103,6 +105,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
 | fr | Romont FR | Romont |
+| fr | Rougemont VD | Rougemont |
 | fr | Saint-Cergue | St-Cergue |
 | fr | Saint-Cierges | St-Cierges |
 | fr | Saint-sulpice VD | Saint-Sulpice |
@@ -127,6 +130,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Territet-Veytaux | Territet |
 | fr | Valbroye | Cerniaz |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
+| fr | Villars-sur-Ollon VD | Villars-sur-Ollon |
 | fr | Villeneuve FR | Villeneuve |
 | fr | VILLENEUVE VD | Villeneuve |
 | fr | Villeneuve(VD) | Villeneuve |
