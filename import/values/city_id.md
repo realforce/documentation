@@ -7,6 +7,12 @@ You will only find below values that have a different spelling than the one Real
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| fr | 1000 | Lausanne |
+| fr | 1006 Lausanne | Lausanne |
+| fr | 1290 | Versoix |
+| fr | 1291 | Commugny |
+| fr | 1297 | Founex |
+| fr | 1302 | Vufflens-la-Ville |
 | fr | AcLens VS | Aclens |
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
@@ -67,6 +73,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | GRANGES-MARNAND | Granges-près-Marnand |
 | fr | Grangettes-près-Romont | Grangettes |
 | fr | Grangettes-près-Romont FR | Grangettes |
+| fr | Grangettes-près-Romont FR FR | Grangettes |
 | fr | Hautemorges | Pampigny |
 | fr | Jorat-Menthue | Peney-le-Jorat |
 | fr | Jorat-Mézières | Mézières |
@@ -75,6 +82,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | La Croix | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
 | fr | LAUSANNE 26 | Lausanne |
+| fr | Lavey-les-Bains | Lavey-Morcles |
 | fr | Lavey-Village | Lavey-Morcles |
 | fr | Lens VS | Lens |
 | fr | LeVaud | Le Vaud |
@@ -95,6 +103,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Montilliez | Montilier (Muntelier) |
 | fr | Montreux VD | Montreux |
 | fr | MORAT | Morat (Murten) |
+| fr | Morcles | Lavey-Morcles |
 | fr | Muraz (Collombey) | Collombey-Muraz |
 | fr | Na Jomtien Sattahip District Chon Buri | Na Chom Thian |
 | fr | OLLON VD | Ollon |
@@ -105,12 +114,14 @@ You will only find below values that have a different spelling than the one Real
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
 | fr | Romont FR | Romont |
+| fr | Romont FR FR | Romont |
 | fr | Rougemont VD | Rougemont |
 | fr | Saint-Cergue | St-Cergue |
 | fr | Saint-Cierges | St-Cierges |
 | fr | Saint-sulpice VD | Saint-Sulpice |
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
 | fr | Sâles FR | Sâles |
+| fr | Sâles FR FR | Sâles |
 | fr | Savigny VD | Savigny |
 | fr | Secteur Nicolas | Lausanne |
 | fr | Sédeilles | Villarzel |

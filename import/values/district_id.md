@@ -7,6 +7,7 @@ You will only find below values that have a different spelling than the one Real
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| fr | 1297 | Nyon |
 | fr | Arzier-Le Muids | Nyon |
 | fr | Arzier-LeMuids | Nyon |
 | fr | Aubonne | Morges |
