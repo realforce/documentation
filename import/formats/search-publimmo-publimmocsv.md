@@ -17,7 +17,7 @@
 | 11 | string | [Property View](../values/property_view_id.md) | Semicolon separated list of property views |
 | 12 | string | [Property Sonority](../values/property_sonority_id.md) | Semicolon separated list of property sonorities |
 | 13 | string | [Property Space Type](../values/property_space_type_id.md) | Semicolon separated list of property space types |
-| 35 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Search real location |
+| 35 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
 | 35 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 31 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
 | 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |

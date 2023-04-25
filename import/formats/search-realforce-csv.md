@@ -17,7 +17,7 @@
 | 11 | string | [Property View](../values/property_view_id.md) | Semicolon separated list of property views |
 | 12 | string | [Property Sonority](../values/property_sonority_id.md) | Semicolon separated list of property sonorities |
 | 13 | string | [Property Space Type](../values/property_space_type_id.md) | Semicolon separated list of property space types |
-| 14 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Search real location |
+| 14 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
 | 15 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 16 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
 | 17 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
@@ -40,5 +40,5 @@
 [search-realforce.csv](../samples/search-realforce.csv)
 ```
 ID,managerAccountId,contactContactId,statusId,transactionTypeId,categoryId,subcategoryId,positionIds,furnishingIds,styleIds,viewIds,sonorityIds,propertySpaceTypeIds,realLocation,label,comment,priceMin,priceMax,areaMin,areaMax,roomMin,roomMax,bedroomMin,bedroomMax,landMin,landMax,updateDate,isPropertyNew,isAllowedForeigners,isHiddenMatching
-IDSEARCH00001,IDUSER002,IDCONTACT000002,En cours,Location,Appartement,Appartement à rénover,Combles; Dernier étage,Non meublé; Meublé,Rustique; Classique,Aperçu; Belle vue; Campagne,Bruyant; Normal,Abri(s) de jardin; Arcade(s); Balcon(s),"{""location_name"":""geneve"", ""location_level"":""zone"", ""zip"":"""", ""line1"":"""", ""line2"":"""", ""line3"":"""", ""environment_id"":"""", ""altitude"":"""", ""longitude"":"""", ""latitude"":""""}; {""location_name"":""sion"", ""location_level"":""canton"", ""zip"":"""", ""line1"":"""", ""line2"":"""", ""line3"":"""", ""environment_id"":"""", ""altitude"":"""", ""longitude"":"""", ""latitude"":""""}",Recherche importée de test,Ceci est un commentaire de test,1000,2000,100,200,3,4,1,2,1000,2000,2022-07-01,null,TRUE,FALSE
+IDSEARCH00001,IDUSER002,IDCONTACT000002,En cours,Location,Appartement,Appartement à rénover,Combles; Dernier étage,Non meublé; Meublé,Rustique; Classique,Aperçu; Belle vue; Campagne,Bruyant; Normal,Abri(s) de jardin; Arcade(s); Balcon(s),"{""name"":""geneve"", ""level"":""zone""}; {""name"":""sion"", ""level"":""canton""}",Recherche importée de test,Ceci est un commentaire de test,1000,2000,100,200,3,4,1,2,1000,2000,2022-07-01,null,TRUE,FALSE
 ```

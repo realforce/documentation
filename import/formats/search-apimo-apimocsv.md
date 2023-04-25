@@ -18,7 +18,7 @@
 | 14 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |
 | 8,13 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
 | 8,14 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
-| 16,17 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Search real location |
+| 16,17 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
 | 18 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 19,39 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
 | 22 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |

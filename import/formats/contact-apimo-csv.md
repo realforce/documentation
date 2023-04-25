@@ -14,7 +14,7 @@
 | 11,12,23 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Semicolon separated list of phones |
 | 14 | date | d.m.Y | d-m-Y | Y-m-d | Contact birthdate |
 | 16,26,32 | string | [Country](../values/country_id.md) | Contact nationality |
-| 32,28,29,31,30 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
+| 28,29,30,31,32 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
 | 33,35,37,38,42 | string | [Contact Type](../values/contact_type_id.md) | Semicolon separated list of contact types |
 | 44,45 | string | [Language](../values/language_id.md) | Contact language |
 | 53 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Contact creation date & time |
