@@ -46,7 +46,7 @@
 | 40 | date | d.m.Y | d-m-Y | Y-m-d | Property mandate end date |
 | 41 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property creation date & time |
 | 42 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property update date & time |
-| 43 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | owner ID |
+| 43 |  |  | owner ID |
 
 ## Sample
 
