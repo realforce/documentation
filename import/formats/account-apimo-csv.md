@@ -15,5 +15,6 @@
 
 [account-apimo.csv](../samples/account-apimo.csv)
 ```
-
+Référence,Actif,Prénom,Nom de famille,Profil,Agence,Langue,e-mail,Mobile,Téléphone,Connexion,Mot de passe
+25021,1,Service,DES VENTES123,Gérant,11580,fr,servicedesventes@immo-plus123.ch,,41788094600 ,23/11/22,21/01/21
 ```
