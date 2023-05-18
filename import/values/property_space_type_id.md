@@ -7,6 +7,7 @@
 | de | Abstellkammer | Abstellkammer |
 | de | Andere | Andere |
 | de | Arkade | Arkade |
+| de | Außenbereich | Außenbereich |
 | de | Aussenparkplatz | Aussenparkplatz |
 | de | Aussichtspunkt | Aussichtspunkt |
 | de | Autoparkplatz überdacht | Autoparkplatz überdacht |
@@ -258,7 +259,7 @@
 | fr | Entrée(s) | Entrée(s) |
 | fr | Entrepôt(s) | Entrepôt(s) |
 | fr | Escalier(s) | Escalier(s) |
-| fr | Exterieur | Exterieur |
+| fr | Exterieur | Extérieur |
 | fr | Galerie | Galerie |
 | fr | Garage(s) | Garage(s) |
 | fr | Grange(s) | Grange(s) |
@@ -358,6 +359,7 @@
 | it | Disimpegno | Disimpegno |
 | it | Doccia / WC | Doccia / WC |
 | it | Doppia reception | Doppia reception |
+| it | Esterno | Esterno |
 | it | Exterior | Exterior |
 | it | Exterior swimming pool(s) | Exterior swimming pool(s) |
 | it | Fabbricato annesso | Fabbricato annesso |
