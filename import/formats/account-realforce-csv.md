@@ -20,5 +20,5 @@
 ```
 ID,accountTypeId,email,password,firstname,lastname,expiryDate,comment,isActive
 IDUSER001,admin,import-admin-001@realforce.ch,mysecretpassword,Admino,Importo,,Ceci est un compte de test,TRUE
-IDUSER002,courtier,import-courtier-001@realforce.ch,ab1234,Courtiero,Importo,2022-06-01,Ceci est un autre compte de test,FALSE
+IDUSER002,courtier,import-courtier-001@realforce.ch,ab1234,Courtiero,Importo,2022-06-01,Ceci est un autre compte de test,TRUE
 ```
