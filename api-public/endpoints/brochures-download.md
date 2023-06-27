@@ -27,6 +27,7 @@ POST https://brochures.realforce.ch/api/v1/download?lang={lang}&property_id={pro
 | lang         | string | yes | Content languages in lower case (fr, en, it, de). Multiple languages can be retrieved using the "pipe" separator |
 | property_id  | string    | yes*     | Property ID                                                                                                      |
 | promotion_id | string    | yes*     | Promotion ID                                                                                                     |
+
 `* These attributes are mutually exclusive`
 
 
