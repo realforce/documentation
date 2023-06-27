@@ -29,6 +29,7 @@ GET https://labels.realforce.ch/api/v1/get-locations?is_country={is_country}&is_
 | zone_id  | int    | no       | ID of a zone to filter on                                                                 |
 | quarter_id  | int    | no       | ID of a quarter to filter on                                                                 |
 | lang        | string | yes      | Content languages in lower case (fr, en, it, de). Multiple languages can be retrieved using the "pipe" separator |
+
 `* At least one of these attributes must be set`
 
 
