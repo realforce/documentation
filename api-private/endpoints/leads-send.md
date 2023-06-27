@@ -38,6 +38,7 @@ POST https://agency.realforce.ch/api/leads/create
 | requester.email                | string | no       | Contact email                     |
 | object.reference               | string | no*      | Object reference                          |
 | object.id                      | string | no*      | Object ID                                 |
+
 `* These attributes are mutually exclusive`
 
 #### Sample
