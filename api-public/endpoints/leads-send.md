@@ -27,6 +27,7 @@ POST https://leads.realforce.ch/api/v1/lead
 | property_reference | string | yes*     | Property reference                                                                                              |
 | property_id        | string    | yes*     | Property ID                                                                                                     |
 | promotion_id       | string    | yes*     | Promotion ID                                                                                                    |
+
 `* These attributes are mutually exclusive`
 
 #### Sample
