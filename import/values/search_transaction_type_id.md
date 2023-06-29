@@ -8,6 +8,8 @@
 | de | Miete | Miete |
 | en | Purchase | Purchase |
 | en | Rental | Rental |
+| fr | À louer | Location |
+| fr | À vendre | Achat |
 | fr | Achat | Achat |
 | fr | Acheter | Achat |
 | fr | Location | Location |

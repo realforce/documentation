@@ -32,6 +32,7 @@
 | en | Sir and Madam | Sir and Madam |
 | en | Succession | Succession |
 | fr | Docteur | Docteur |
+| fr | Famille | Madame et Monsieur |
 | fr | Frau | Madame |
 | fr | Frau und Herr | Madame et Monsieur |
 | fr | Herr | Monsieur |

@@ -41,6 +41,8 @@
 | fr | en | Anglais |
 | fr | fr | Français |
 | fr | Français | Français |
+| fr | Français,Allemand | Français |
+| fr | Français,Anglais | Français |
 | fr | it | Italien |
 | fr | Italien | Italien |
 | fr | ru | Russe |

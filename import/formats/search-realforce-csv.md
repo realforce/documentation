@@ -20,16 +20,16 @@
 | 14 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
 | 15 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 16 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 17 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
-| 18 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
-| 19 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area min |
-| 20 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |
+| 17 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
+| 18 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
+| 19 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
+| 20 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
 | 21 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
 | 22 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
 | 23 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
 | 24 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
-| 25 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
-| 26 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
+| 25 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
+| 26 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
 | 27 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 28 |  |  | Property is new |
 | 29 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |

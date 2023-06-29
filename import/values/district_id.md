@@ -16,16 +16,20 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bassins | Nyon |
 | fr | Bavois | Jura-Nord vaudois |
 | fr | Begnins | Nyon |
+| fr | Bellevue | Genève |
 | fr | Bern | Berne-Mittelland |
 | fr | Bex | Aigle |
 | fr | Bogis-Bossey | Nyon |
 | fr | BROYE - VULLY | Broye-Vully |
 | fr | Bulle | Gruyère |
 | fr | Bursins | Nyon |
+| fr | CarougeGE | Genève |
 | fr | Caux | Riviera-Pays-d'Enhaut |
 | fr | Chamoson | Conthey |
 | fr | Chancy | Genève |
 | fr | Châtel-Saint-Denis | Veveyse |
+| fr | Chêne-Bougeries | Genève |
+| fr | Chêne-Bourg | Genève |
 | fr | Chernex | Riviera-Pays-d'Enhaut |
 | fr | Collombey | Monthey |
 | fr | Collombey-Muraz | Monthey |
@@ -43,15 +47,19 @@ You will only find below values that have a different spelling than the one Real
 | fr | Finhaut | Saint-Maurice |
 | fr | Forel(Lavaux) | Lavaux-Oron |
 | fr | Founex | Nyon |
+| fr | Fribourg | Sarine |
 | fr | Genolier | Nyon |
+| fr | Genthod | Genève |
 | fr | Givrins | Nyon |
 | fr | Gland | Nyon |
+| fr | Grand-Lancy | Genève |
 | fr | Gryon | Aigle |
 | fr | Haute-Nendaz | Conthey |
 | fr | JURA - NORD VAUDOIS | Jura-Nord vaudois |
 | fr | Kappelen | Seeland |
 | fr | LaTzoumaz | Martigny |
 | fr | Lavey-Village | Aigle |
+| fr | LeGrand-Saconnex | Genève |
 | fr | LeMuids | Nyon |
 | fr | Lens | Sierre |
 | fr | LePetit-Saconnex | Genève |
@@ -60,6 +68,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | LesRasses | Jura-Nord vaudois |
 | fr | LeVaud | Nyon |
 | fr | Leysin | Aigle |
+| fr | Lutry | Lavaux-Oron |
 | fr | Marchissy | Nyon |
 | fr | Mies | Nyon |
 | fr | Monnaz | Morges |
@@ -74,7 +83,11 @@ You will only find below values that have a different spelling than the one Real
 | fr | Ormont-Dessus | Aigle |
 | fr | OUEST-LAUSANNOIS | Ouest lausannois |
 | fr | Payerne | Broye-Vully |
+| fr | Petit-Lancy | Genève |
+| fr | Plan-les-Ouates | Genève |
 | fr | Prangins | Nyon |
+| fr | Préverenges | Morges |
+| fr | Pully | Lavaux-Oron |
 | fr | Rennaz | Aigle |
 | fr | RIVIERA - PAYS-D'ENHAUT | Riviera-Pays-d'Enhaut |
 | fr | Roche(VD) | Aigle |
@@ -90,7 +103,9 @@ You will only find below values that have a different spelling than the one Real
 | fr | Saxon | Martigny |
 | fr | Schaffhausen | Schaffhouse |
 | fr | Solothurn | Soleure |
+| fr | St-SulpiceVD | Ouest lausannois |
 | fr | Tannay | Nyon |
+| fr | Thônex | Genève |
 | fr | Torgon | Monthey |
 | fr | Trélex | Nyon |
 | fr | Troistorrents | Monthey |
@@ -98,6 +113,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Verbier | Entremont |
 | fr | Vernayaz | Saint-Maurice |
 | fr | Versoix | Genève |
+| fr | Vessy | Genève |
 | fr | VEVEY DISTRICT | Riviera-Pays-d'Enhaut |
 | fr | Vich | Nyon |
 | fr | Villars | Aigle |

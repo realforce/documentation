@@ -22,6 +22,7 @@
 | fr | Commercial | Courtier |
 | fr | Courtier | Courtier |
 | fr | Courtier Restreint | Courtier Restreint |
+| fr | Courtier vente | Courtier |
 | fr | Gérant | Administrateur |
 | fr | Manager | Manager |
 | fr | Public | Public |

@@ -124,6 +124,7 @@
 | fr | Architecte | Architecte |
 | fr | Artisan | Artisan |
 | fr | Assistant(e) | Assistant(e) |
+| fr | Assurance | Assureur |
 | fr | Assureur | Assureur |
 | fr | Autre | Autre |
 | fr | Avocat | Avocat |
@@ -136,6 +137,7 @@
 | fr | Comptable | Comptable |
 | fr | Concierge | Concierge |
 | fr | Conciergerie | Concierge |
+| fr | Conseiller fiscal | Fiscaliste |
 | fr | Constructeur | Constructeur |
 | fr | Courtier | Courtier immobilier |
 | fr | Courtier de yacht | Courtier de yacht |
@@ -144,6 +146,7 @@
 | fr | Courtier Vente | Courtier Vente |
 | fr | Diagnostiqueur | Diagnostiqueur |
 | fr | Electricien | Electricien |
+| fr | Entrepreneur | Autre |
 | fr | Entreprise générale | Entreprise générale |
 | fr | Fiduciaire | Fiduciaire |
 | fr | Fiscaliste | Fiscaliste |
@@ -156,11 +159,13 @@
 | fr | Ingénieur civil | Ingénieur civil |
 | fr | Intermédiaire | Intermédiaire |
 | fr | Investisseur | Investisseur |
+| fr | Investisseur privé | Investisseur |
 | fr | Jardinier | Jardinier |
 | fr | Juriste | Juriste |
 | fr | Locataire | Locataire |
 | fr | Maçon | Maçon |
 | fr | Maître d'oeuvre | Maître d'oeuvre |
+| fr | Mandant | Propriétaire |
 | fr | Newsletter | Newsletter |
 | fr | Notaire | Notaire |
 | fr | Partenaire Relocation | Partenaire Relocation |
@@ -174,6 +179,7 @@
 | fr | Restauration | Restauration |
 | fr | Serrurier | Serrurier |
 | fr | Vendeur | Propriétaire |
+| fr | VIP | Autre |
 | fr | Visites | Visites |
 | it | Acquirente | Acquirente |
 | it | agente immobiliare | agente immobiliare |

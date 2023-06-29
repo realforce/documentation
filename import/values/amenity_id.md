@@ -784,11 +784,15 @@
 | fr | amenity_garage | Garage |
 | fr | amenity_high_school | Ecole secondaire |
 | fr | amenity_motorway | Entrée/Sortie autoroute |
+| fr | amenity_number_box | Box |
+| fr | amenity_number_parking_exterieur | Parking extérieur |
+| fr | amenity_number_parking_interor | Parking intérieur |
 | fr | amenity_parking | Parking |
 | fr | amenity_public_tansport | Proche Transports publics |
 | fr | amenity_school_primary | Ecole primaire |
 | fr | amenity_shop | Commerces |
 | fr | amenity_swimming_pool | Piscine |
+| fr | amenity_wc | WC |
 | fr | amenity_wheelchair | Praticable en chaise roulante |
 | fr | Animalerie | Animalerie |
 | fr | Animaux acceptés | Animaux acceptés |

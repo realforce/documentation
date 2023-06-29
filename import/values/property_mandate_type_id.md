@@ -21,7 +21,9 @@
 | fr | Délégation | Délégation |
 | fr | Exclusif | Exclusif |
 | fr | Exclusif agence | Exclusif |
+| fr | Non | Non Exclusif |
 | fr | Non Exclusif | Non Exclusif |
+| fr | Oui | Exclusif |
 | fr | Simple | Simple |
 | it | Co-esclusivo | Co-esclusivo |
 | it | Collega | Collega |

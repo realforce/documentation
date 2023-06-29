@@ -8,6 +8,8 @@
 | de | Vermietung | Vermietung |
 | en | Rental | Rental |
 | en | Sale | Sale |
+| fr | À louer | Location |
+| fr | À vendre | Vente |
 | fr | Location | Location |
 | fr | Programme | Vente |
 | fr | RENT | Location |

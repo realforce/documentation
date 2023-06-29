@@ -444,6 +444,7 @@
 | fr | Appartement sur plan | Appartement sur plan |
 | fr | Appartement traversant | Appartement traversant |
 | fr | Appartement villa | Appartement villa |
+| fr | Appartements | Appartement |
 | fr | APPT-1 | Appartement |
 | fr | APPT-2 | Appartement |
 | fr | APPT-7 | Appartement |
@@ -484,6 +485,7 @@
 | fr | Chambre | Chambre |
 | fr | Château | Château |
 | fr | Cinéma | Cinéma |
+| fr | Clés en main | Clés-en-main |
 | fr | Commerce | Commerce |
 | fr | Commercial | Local commercial |
 | fr | Contigüe | Contigüe |
@@ -536,6 +538,7 @@
 | fr | Hôtel  | Hôtel |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtel Restaurant | Hôtel Restaurant |
+| fr | Hôtellerie | Hôtellerie |
 | fr | HOUSE-1 | Maison |
 | fr | HOUSE-12 | Chalet |
 | fr | HOUSE-3 | Maison |
@@ -551,6 +554,7 @@
 | fr | Immeuble de rendement | Immeuble de rendement |
 | fr | Immeuble industriel | Immeuble industriel |
 | fr | Immeuble mixte | Immeuble mixte |
+| fr | Immeubles | Immeuble |
 | fr | Immeubles de rendement | Immeubles de rendement |
 | fr | INDUS-1 | Local commercial |
 | fr | INDUS-10 | Entreprise |
@@ -567,6 +571,7 @@
 | fr | Local | Local |
 | fr | Local commercial | Local commercial |
 | fr | Locaux | Local commercial |
+| fr | Locaux commerciaux | Local commercial |
 | fr | Loft | Loft |
 | fr | Lotissement | Lotissement |
 | fr | Magasin  | Magasin  |
@@ -595,6 +600,7 @@
 | fr | Maison rénovée | Maison rénovée |
 | fr | Maison sur plan | Maison sur plan |
 | fr | Maison villageoise | Maison villageoise |
+| fr | Maisons | Maison |
 | fr | Manoir | Manoir |
 | fr | Mas | Mas |
 | fr | Menuiserie | Menuiserie |
@@ -606,6 +612,8 @@
 | fr | Parking double | Parking double |
 | fr | Parking extérieur | Parking extérieur |
 | fr | Parking sous-terrain | Parking sous-terrain |
+| fr | Parking souterrain | Parking |
+| fr | Parkings | Parking |
 | fr | Pavillon | Pavillon |
 | fr | Péniche | Péniche |
 | fr | Pizzeria  | Pizzeria  |
@@ -650,6 +658,7 @@
 | fr | Terrain équipé | Terrain équipé |
 | fr | Terrain inconstructible | Terrain inconstructible |
 | fr | Terrain industriel | Terrain industriel |
+| fr | Terrains | Terrain |
 | fr | Théâtre | Théâtre |
 | fr | Triplex | Triplex |
 | fr | Usine | Usine |

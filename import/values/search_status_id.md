@@ -15,7 +15,9 @@
 | en | On hold | On hold |
 | en | Successfully processed | Successfully processed |
 | fr | Actif | En cours |
+| fr | active | En cours |
 | fr | Annulée | Annulée |
+| fr | archived | Annulée |
 | fr | En cours | En cours |
 | fr | En suspens | En suspens |
 | fr | Traitée avec succès | Traitée avec succès |

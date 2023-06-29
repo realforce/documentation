@@ -7,7 +7,7 @@ You will only find below values that have a different spelling than the one Real
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
-| fr | 1000 | Lausanne |
+| fr | 1000 | Genève |
 | fr | 1006 Lausanne | Lausanne |
 | fr | 1290 | Versoix |
 | fr | 1291 | Commugny |
@@ -16,6 +16,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | AcLens VS | Aclens |
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
+| fr | Athenaz (Avusy) | Athenaz |
 | fr | AttaLens VS | Attalens |
 | fr | Baden-Baden | Baden |
 | fr | BalLens VS | Ballens |
@@ -35,6 +36,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bussigny-près-Lausanne VD | Bussigny |
 | fr | Capellen | Luxembourg  |
 | fr | CAROUGE GE | Carouge |
+| fr | CarougeGE | Carouge |
 | fr | Chailly-Montreux VD | Chailly-Montreux |
 | fr | Chailly-Rovéréaz | Lausanne |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
@@ -45,12 +47,15 @@ You will only find below values that have a different spelling than the one Real
 | fr | Collombey VS | Collombey-Muraz |
 | fr | Colombier B | Colombier |
 | fr | Colombier NE | Colombier |
+| fr | Corsier GE | Corsier |
+| fr | CorsierGE | Corsier |
 | fr | Cossonay-Gare | Cossonay |
 | fr | Cottens FR | Cottens |
 | fr | Cottens VD | Cottens |
 | fr | Crans | Crans-près-Céligny |
 | fr | Cugy | Cugy (FR) |
 | fr | Cugy VD | Cugy (VD) |
+| fr | CugyVD | Cugy (VD) |
 | fr | DailLens VS | Daillens |
 | fr | Dompierre FR | Dompierre |
 | fr | Dompierre VD | Dompierre |
@@ -62,6 +67,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | EcubLens VS VD | Écublens (VD) |
 | fr | Esch-sur-Alzette | Luxembourg  |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
+| fr | Fenil-sur-Co | Fenil-sur-Corsier |
 | fr | FerLens VS | Ferlens |
 | fr | Fes | Fès |
 | fr | Forel (Lavaux) | Forel |
@@ -81,10 +87,17 @@ You will only find below values that have a different spelling than the one Real
 | fr | La Comballaz | Ormont-Dessous |
 | fr | La Croix | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
+| fr | LaCh | La Chaux |
+| fr | LaConversion | La Conversion |
+| fr | LaCroix-de-Rozon | La Croix-de-Rozon |
 | fr | LAUSANNE 26 | Lausanne |
 | fr | Lavey-les-Bains | Lavey-Morcles |
 | fr | Lavey-Village | Lavey-Morcles |
+| fr | LeGrand-Saconnex | Le Grand-Saconnex |
+| fr | LeMont-sur-Lausanne | Le Mont-sur-Lausanne |
 | fr | Lens VS | Lens |
+| fr | LesAcacias | Acacias |
+| fr | LeSentier | Le Sentier |
 | fr | LeVaud | Le Vaud |
 | fr | Lully VD | Lully |
 | fr | Lully VD VD | Lully |
@@ -108,9 +121,11 @@ You will only find below values that have a different spelling than the one Real
 | fr | Na Jomtien Sattahip District Chon Buri | Na Chom Thian |
 | fr | OLLON VD | Ollon |
 | fr | OuLens VS-sous-EchalLens VS | Oulens-sous-Échallens |
+| fr | Perly | Perly-Certoux |
 | fr | Perroy VD | Perroy |
 | fr | Pregny | Pregny-Chambésy |
 | fr | Puidoux-Gare | Puidoux |
+| fr | RenensVD | Renens |
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
 | fr | Romont FR | Romont |
@@ -122,6 +137,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
 | fr | Sâles FR | Sâles |
 | fr | Sâles FR FR | Sâles |
+| fr | Saubra | Morges |
 | fr | Savigny VD | Savigny |
 | fr | Secteur Nicolas | Lausanne |
 | fr | Sédeilles | Villarzel |
@@ -137,9 +153,11 @@ You will only find below values that have a different spelling than the one Real
 | fr | STE-CROIX | Sainte-Croix |
 | fr | SulLens VS | Sullens |
 | fr | Tannay VD | Tannay |
+| fr | TannayVD | Tannay |
 | fr | Terre-Sainte | Nyon |
 | fr | Territet-Veytaux | Territet |
 | fr | Valbroye | Cerniaz |
+| fr | Vétraz-Monthoux | Vétraz-Monthoux |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
 | fr | Villars-sur-Ollon VD | Villars-sur-Ollon |
 | fr | Villeneuve FR | Villeneuve |
