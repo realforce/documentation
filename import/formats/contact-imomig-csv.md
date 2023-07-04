@@ -4,49 +4,32 @@
 
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
-| 1 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact ID in your system |
-| 2 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
-| 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact lastname |
-| 4 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second firstname |
-| 5 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second lastname |
-| 6 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID that created the contact |
-| 7 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID that updated the contact |
-| 8 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact company name |
-| 9 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact employment |
-| 10 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact bank name |
+| 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact ID in your system |
+| 12 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact firstname |
+| 11 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact lastname |
+| 56 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second firstname |
+| 55 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact second lastname |
+| 37 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID that created the contact |
+| 8 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID that updated the contact |
+| 16 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact company name |
 | 11 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact private comment |
 | 12 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact ranking from 1 to 3 |
-| 13 | string | [Contact Type](../values/contact_type_id.md) | Semicolon separated list of contact types |
-| 14 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Semicolon separated list of phones |
-| 15 | json | { "notes": string, "value": string, "is_use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
-| 16 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
+| 4 | string | [Contact Type](../values/contact_type_id.md) | Semicolon separated list of contact types |
+| 24,25,66 | json | { "notes": string, "number": string, "type": mobile/landline, "is_main": boolean } | Semicolon separated list of phones |
+| 29,30 | json | { "notes": string, "value": string, "is_use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
+| 18,19,20,21,22,23 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
 | 17 | string | [Pipeline Stage](../values/pipeline_stage_id.md) | Contact pipeline stage |
 | 18 | date | d.m.Y | d-m-Y | Y-m-d | Contact pipeline date |
-| 19 | date | d.m.Y | d-m-Y | Y-m-d | Contact birthdate |
-| 20 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Contact creation date & time |
-| 21 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Contact update date & time |
-| 22 | date | d.m.Y | d-m-Y | Y-m-d | Contact last communication date |
-| 23 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
-| 24 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the sale broker in charge |
-| 25 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the rental broker in charge |
-| 26 | string | [Contact Title](../values/contact_title_id.md) | Contact title |
+| 14 | date | d.m.Y | d-m-Y | Y-m-d | Contact birthdate |
+| 5 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Contact creation date & time |
+| 7 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Contact update date & time |
+| 37 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
+| 9 | string | [Contact Title](../values/contact_title_id.md) | Contact title |
 | 27 | string | [Greeting](../values/greeting_id.md) | Contact greeting |
-| 28 | string | [Language](../values/language_id.md) | Contact language |
+| 38 | string | [Language](../values/language_id.md) | Contact language |
 | 29 | string | [Visibility](../values/visibility_id.md) | Contact visibility/sharing |
-| 30 | string | [Country](../values/country_id.md) | Contact nationality |
-| 31 | string | [Family](../values/family_id.md) | Contact family |
-| 32 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Contact number of children |
-| 34 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the intermediary broker |
+| 48 | string | [Origin](../values/origin_id.md) | Contact origin |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is archived |
-| 36 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is VIP |
-| 37 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is a direct client |
-| 38 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is hidden on MLS |
-| 39 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is anonymous |
-| 40 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is visible on website |
-| 41 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact LinkedIn URL |
-| 42 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact Instagram URL |
-| 43 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact Facebook URL |
-| 44 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Contact Twitter URL |
 
 ## Sample
 

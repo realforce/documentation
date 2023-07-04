@@ -4,28 +4,28 @@
 
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
-| 1 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search ID in your system |
-| 35 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
-| 1 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Contact ID this search is linked to |
-| 80 | string | [Search Status](../values/search_status_id.md) | Search status |
-| 88 | string | [Search Transaction Type](../values/search_transaction_type_id.md) | Property transaction type |
-| 84 | string | [Property Category](../values/property_category_id.md) | Property category |
-| 84 |  | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
-| 86 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
-| 79 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
-| 145 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 89 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
-| 90 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
+| 3 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search ID in your system |
+| 37 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
+| 3 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | Contact ID this search is linked to |
+| 82 | string | [Search Status](../values/search_status_id.md) | Search status |
+| 86 | string | [Search Transaction Type](../values/search_transaction_type_id.md) | Property transaction type |
+| 102 | string | [Property Category](../values/property_category_id.md) | Property category |
+| 102 |  | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
+| 103,104 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
+| 81 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
+| 143 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
+| 87 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
+| 88 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
 | 106 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
 | 107 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
-| 98 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
-| 99 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
-| 101 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
-| 102 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
-| 108 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
-| 109 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
-| 83 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
-| 143 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
+| 96 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
+| 97 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
+| 98 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
+| 99 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
+| 106 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
+| 107 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
+| 85 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
+| 141 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
 
 ## Sample
 

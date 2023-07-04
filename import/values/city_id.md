@@ -28,6 +28,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Blonay, Avenches | Blonay |
 | fr | Blonay-Saint-Légier | Blonay |
 | fr | BoffLens VS | Bofflens |
+| fr | Bogis-Bosse | Bogis-Bossey |
 | fr | BouLens VS | Boulens |
 | fr | Boussens VD | Boussens |
 | fr | BrembLens VS | Bremblens |
@@ -56,6 +57,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Cugy | Cugy (FR) |
 | fr | Cugy VD | Cugy (VD) |
 | fr | CugyVD | Cugy (VD) |
+| fr | Curtill | Curtilles |
 | fr | DailLens VS | Daillens |
 | fr | Dompierre FR | Dompierre |
 | fr | Dompierre VD | Dompierre |

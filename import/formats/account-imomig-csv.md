@@ -4,11 +4,11 @@
 
 | Column | Type | Format | Description |
 | :--- | :--- | :--- | :--- |
-| 2 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User ID in your system |
-| 12 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User firstname |
-| 11 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User lastname |
-| 24 | string | [Account Role](../values/account_role_id.md) | User type |
-| 18 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User email used as login in RealForce |
+| 13,14 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User ID in your system |
+| 14 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User firstname |
+| 13 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User lastname |
+| 26 | string | [Account Role](../values/account_role_id.md) | User type |
+| 20 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | User email used as login in RealForce |
 
 ## Sample
 

@@ -42,6 +42,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Rolle | Suisse |
 | fr | Rueyres | Suisse |
 | fr | SA | Arabie Saoudite |
+| fr | Suchy | Suisse |
 | fr | Tannay | Suisse |
 | fr | TannayVD | Suisse |
 | fr | TH | Thaïlande |
