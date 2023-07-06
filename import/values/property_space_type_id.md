@@ -104,6 +104,7 @@
 | de | Wäschekammer | Wäschekammer |
 | de | Waschküche | Waschküche |
 | de | Werkstatt | Werkstatt |
+| de | Wintergarten | Wintergarten |
 | de | Wohn-/Esszimmer | Wohn-/Esszimmer |
 | de | Wohneinheit | Wohneinheit |
 | de | Wohnen/Essen | Wohnen/Essen |
@@ -218,6 +219,7 @@
 | en | Walk-in closet(s) | Walk-in closet(s) |
 | en | Warehouse(s) | Warehouse(s) |
 | en | Watchtower(s) | Watchtower(s) |
+| en | Winter garden | Winter garden |
 | en | Workshop(s) | Workshop(s) |
 | fr | Abri voitures | Abri voitures |
 | fr | Abri(s) de jardin | Abri(s) de jardin |
@@ -269,6 +271,7 @@
 | fr | Hall(s) | Hall(s) |
 | fr | Hammam(s) | Hammam(s) |
 | fr | Hangar à bateaux | Hangar à bateaux |
+| fr | Jardin d'hiver | Jardin d'hiver |
 | fr | Jardin(s) | Jardin(s) |
 | fr | Kitchenette | Kitchenette |
 | fr | Lingerie(s) | Lingerie(s) |
@@ -371,6 +374,7 @@
 | it | Galleria | Galleria |
 | it | Garage | Garage |
 | it | Giardino | Giardino |
+| it | Giardino d'inverno | Giardino d'inverno |
 | it | Hall | Hall |
 | it | Hammam | Hammam |
 | it | Home cinema | Home cinema |
