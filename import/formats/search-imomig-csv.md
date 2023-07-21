@@ -10,7 +10,6 @@
 | 82 | string | [Search Status](../values/search_status_id.md) | Search status |
 | 86 | string | [Search Transaction Type](../values/search_transaction_type_id.md) | Property transaction type |
 | 102 | string | [Property Category](../values/property_category_id.md) | Property category |
-| 102 |  | [Property Subcategory](../values/property_subcategory_id.md) | Property subcategory |
 | 103,104 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
 | 81 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 143 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
