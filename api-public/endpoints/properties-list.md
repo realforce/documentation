@@ -16,11 +16,13 @@ GET https://listings.realforce.ch/api/v1/get-full-listings?per_page={per_page}&p
 
 #### Parameters
 
-| Name     | Type   | Required                                                          | Description                                                                                                      |
-|:---------|:-------|:------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------|
-| per_page | int    | yes                                                               | Number of records to retrieve per page (max 100)                                                                          |
-| page     | int    | yes | Index of the page to retrieve                                                                                    |
-| lang     | string | yes | Content languages in lower case (fr, en, it, de). Multiple languages can be retrieved using the "pipe" separator |
+| Name            | Type   | Required | Description                                                                                                      |
+|:----------------|:-------|:---------|:-----------------------------------------------------------------------------------------------------------------|
+| per_page        | int    | yes      | Number of records to retrieve per page (max 100)                                                                          |
+| page            | int    | yes      | Index of the page to retrieve                                                                                    |
+| lang            | string | yes      | Content languages in lower case (fr, en, it, de). Multiple languages can be retrieved using the "pipe" separator |
+| update_date_min | date (format YYYY-MM-DD)       | no       | Filter only the properties after the date give in parameter |
+| update_date_max | date (format YYYY-MM-DD)       | no       | Filter only the properties before the date give in parameter |
 
 
 ## Response
