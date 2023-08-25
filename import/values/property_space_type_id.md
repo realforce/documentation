@@ -81,6 +81,7 @@
 | de | Solarium | Solarium |
 | de | Sommerküche | Sommerküche |
 | de | Spa | Spa |
+| de | space_type_covered_terrace | space_type_covered_terrace |
 | de | space_type_winter_garden | space_type_winter_garden |
 | de | Spielzimmer | Spielzimmer |
 | de | Sportraum | Sportraum |
@@ -204,6 +205,7 @@
 | en | Ski storage room(s) | Ski storage room(s) |
 | en | Solarium(s) | Solarium(s) |
 | en | Spa | Spa |
+| en | space_type_covered_terrace | space_type_covered_terrace |
 | en | space_type_winter_garden | space_type_winter_garden |
 | en | Stair(s) | Stair(s) |
 | en | Stockroom(s) | Stockroom(s) |
@@ -321,6 +323,7 @@
 | fr | Solarium | Solarium |
 | fr | Sous-sol(s) | Sous-sol(s) |
 | fr | Spa | Spa |
+| fr | space_type_covered_terrace | space_type_covered_terrace |
 | fr | space_type_winter_garden | space_type_winter_garden |
 | fr | Stock / Réserve | Stock / Réserve |
 | fr | Studio(s) | Studio(s) |
@@ -426,6 +429,7 @@
 | it | Soggiorno | Soggiorno |
 | it | Solarium | Solarium |
 | it | Soppalco | Soppalco |
+| it | space_type_covered_terrace | space_type_covered_terrace |
 | it | space_type_winter_garden | space_type_winter_garden |
 | it | Stanza | Stanza |
 | it | Stenditoio | Stenditoio |
