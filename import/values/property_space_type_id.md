@@ -96,6 +96,7 @@
 | de | Toilette | Toilette |
 | de | Treppe | Treppe |
 | de | Treppenabsatz | Treppenabsatz |
+| de | Überdachte Terrasse | Überdachte Terrasse |
 | de | Ungenutzt | Ungenutzt |
 | de | Unteres Erdgeschoss | Unteres Erdgeschoss |
 | de | Unterkunft | Unterkunft |
@@ -136,6 +137,7 @@
 | en | Closet(s) | Closet(s) |
 | en | Corridor(s) | Corridor(s) |
 | en | Courtyard(s) | Courtyard(s) |
+| en | Covered terrace | Covered terrace |
 | en | Cupboard(s) | Cupboard(s) |
 | en | Dining room / kitchen | Dining room / kitchen |
 | en | Dining room(s) | Dining room(s) |
@@ -329,6 +331,7 @@
 | fr | Studio(s) | Studio(s) |
 | fr | Studio(s) de service | Studio(s) de service |
 | fr | Suite(s) | Suite(s) |
+| fr | Terrasse couverte | Terrasse couverte |
 | fr | Terrasse(s) | Terrasse(s) |
 | fr | Toilette(s) | Toilette(s) |
 | fr | Toit terrasse | Toit terrasse |
@@ -439,6 +442,7 @@
 | it | Terme | Terme |
 | it | Terrazza | Terrazza |
 | it | Terrazza sul tetto | Terrazza sul tetto |
+| it | Terrazzo coperto | Terrazzo coperto |
 | it | Torre d'avvistamento | Torre d'avvistamento |
 | it | Ufficio | Ufficio |
 | it | Veranda | Veranda |
