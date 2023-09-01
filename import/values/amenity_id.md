@@ -308,6 +308,7 @@
 | de | Sprinkleranlage | Sprinkleranlage |
 | de | Stadtzentrum | Stadtzentrum |
 | de | Stand-up Paddel | Stand-up Paddel |
+| de | Stazione di ricarica per auto elettriche | Stazione di ricarica per auto elettriche |
 | de | Steamer | Steamer |
 | de | Stein | Stein |
 | de | Strandspiele | Strandspiele |
@@ -493,6 +494,7 @@
 | en | Drugstore | Drugstore |
 | en | DVD player | DVD player |
 | en | Electric awnings | Electric awnings |
+| en | Electric car charger station | Electric car charger station |
 | en | Electric gate | Electric gate |
 | en | Electric parking | Electric parking |
 | en | Electric shutters | Electric shutters |
@@ -821,6 +823,7 @@
 | fr | Bibliothèque | Bibliothèque |
 | fr | Bijouterie | Bijouterie |
 | fr | Boîte de nuit | Boîte de nuit |
+| fr | Borne de recharge pour voiture électrique | Borne de recharge pour voiture électrique |
 | fr | Boucherie | Boucherie |
 | fr | Boulangerie | Boulangerie |
 | fr | Bowling | Bowling |
@@ -846,6 +849,7 @@
 | fr | Canoë | Canoë |
 | fr | Caoutchouc | Caoutchouc |
 | fr | Carnotzet | Carnotzet |
+| fr | Carreaux | Carreaux |
 | fr | Carrelage | Carrelage |
 | fr | Cave | Cave |
 | fr | Cave à vin | Cave à vin |
@@ -929,6 +933,7 @@
 | fr | Funiculaire | Funiculaire |
 | fr | Galerie | Galerie |
 | fr | Garage | Garage |
+| fr | Garderie | Garderie |
 | fr | Gardien | Gardien |
 | fr | Gare | Gare |
 | fr | Gare routière | Gare routière |
@@ -1331,6 +1336,7 @@
 | it | Kantine | Kantine |
 | it | Kitesurfen | Kitesurfen |
 | it | Laboratorio | Laboratorio |
+| it | Ladestation für Elektroauto | Ladestation für Elektroauto |
 | it | Lago | Lago |
 | it | Lastricato | Lastricato |
 | it | Lavanderia | Lavanderia |
