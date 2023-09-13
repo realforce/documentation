@@ -72,6 +72,7 @@
 | de | Patio | Patio |
 | de | Poolhaus | Poolhaus |
 | de | Raum | Raum |
+| de | Reduzierter Balkon | Reduzierter Balkon |
 | de | Sauna | Sauna |
 | de | Scheune | Scheune |
 | de | Schlafzimmer | Schlafzimmer |
@@ -97,6 +98,7 @@
 | de | Treppe | Treppe |
 | de | Treppenabsatz | Treppenabsatz |
 | de | Überdachte Terrasse | Überdachte Terrasse |
+| de | Überdachter Balkon | Überdachter Balkon |
 | de | Ungenutzt | Ungenutzt |
 | de | Unteres Erdgeschoss | Unteres Erdgeschoss |
 | de | Unterkunft | Unterkunft |
@@ -137,6 +139,7 @@
 | en | Closet(s) | Closet(s) |
 | en | Corridor(s) | Corridor(s) |
 | en | Courtyard(s) | Courtyard(s) |
+| en | Covered balcony | Covered balcony |
 | en | Covered terrace | Covered terrace |
 | en | Cupboard(s) | Cupboard(s) |
 | en | Dining room / kitchen | Dining room / kitchen |
@@ -194,6 +197,7 @@
 | en | Pool house(s) | Pool house(s) |
 | en | Prayer room(s) | Prayer room(s) |
 | en | Reception room(s) | Reception room(s) |
+| en | Reducted balcony | Reducted balcony |
 | en | Roof top terrace | Roof top terrace |
 | en | Room(s) | Room(s) |
 | en | Root cellar(s) | Root cellar(s) |
@@ -231,6 +235,8 @@
 | fr | Arcade(s) | Arcade(s) |
 | fr | Atelier(s) | Atelier(s) |
 | fr | Autre(s) | Autre(s) |
+| fr | Balcon couvert | Balcon couvert |
+| fr | Balcon réduit | Balcon réduit |
 | fr | Balcon(s) | Balcon(s) |
 | fr | Bibliothèque(s) | Bibliothèque(s) |
 | fr | Boîte(s) de nuit | Boîte(s) de nuit |
@@ -345,6 +351,8 @@
 | it | Bagno / WC | Bagno / WC |
 | it | Bagno con doccia | Bagno con doccia |
 | it | Balcone | Balcone |
+| it | Balcone coperto | Balcone coperto |
+| it | Balcone ridotto | Balcone ridotto |
 | it | Ballatoio | Ballatoio |
 | it | Biblioteca | Biblioteca |
 | it | Box | Box |

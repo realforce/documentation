@@ -10,6 +10,7 @@
 | de | Baustart erfolgt | Baustart erfolgt |
 | de | Interessent | Interessent |
 | de | Neu | Neu |
+| de | Off Market | Off Market |
 | de | Option | Option |
 | de | Reserviert | Reserviert |
 | de | Reserviert für Eigentümer | Reserviert für Eigentümer |
@@ -28,6 +29,7 @@
 | en | Contract terminated | Contract terminated |
 | en | In process | In process |
 | en | New | New |
+| en | Off Market | Off Market |
 | en | Option | Option |
 | en | Owner reserved | Owner reserved |
 | en | Project opened | Project opened |
@@ -51,6 +53,7 @@
 | fr | Loué | Loué |
 | fr | Loué concur. | Loué concur. |
 | fr | Nouveau | Nouveau |
+| fr | Off Market | Off Market |
 | fr | Option | Option |
 | fr | Prospect | Prospect |
 | fr | Réservé | Réservé |
@@ -77,6 +80,7 @@
 | it | Contratto scaduto | Contratto scaduto |
 | it | Inserimento in corso | Inserimento in corso |
 | it | Nuovo | Nuovo |
+| it | Off Market | Off Market |
 | it | Option | Option |
 | it | Prospetto | Prospetto |
 | it | Riservato | Riservato |
