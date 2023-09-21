@@ -53,6 +53,7 @@
 | de | Kellergeschoss | Kellergeschoss |
 | de | Kerichtraum  | Kerichtraum  |
 | de | Kino | Kino |
+| de | Kleiner Balkon | Kleiner Balkon |
 | de | Kochecke | Kochecke |
 | de | Korridor | Korridor |
 | de | Küche | Küche |
@@ -449,6 +450,7 @@
 | it | Taverna | Taverna |
 | it | Terme | Terme |
 | it | Terrazza | Terrazza |
+| it | Terrazza coperta | Terrazza coperta |
 | it | Terrazza sul tetto | Terrazza sul tetto |
 | it | Terrazzo coperto | Terrazzo coperto |
 | it | Torre d'avvistamento | Torre d'avvistamento |
