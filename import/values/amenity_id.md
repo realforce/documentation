@@ -781,9 +781,11 @@
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
 | fr | amenity_balcony | Balcon |
+| fr | amenity_cellar | Cave |
 | fr | amenity_elevator | Ascenseur |
 | fr | amenity_fireplace | Cheminée |
 | fr | amenity_garage | Garage |
+| fr | amenity_garden_house | Abri de jardin |
 | fr | amenity_high_school | Ecole secondaire |
 | fr | amenity_motorway | Entrée/Sortie autoroute |
 | fr | amenity_number_box | Box |
@@ -794,6 +796,8 @@
 | fr | amenity_school_primary | Ecole primaire |
 | fr | amenity_shop | Commerces |
 | fr | amenity_swimming_pool | Piscine |
+| fr | amenity_terrace | Terrasse |
+| fr | amenity_veranda | Véranda |
 | fr | amenity_wc | WC |
 | fr | amenity_wheelchair | Praticable en chaise roulante |
 | fr | Animalerie | Animalerie |

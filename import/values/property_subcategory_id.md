@@ -442,6 +442,7 @@
 | fr | Appartement sous le toit | Appartement sous le toit |
 | fr | Appartement subventionné | Appartement subventionné |
 | fr | Appartement sur plan | Appartement sur plan |
+| fr | Appartement terrasse | Appartement |
 | fr | Appartement traversant | Appartement traversant |
 | fr | Appartement villa | Appartement villa |
 | fr | Appartements | Appartement |
@@ -486,6 +487,7 @@
 | fr | Château | Château |
 | fr | Cinéma | Cinéma |
 | fr | Clés en main | Clés-en-main |
+| fr | Club / Disco | Hôtellerie |
 | fr | Commerce | Commerce |
 | fr | Commercial | Local commercial |
 | fr | Contigüe | Contigüe |
@@ -623,6 +625,7 @@
 | fr | Place de parc surveillé | Place de parc surveillé |
 | fr | Place pour moto extérieure | Place pour moto extérieure |
 | fr | Place pour moto intérieure | Place pour moto intérieure |
+| fr | Place souterraine | Parking |
 | fr | Pressing | Pressing |
 | fr | Promotions/Neuf | Appartement |
 | fr | PROP-1 | Terrain |
@@ -631,6 +634,7 @@
 | fr | Pub | Pub |
 | fr | Quartier Ger | Quartier Ger |
 | fr | Remise | Remise |
+| fr | Résidence hôtelière | Appartement |
 | fr | Résidence sénior | Résidence sénior |
 | fr | Restaurant  | Restaurant |
 | fr | Riad | Riad |

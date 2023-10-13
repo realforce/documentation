@@ -141,7 +141,10 @@
 | fr | Général | Général |
 | fr | greeting_Famille | Chère Madame, Cher Monsieur |
 | fr | greeting_Madame | Chère Madame |
+| fr | greeting_Madame Monsieur | Chère Madame, Cher Monsieur |
+| fr | greeting_Mademoiselle | Chère Madame |
 | fr | greeting_man | Cher Monsieur |
+| fr | greeting_Messieurs | Chers Messieurs |
 | fr | greeting_Monsieur | Cher Monsieur |
 | fr | greeting_woman | Chère Madame |
 | fr | Lieutenant | Lieutenant |

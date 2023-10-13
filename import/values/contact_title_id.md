@@ -39,6 +39,7 @@
 | fr | Hoirie | Hoirie |
 | fr | Madame | Madame |
 | fr | Madame et Monsieur | Madame et Monsieur |
+| fr | Madame Monsieur | Madame et Monsieur |
 | fr | Madame, Monsieur | Madame et Monsieur |
 | fr | Mademoiselle | Mademoiselle |
 | fr | Maître | Maître |

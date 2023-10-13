@@ -21,6 +21,7 @@
 | fr | Délégation | Délégation |
 | fr | Exclusif | Exclusif |
 | fr | Exclusif agence | Exclusif |
+| fr | mandate_type_exclusif | Exclusif |
 | fr | Non | Non Exclusif |
 | fr | Non Exclusif | Non Exclusif |
 | fr | Oui | Exclusif |

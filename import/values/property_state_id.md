@@ -24,11 +24,16 @@
 | en | Very good | Very good |
 | fr | A rafraîchir | A rafraîchir |
 | fr | A rénover | A rénover |
+| fr | A rénover partiellement | A rénover |
+| fr | A rénover totalement | A rénover |
 | fr | Bon | Bon |
+| fr | Bon état | Bon |
 | fr | Comme neuf | Comme neuf |
 | fr | En construction | En construction |
 | fr | En ruine | En ruine |
+| fr | Excellent état | Très bon |
 | fr | Neuf | Neuf |
+| fr | Promotion (sur plan) | En construction |
 | fr | Rénové | Rénové |
 | fr | Très bon | Très bon |
 | it | Buono | Buono |

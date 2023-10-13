@@ -11,6 +11,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | AF | France |
 | fr | BE | Belgique |
 | fr | Begnins | Suisse |
+| fr | Belgium | Belgique |
 | fr | Bursins | Suisse |
 | fr | CarougeGE | Suisse |
 | fr | Céligny | Suisse |
@@ -47,6 +48,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | TannayVD | Suisse |
 | fr | TH | Thaïlande |
 | fr | Thônex | Suisse |
+| fr | United Kingdom | Royaume-Uni |
 | fr | US | États-Unis |
 | fr | Verbier | Suisse |
 | fr | Vevey | Suisse |

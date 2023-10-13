@@ -14,6 +14,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | 1297 | Founex |
 | fr | 1302 | Vufflens-la-Ville |
 | fr | AcLens VS | Aclens |
+| fr | Aproz (Nendaz) | Aproz |
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
 | fr | Athenaz (Avusy) | Athenaz |
@@ -62,6 +63,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Dompierre FR | Dompierre |
 | fr | Dompierre VD | Dompierre |
 | fr | Dompierre VD VD | Dompierre |
+| fr | Drône VS | Drône |
 | fr | EchalLens VS | Échallens |
 | fr | Ecublens | Écublens (FR) |
 | fr | Ecublens VD | Écublens (VD) |
@@ -82,6 +84,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Grangettes-près-Romont | Grangettes |
 | fr | Grangettes-près-Romont FR | Grangettes |
 | fr | Grangettes-près-Romont FR FR | Grangettes |
+| fr | Granois (Savièse) | Granois |
 | fr | Hautemorges | Pampigny |
 | fr | Jorat-Menthue | Peney-le-Jorat |
 | fr | Jorat-Mézières | Mézières |
@@ -133,6 +136,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Romont FR | Romont |
 | fr | Romont FR FR | Romont |
 | fr | Rougemont VD | Rougemont |
+| fr | Saclentz (Nendaz) | Saclentz |
 | fr | Saint-Cergue | St-Cergue |
 | fr | Saint-Cierges | St-Cierges |
 | fr | Saint-sulpice VD | Saint-Sulpice |
@@ -144,6 +148,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Secteur Nicolas | Lausanne |
 | fr | Sédeilles | Villarzel |
 | fr | SenarcLens VS | Senarclens |
+| fr | Siviez (Nendaz) | Siviez |
 | fr | Sous-Gare-Ouchy | Lausanne |
 | fr | ST-AUBIN FR | Saint-Aubin |
 | fr | St-Barthélemy VD | Saint-Barthélemy |

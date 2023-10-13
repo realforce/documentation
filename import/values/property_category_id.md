@@ -76,6 +76,7 @@
 | fr | Box intérieur | Parking |
 | fr | Bureau | Bureau |
 | fr | Camping | Camping |
+| fr | category_chalet | Chalet |
 | fr | Cave | Dépot |
 | fr | Chalet | Chalet |
 | fr | Chalet sur plan | Chalet |
@@ -100,6 +101,7 @@
 | fr | Garage | Garage |
 | fr | GARDEN | Terrain |
 | fr | GASTRO | Hôtellerie |
+| fr | Gastronomie | Hôtellerie |
 | fr | Halle industrielle | Halle industrielle |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtellerie | Hôtellerie |
@@ -112,6 +114,7 @@
 | fr | Immeuble de rendement | Immeuble |
 | fr | Immeuble industriel | Immeuble |
 | fr | Immeuble mixte | Immeuble |
+| fr | Immeuble/Commerce | Local commercial |
 | fr | Immeubles | Immeuble |
 | fr | INDUS | Local commercial |
 | fr | Local | Local commercial |
@@ -143,11 +146,13 @@
 | fr | Manoir | Maison |
 | fr | Mas | Maison |
 | fr | Mobile home | Mobile home |
+| fr | Para-hôtellerie | Hôtellerie |
 | fr | Parking | Parking |
 | fr | Parking extérieur | Parking |
 | fr | Parking souterrain | Parking |
 | fr | Parkings | Parking |
 | fr | Pavillon | Maison |
+| fr | Place de parc | Parking |
 | fr | Place pour moto extérieure | Parking |
 | fr | Place pour moto intérieure | Parking |
 | fr | PROP | Terrain |
