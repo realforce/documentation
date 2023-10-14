@@ -56,6 +56,8 @@
 | en | Warehouse | Warehouse |
 | en | Workshop | Workshop |
 | fr | Annexe | Annexe |
+| fr | apartment / flat | Appartement |
+| fr | Appartamento | Appartement |
 | fr | Appartement | Appartement |
 | fr | Appartement de plain-pied | Appartement |
 | fr | Appartement neuf | Appartement |
@@ -76,6 +78,7 @@
 | fr | Box intérieur | Parking |
 | fr | Bureau | Bureau |
 | fr | Camping | Camping |
+| fr | Casa | Maison |
 | fr | category_chalet | Chalet |
 | fr | Cave | Dépot |
 | fr | Chalet | Chalet |
@@ -86,6 +89,7 @@
 | fr | Clés-en-main | Clés-en-main |
 | fr | Commerce | Local commercial |
 | fr | Commercial | Local commercial |
+| fr | Commercio/ Industria | Local commercial |
 | fr | Dépot | Dépot |
 | fr | Domaine | Maison |
 | fr | Domaine de chasse | Maison |
@@ -102,6 +106,7 @@
 | fr | GARDEN | Terrain |
 | fr | GASTRO | Hôtellerie |
 | fr | Gastronomie | Hôtellerie |
+| fr | ground | Terrain |
 | fr | Halle industrielle | Halle industrielle |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtellerie | Hôtellerie |
@@ -162,6 +167,7 @@
 | fr | Riad | Maison |
 | fr | Rustico | Maison |
 | fr | SECONDARY | Annexe |
+| fr | shops/industry | Local commercial |
 | fr | Studio | Appartement |
 | fr | Surfaces industrielles | Surfaces industrielles |
 | fr | Terrain | Terrain |
@@ -173,6 +179,7 @@
 | fr | Terrain équipé | Terrain |
 | fr | Terrain industriel | Terrain |
 | fr | Terrains | Terrain |
+| fr | Terreno | Terrain |
 | fr | Triplex | Appartement |
 | fr | Villa | Maison |
 | fr | Villa contiguë | Maison |

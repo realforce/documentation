@@ -44,6 +44,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
 | fr | Clarens VD | Clarens |
+| fr | Clèbes (Nendaz) | Clèbes |
 | fr | Collex | Collex-Bossy |
 | fr | Collombey | Collombey-Muraz |
 | fr | Collombey VS | Collombey-Muraz |
@@ -101,6 +102,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | LeGrand-Saconnex | Le Grand-Saconnex |
 | fr | LeMont-sur-Lausanne | Le Mont-sur-Lausanne |
 | fr | Lens VS | Lens |
+| fr | Les Agettes VS | Les Agettes |
 | fr | LesAcacias | Acacias |
 | fr | LeSentier | Le Sentier |
 | fr | LeVaud | Le Vaud |
@@ -154,6 +156,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | St-Barthélemy VD | Saint-Barthélemy |
 | fr | St-Brais | Saint-Brais |
 | fr | ST-LEGIER-LA-CHIESAZ | Saint-Légier-La Chiésaz |
+| fr | St-Léonard | Saint-Léonard |
 | fr | ST-PREX | Saint-Prex |
 | fr | St-Saphorin (Lavaux) | Saint-Saphorin |
 | fr | ST-SULPICE VD | Saint-Sulpice |
@@ -163,6 +166,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | TannayVD | Tannay |
 | fr | Terre-Sainte | Nyon |
 | fr | Territet-Veytaux | Territet |
+| fr | Turin (Salins) | Turin |
 | fr | Valbroye | Cerniaz |
 | fr | Vétraz-Monthoux | Vétraz-Monthoux |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |

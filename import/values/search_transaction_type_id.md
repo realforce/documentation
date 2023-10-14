@@ -12,9 +12,13 @@
 | fr | À vendre | Achat |
 | fr | Achat | Achat |
 | fr | Acheter | Achat |
+| fr | Affitto | Location |
 | fr | Location | Location |
 | fr | Location saisonnière | Location |
 | fr | Louer | Location |
+| fr | Renting | Location |
+| fr | Selling | Achat |
+| fr | Vendita | Achat |
 | fr | Vente | Achat |
 | it | Acquisto | Acquisto |
 | it | Affitto | Affitto |
