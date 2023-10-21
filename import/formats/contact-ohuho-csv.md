@@ -14,9 +14,10 @@
 | 18,19,20 | json | { "notes": string, "value": string, "is_use_mailing": boolean, "is_main": boolean } | Semicolon separated list of emails |
 | 8,9,11,13,14 | json | { "notes": string, "country_id": string, "line1": string, "line2": string, "line3": string, "city": string, "zip": string, "use_default": boolean } | Semicolon separated list of addresses |
 | 26 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
-| 26 | string | [Contact Title](../values/contact_title_id.md) | Contact title |
-| 2,6 | string | [Greeting](../values/greeting_id.md) | Contact greeting |
+| 2 | string | [Contact Title](../values/contact_title_id.md) | Contact title |
+| 2 | string | [Greeting](../values/greeting_id.md) | Contact greeting |
 | 21 | string | [Language](../values/language_id.md) | Contact language |
+| 5 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Contact is archived |
 
 ## Sample
 

@@ -23,7 +23,7 @@
 | 161 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property description |
 | 54 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
 | 2 |  |  | owner ID |
-| 32 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price per SQM |
+| 32 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price per SQM |
 | 58 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land area |
 | 64 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property volume |
 | 46 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property year build |
@@ -47,6 +47,8 @@
 | 69,70,71 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property global commission ercent |
 | 39 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property annual charges |
 | 38 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property parking price |
+| 70 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | property notes seller |
+| 24 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | property notes broker |
 
 ## Sample
 

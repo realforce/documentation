@@ -28,7 +28,7 @@
 | 7 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property creation date & time |
 | 8 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property update date & time |
 | 204 |  |  | owner ID |
-| 75 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price per SQM |
+| 75 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price per SQM |
 | 44 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land area |
 | 66 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property volume |
 | 73 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property year build |
