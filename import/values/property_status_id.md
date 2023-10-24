@@ -63,6 +63,7 @@
 | fr | Retiré par le propriétaire | Suspendu |
 | fr | Sous offre / réservation | Réservé |
 | fr | status_property_active | Actif |
+| fr | status_property_sell | Vendu |
 | fr | Suspendu | Suspendu |
 | fr | Vendu | Vendu |
 | fr | Vendu concur. | Vendu concur. |
