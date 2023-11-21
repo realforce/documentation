@@ -14,13 +14,14 @@
 | 31 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price |
 | 11 | string | [Currency](../values/currency_id.md) | Property currency |
 | 65 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property number of rooms |
-| 51 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property habitable area |
+| 57 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property habitable area |
 | 85 | string | [UID](https://en.wikipedia.org/wiki/Unique_identifier) | User ID of the main broker in charge |
 | 28 | date | d.m.Y | d-m-Y | Y-m-d | Property mandate start date |
 | 29 | date | d.m.Y | d-m-Y | Y-m-d | Property mandate end date |
 | 13 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property floor |
 | 160 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property title |
-| 161 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property description |
+| 25 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property description |
+| 26 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property brochure description |
 | 54 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
 | 2 |  |  | owner ID |
 | 32 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price per SQM |
