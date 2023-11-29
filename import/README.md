@@ -15,6 +15,7 @@ RealForce Import System allows you to import files from third party systems trou
 - [Contact - Realforce CSV](./formats/contact-realforce-csv.md)
 - [Promotion - Realforce CSV](./formats/promotion-realforce-csv.md)
 - [Property - Apimo CSV](./formats/property-apimo-csv.md)
+- [Property - Garaio IDX](./formats/property-garaio-idx.md)
 - [Property - Idxv1 IDX](./formats/property-idxv1-idx.md)
 - [Property - Idxv3 IDX](./formats/property-idxv3-idx.md)
 - [Property - Imomig CSV](./formats/property-imomig-csv.md)
