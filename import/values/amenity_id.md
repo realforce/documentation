@@ -780,8 +780,11 @@
 | fr | Alarme incendie | Alarme incendie |
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
+| fr | amenity_animal_allowed | Animaux acceptés |
 | fr | amenity_balcony | Balcon |
+| fr | amenity_cable_tv | Cable TV |
 | fr | amenity_cellar | Cave |
+| fr | amenity_child_friendly | Enfants bienvenus |
 | fr | amenity_elevator | Ascenseur |
 | fr | amenity_fireplace | Cheminée |
 | fr | amenity_garage | Garage |
@@ -793,11 +796,13 @@
 | fr | amenity_number_parking_interor | Parking intérieur |
 | fr | amenity_parking | Parking |
 | fr | amenity_public_tansport | Proche Transports publics |
+| fr | amenity_railway_terminal | Gare |
 | fr | amenity_school_primary | Ecole primaire |
 | fr | amenity_shop | Commerces |
 | fr | amenity_swimming_pool | Piscine |
 | fr | amenity_terrace | Terrasse |
 | fr | amenity_veranda | Véranda |
+| fr | amenity_water_supply | Arrivée d'eau |
 | fr | amenity_wc | WC |
 | fr | amenity_wheelchair | Praticable en chaise roulante |
 | fr | Animalerie | Animalerie |
