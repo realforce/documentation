@@ -86,6 +86,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Grangettes-près-Romont FR | Grangettes |
 | fr | Grangettes-près-Romont FR FR | Grangettes |
 | fr | Granois (Savièse) | Granois |
+| fr | Grone VS | Grône |
 | fr | Hautemorges | Pampigny |
 | fr | Jorat-Menthue | Peney-le-Jorat |
 | fr | Jorat-Mézières | Mézières |

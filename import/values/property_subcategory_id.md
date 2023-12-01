@@ -598,6 +598,7 @@
 | fr | Maison meublée | Maison meublée |
 | fr | Maison mitoyenne | Maison mitoyenne |
 | fr | Maison neuve | Maison neuve |
+| fr | Maison plurifamiliale | Maison |
 | fr | Maison PPE | Maison PPE |
 | fr | Maison rénovée | Maison rénovée |
 | fr | Maison sur plan | Maison sur plan |
@@ -619,6 +620,7 @@
 | fr | Pavillon | Pavillon |
 | fr | Péniche | Péniche |
 | fr | Pizzeria  | Pizzeria  |
+| fr | Place couverte | Parking |
 | fr | Place d'amarrage | Place d'amarrage |
 | fr | Place de camping | Place de camping |
 | fr | Place de parc couverte | Place de parc couverte |
