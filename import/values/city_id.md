@@ -14,7 +14,9 @@ You will only find below values that have a different spelling than the one Real
 | fr | 1297 | Founex |
 | fr | 1302 | Vufflens-la-Ville |
 | fr | AcLens VS | Aclens |
+| fr | Aigle VD | Aigle |
 | fr | Aproz (Nendaz) | Aproz |
+| fr | Arveyes VD | Arveyes |
 | fr | Arzier-Le Muids | Arzier |
 | fr | Arzier-LeMuids | Arzier |
 | fr | Athenaz (Avusy) | Athenaz |
@@ -32,7 +34,9 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bogis-Bosse | Bogis-Bossey |
 | fr | BouLens VS | Boulens |
 | fr | Boussens VD | Boussens |
+| fr | Bouveret VS | Bouveret |
 | fr | BrembLens VS | Bremblens |
+| fr | Brent VD | Brent |
 | fr | Buchillon, Aclens | Buchillon |
 | fr | Bussigny-près-Lausanne | Bussigny |
 | fr | Bussigny-près-Lausanne VD | Bussigny |
@@ -43,6 +47,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Chailly-Rovéréaz | Lausanne |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
+| fr | Chexbres VD | Chexbres |
 | fr | Clarens VD | Clarens |
 | fr | Clèbes (Nendaz) | Clèbes |
 | fr | Collex | Collex-Bossy |
@@ -50,12 +55,15 @@ You will only find below values that have a different spelling than the one Real
 | fr | Collombey VS | Collombey-Muraz |
 | fr | Colombier B | Colombier |
 | fr | Colombier NE | Colombier |
+| fr | Corseaux VD | Corseaux |
 | fr | Corsier GE | Corsier |
+| fr | Corsier-sur-Vevey VD | Corsier-sur-Vevey |
 | fr | CorsierGE | Corsier |
 | fr | Cossonay-Gare | Cossonay |
 | fr | Cottens FR | Cottens |
 | fr | Cottens VD | Cottens |
 | fr | Crans | Crans-près-Céligny |
+| fr | Crans-Montana VS | Crans-Montana |
 | fr | Cugy | Cugy (FR) |
 | fr | Cugy VD | Cugy (VD) |
 | fr | CugyVD | Cugy (VD) |
@@ -72,9 +80,12 @@ You will only find below values that have a different spelling than the one Real
 | fr | EcubLens VS VD | Écublens (VD) |
 | fr | Esch-sur-Alzette | Luxembourg  |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
+| fr | Eysins VD | Eysins |
 | fr | Fenil-sur-Co | Fenil-sur-Corsier |
+| fr | Fenil-sur-Corsier VD | Fenil-sur-Corsier |
 | fr | FerLens VS | Ferlens |
 | fr | Fes | Fès |
+| fr | Fontanivent VD | Fontanivent |
 | fr | Forel (Lavaux) | Forel |
 | fr | Frensdorf | Berlin |
 | fr | Gland VD | Gland |
