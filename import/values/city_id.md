@@ -25,9 +25,12 @@ You will only find below values that have a different spelling than the one Real
 | fr | BalLens VS | Ballens |
 | fr | Basel | Bâle |
 | fr | Bellerive VD | Bellerive |
+| fr | Belmont-sur-Lausanne VD | Belmont-sur-Lausanne |
 | fr | Bern | Berne |
 | fr | Bernex GE | Bernex |
+| fr | Bex VD | Bex |
 | fr | Biel/Bienne | Biel / Bienne |
+| fr | Blonay VD | Blonay |
 | fr | Blonay, Avenches | Blonay |
 | fr | Blonay-Saint-Légier | Blonay |
 | fr | BoffLens VS | Bofflens |
@@ -35,9 +38,11 @@ You will only find below values that have a different spelling than the one Real
 | fr | BouLens VS | Boulens |
 | fr | Boussens VD | Boussens |
 | fr | Bouveret VS | Bouveret |
+| fr | Bremblens VD | Bremblens |
 | fr | BrembLens VS | Bremblens |
 | fr | Brent VD | Brent |
 | fr | Buchillon, Aclens | Buchillon |
+| fr | Bussigny VD | Bussigny |
 | fr | Bussigny-près-Lausanne | Bussigny |
 | fr | Bussigny-près-Lausanne VD | Bussigny |
 | fr | Capellen | Luxembourg  |
@@ -45,8 +50,13 @@ You will only find below values that have a different spelling than the one Real
 | fr | CarougeGE | Carouge |
 | fr | Chailly-Montreux VD | Chailly-Montreux |
 | fr | Chailly-Rovéréaz | Lausanne |
+| fr | Chamby VD | Chamby |
+| fr | Chardonne VD | Chardonne |
+| fr | Châtel-Saint-Denis FG | Châtel-Saint-Denis |
+| fr | Châtelard VD | Châtelard |
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
+| fr | Chernex VD | Chernex |
 | fr | Chexbres VD | Chexbres |
 | fr | Clarens VD | Clarens |
 | fr | Clèbes (Nendaz) | Clèbes |
@@ -55,6 +65,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Collombey VS | Collombey-Muraz |
 | fr | Colombier B | Colombier |
 | fr | Colombier NE | Colombier |
+| fr | Cornaux NL | Cornaux |
 | fr | Corseaux VD | Corseaux |
 | fr | Corsier GE | Corsier |
 | fr | Corsier-sur-Vevey VD | Corsier-sur-Vevey |
@@ -78,6 +89,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Ecublens VD | Écublens (VD) |
 | fr | EcubLens VS | Écublens (VD) |
 | fr | EcubLens VS VD | Écublens (VD) |
+| fr | Épalinges VD | Épalinges |
 | fr | Esch-sur-Alzette | Luxembourg  |
 | fr | ESSERTINES-YDON | Essertines-sur-Yverdon |
 | fr | Eysins VD | Eysins |
@@ -88,6 +100,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Fontanivent VD | Fontanivent |
 | fr | Forel (Lavaux) | Forel |
 | fr | Frensdorf | Berlin |
+| fr | Genève GE | Genève |
 | fr | Gland VD | Gland |
 | fr | Gland VD VD | Gland |
 | fr | Goumoëns | Goumoens-la-Ville |
@@ -99,27 +112,38 @@ You will only find below values that have a different spelling than the one Real
 | fr | Granois (Savièse) | Granois |
 | fr | Grone VS | Grône |
 | fr | Hautemorges | Pampigny |
+| fr | Jongny VD | Jongny |
 | fr | Jorat-Menthue | Peney-le-Jorat |
 | fr | Jorat-Mézières | Mézières |
 | fr | Jorat-Mézières VD | Mézières |
 | fr | La Comballaz | Ormont-Dessous |
 | fr | La Croix | La Croix (Lutry) |
+| fr | La Croix (Lutry) VD | La Croix (Lutry) |
 | fr | La Joux FR | La Joux |
+| fr | La Tour-de-Peilz VD | La Tour-de-Peilz |
 | fr | LaCh | La Chaux |
 | fr | LaConversion | La Conversion |
 | fr | LaCroix-de-Rozon | La Croix-de-Rozon |
 | fr | LAUSANNE 26 | Lausanne |
+| fr | Lausanne VD | Lausanne |
 | fr | Lavey-les-Bains | Lavey-Morcles |
 | fr | Lavey-Village | Lavey-Morcles |
+| fr | Lavigny VD | Lavigny |
+| fr | Le Chenit VD | Le Chenit |
+| fr | Le Mont-Pèlerin VD | Le Mont-Pèlerin |
 | fr | LeGrand-Saconnex | Le Grand-Saconnex |
 | fr | LeMont-sur-Lausanne | Le Mont-sur-Lausanne |
 | fr | Lens VS | Lens |
 | fr | Les Agettes VS | Les Agettes |
+| fr | Les Monts-de-Corsier VD | Les Monts-de-Corsier |
+| fr | Les paccots FG | Les paccots |
 | fr | LesAcacias | Acacias |
 | fr | LeSentier | Le Sentier |
 | fr | LeVaud | Le Vaud |
+| fr | Lonay VD | Lonay |
 | fr | Lully VD | Lully |
 | fr | Lully VD VD | Lully |
+| fr | Lutry VD | Lutry |
 | fr | Maxilly-sur-Léman | Évian-les-Bains |
 | fr | MEX VD | Mex |
 | fr | Mézières Lavaux | Mézières |
@@ -136,23 +160,31 @@ You will only find below values that have a different spelling than the one Real
 | fr | Montreux VD | Montreux |
 | fr | MORAT | Morat (Murten) |
 | fr | Morcles | Lavey-Morcles |
+| fr | Morges VD | Morges |
 | fr | Muraz (Collombey) | Collombey-Muraz |
 | fr | Na Jomtien Sattahip District Chon Buri | Na Chom Thian |
+| fr | Nyon VD | Nyon |
 | fr | OLLON VD | Ollon |
 | fr | OuLens VS-sous-EchalLens VS | Oulens-sous-Échallens |
 | fr | Perly | Perly-Certoux |
 | fr | Perroy VD | Perroy |
+| fr | Port-Valais VS | Port-Valais |
 | fr | Pregny | Pregny-Chambésy |
 | fr | Puidoux-Gare | Puidoux |
+| fr | Pully VD | Pully |
 | fr | RenensVD | Renens |
+| fr | Rolle VD | Rolle |
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
+| fr | Romanel-sur-Morges VD | Romanel-sur-Morges |
 | fr | Romont FR | Romont |
 | fr | Romont FR FR | Romont |
 | fr | Rougemont VD | Rougemont |
 | fr | Saclentz (Nendaz) | Saclentz |
 | fr | Saint-Cergue | St-Cergue |
 | fr | Saint-Cierges | St-Cierges |
+| fr | Saint-Légier-La Chiésaz VD | Saint-Légier-La Chiésaz |
+| fr | Saint-Prex VD | Saint-Prex |
 | fr | Saint-sulpice VD | Saint-Sulpice |
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
 | fr | Sâles FR | Sâles |
@@ -162,6 +194,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Secteur Nicolas | Lausanne |
 | fr | Sédeilles | Villarzel |
 | fr | SenarcLens VS | Senarclens |
+| fr | Sierre VS | Sierre |
 | fr | Siviez (Nendaz) | Siviez |
 | fr | Sous-Gare-Ouchy | Lausanne |
 | fr | ST-AUBIN FR | Saint-Aubin |
@@ -176,11 +209,16 @@ You will only find below values that have a different spelling than the one Real
 | fr | SulLens VS | Sullens |
 | fr | Tannay VD | Tannay |
 | fr | TannayVD | Tannay |
+| fr | Tavel VD | Tavel |
 | fr | Terre-Sainte | Nyon |
+| fr | Territet VD | Territet |
 | fr | Territet-Veytaux | Territet |
 | fr | Turin (Salins) | Turin |
 | fr | Valbroye | Cerniaz |
 | fr | Vétraz-Monthoux | Vétraz-Monthoux |
+| fr | Vevey VD | Vevey |
+| fr | Veytaux VD | Veytaux |
+| fr | Veytaux-Chillon VD | Veytaux-Chillon |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
 | fr | Villars-sur-Ollon VD | Villars-sur-Ollon |
 | fr | Villeneuve FR | Villeneuve |
@@ -188,6 +226,9 @@ You will only find below values that have a different spelling than the one Real
 | fr | Villeneuve(VD) | Villeneuve |
 | fr | VilleneuveVD | Villeneuve |
 | fr | Vinet-Pontaise | Lausanne |
+| fr | Vinzel VD | Vinzel |
+| fr | Vionnaz VS | Vionnaz |
+| fr | Vouvry VS | Vouvry |
 | fr | VuffLens VS-la-Ville | Vufflens-la-Ville |
 | fr | VuffLens VS-le-Château | Vufflens-le-Château |
 | fr | VUFFLENS-VILLE | Vufflens-la-Ville |

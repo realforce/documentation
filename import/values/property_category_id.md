@@ -77,6 +77,7 @@
 | fr | Box extérieur | Parking |
 | fr | Box intérieur | Parking |
 | fr | Bureau | Bureau |
+| fr | Cabinet médical | Local commercial |
 | fr | Camping | Camping |
 | fr | Casa | Maison |
 | fr | category_chalet | Chalet |
