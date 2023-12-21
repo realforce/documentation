@@ -181,6 +181,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Fenalet-sur-Bex VD | Fenalet-sur-Bex |
 | fr | Fenil-sur-Corsier VD | Fenil-sur-Corsier |
 | fr | Fenin-Vilars-Saules NL | Fenin-Vilars-Saules |
+| fr | Florissant - Malagnou GE | Florissant - Malagnou |
 | fr | Fontainemelon NL | Fontainemelon |
 | fr | Fontaines NL | Fontaines |
 | fr | Forel VD | Forel |

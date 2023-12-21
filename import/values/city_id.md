@@ -35,6 +35,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Blonay-Saint-Légier | Blonay |
 | fr | BoffLens VS | Bofflens |
 | fr | Bogis-Bosse | Bogis-Bossey |
+| fr | Bougy-Villars VD | Bougy-Villars |
 | fr | BouLens VS | Boulens |
 | fr | Boussens VD | Boussens |
 | fr | Bouveret VS | Bouveret |
@@ -42,6 +43,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | BrembLens VS | Bremblens |
 | fr | Brent VD | Brent |
 | fr | Buchillon, Aclens | Buchillon |
+| fr | Burtigny VD | Burtigny |
 | fr | Bussigny VD | Bussigny |
 | fr | Bussigny-près-Lausanne | Bussigny |
 | fr | Bussigny-près-Lausanne VD | Bussigny |
@@ -57,6 +59,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | CHAUX-DE-FONDS | La Chaux-de-Fonds |
 | fr | CHAVANNES-RENENS | Chavannes-près-Renens |
 | fr | Chernex VD | Chernex |
+| fr | Chesières VD | Chesières |
 | fr | Chexbres VD | Chexbres |
 | fr | Clarens VD | Clarens |
 | fr | Clèbes (Nendaz) | Clèbes |
@@ -65,6 +68,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Collombey VS | Collombey-Muraz |
 | fr | Colombier B | Colombier |
 | fr | Colombier NE | Colombier |
+| fr | Commugny VD | Commugny |
+| fr | Coppet VD | Coppet |
 | fr | Cornaux NL | Cornaux |
 | fr | Corseaux VD | Corseaux |
 | fr | Corsier GE | Corsier |
@@ -101,6 +106,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Forel (Lavaux) | Forel |
 | fr | Frensdorf | Berlin |
 | fr | Genève GE | Genève |
+| fr | Genolier VD | Genolier |
 | fr | Gland VD | Gland |
 | fr | Gland VD VD | Gland |
 | fr | Goumoëns | Goumoens-la-Ville |
@@ -153,6 +159,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Mollens VS | Mollens |
 | fr | MolLens VS VS | Mollens |
 | fr | MONT-PELERIN | Le Mont-Pèlerin |
+| fr | Mont-sur-Rolle VD | Mont-sur-Rolle |
 | fr | Montanaire | Thierrens |
 | fr | Montet (Glâne) | Montet |
 | fr | Montilier | Montilier (Muntelier) |
@@ -179,11 +186,13 @@ You will only find below values that have a different spelling than the one Real
 | fr | Romanel-sur-Morges VD | Romanel-sur-Morges |
 | fr | Romont FR | Romont |
 | fr | Romont FR FR | Romont |
+| fr | Rossinière VD | Rossinière |
 | fr | Rougemont VD | Rougemont |
 | fr | Saclentz (Nendaz) | Saclentz |
 | fr | Saint-Cergue | St-Cergue |
 | fr | Saint-Cierges | St-Cierges |
 | fr | Saint-Légier-La Chiésaz VD | Saint-Légier-La Chiésaz |
+| fr | Saint-Oyens VD | Saint-Oyens |
 | fr | Saint-Prex VD | Saint-Prex |
 | fr | Saint-sulpice VD | Saint-Sulpice |
 | fr | Saint-Sulpice VD VD | Saint-Sulpice |
@@ -217,6 +226,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Valbroye | Cerniaz |
 | fr | Vétraz-Monthoux | Vétraz-Monthoux |
 | fr | Vevey VD | Vevey |
+| fr | Veyrier GE | Veyrier |
 | fr | Veytaux VD | Veytaux |
 | fr | Veytaux-Chillon VD | Veytaux-Chillon |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
