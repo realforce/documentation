@@ -4,21 +4,27 @@
 
 | Language | Supported value | RealForce value |
 | :--- | :--- | :--- |
+| de | Arkade | Arkade |
 | de | Autogarage  | Autogarage  |
 | de | Boot | Boot |
+| de | Büro | Büro |
 | de | Camping | Camping |
 | de | Chalet | Chalet |
 | de | Ferienwohnung | Ferienwohnung |
 | de | Garage | Garage |
 | de | Gebäude | Gebäude |
 | de | Geschäftslokal | Geschäftslokal |
+| de | Gewerbefläche | Gewerbefläche |
 | de | Grundstück | Grundstück |
 | de | Haus | Haus |
 | de | Hotellerie | Hotellerie |
 | de | Industrieel oppervlak | Industrieel oppervlak |
+| de | Industrieflächen | Industrieflächen |
+| de | Industriehalle | Industriehalle |
 | de | Industriële hal | Industriële hal |
 | de | Insel | Insel |
 | de | Kantoor | Kantoor |
+| de | Lager | Lager |
 | de | Magazijn | Magazijn |
 | de | Mobile Home | Mobile Home |
 | de | Parkplatz | Parkplatz |
@@ -27,7 +33,10 @@
 | de | Schlüsselfertig | Schlüsselfertig |
 | de | Speelhal | Speelhal |
 | de | Unternehmen | Unternehmen |
+| de | Villa | Villa |
+| de | Werbeplakat | Werbeplakat |
 | de | werkplaats | werkplaats |
+| de | Werkstatt | Werkstatt |
 | de | Wohnnebenräume | Wohnnebenräume |
 | de | Wohnung | Wohnung |
 | en | Arcade | Arcade |

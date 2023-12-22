@@ -6,6 +6,7 @@
 | :--- | :--- | :--- |
 | de | Andere | Andere |
 | de | Angrenzend | Angrenzend |
+| de | Angrenzendes Haus | Angrenzendes Haus |
 | de | Anlegeplatz | Anlegeplatz |
 | de | Apartment Villa | Apartment Villa |
 | de | Arkade | Arkade |
@@ -39,10 +40,13 @@
 | de | Dance school | Dance school |
 | de | Diskothek  | Diskothek |
 | de | Domespace | Domespace |
+| de | Doppeleinfamilienhaus | Doppeleinfamilienhaus |
 | de | Doppelhaus | Doppelhaus |
 | de | Doppelparkplatz | Doppelparkplatz |
+| de | Dorfhaus | Dorfhaus |
 | de | Duplex | Duplex |
 | de | Durch Garagen verbundenes Doppelhaus | Durch Garagen verbundenes Doppelhaus |
+| de | Durchgangswohnung | Durchgangswohnung |
 | de | Durchgehende Wohnung | Durchgehende Wohnung |
 | de | Ebenerdiges Haus | Ebenerdiges Haus |
 | de | Eigentumswohnung | Eigentumswohnung |
@@ -92,6 +96,7 @@
 | de | Hotel Restaurant | Hotel Restaurant |
 | de | Industrieel oppervlak | Industrieel oppervlak |
 | de | Industriefläche | Industriefläche |
+| de | Industrieflächen | Industrieflächen |
 | de | Industriegebäude | Industriegebäude |
 | de | Industriehalle | Industriehalle |
 | de | Industrieland | Industrieland |
@@ -134,6 +139,7 @@
 | de | Motorradparkplatz innen | Motorradparkplatz innen |
 | de | Music school | Music school |
 | de | Nebengebäude | Nebengebäude |
+| de | Neubauwohnung | Neubauwohnung |
 | de | Neues Haus | Neues Haus |
 | de | Neuwohnung | Neuwohnung |
 | de | Pachtrecht | Pachtrecht |
@@ -211,6 +217,7 @@
 | de | Wohnanlage | Wohnanlage |
 | de | Wohnraum | Wohnraum |
 | de | Wohnung | Wohnung |
+| de | Wohnung ab Plan | Wohnung ab Plan |
 | de | Wohnung nach Plan | Wohnung nach Plan |
 | de | Zimmer | Zimmer |
 | de | Zu renovierende Wohnung | Zu renovierende Wohnung |
@@ -762,6 +769,7 @@
 | it | Discoteca | Discoteca |
 | it | Discoteca  | Discoteca  |
 | it | Domespace | Domespace |
+| it | Duplex-/ Maisonette  | Duplex-/ Maisonette  |
 | it | Edicola | Edicola |
 | it | Esposizione | Esposizione |
 | it | Fabbrica | Fabbrica |
