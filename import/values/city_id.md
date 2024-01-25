@@ -68,6 +68,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Collombey VS | Collombey-Muraz |
 | fr | Colombier B | Colombier |
 | fr | Colombier NE | Colombier |
+| fr | Colombier VD | Colombier |
 | fr | Commugny VD | Commugny |
 | fr | Coppet VD | Coppet |
 | fr | Cornaux NL | Cornaux |
@@ -90,6 +91,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Dompierre VD VD | Dompierre |
 | fr | Drône VS | Drône |
 | fr | EchalLens VS | Échallens |
+| fr | Échichens VD | Échichens |
 | fr | Ecublens | Écublens (FR) |
 | fr | Ecublens VD | Écublens (VD) |
 | fr | EcubLens VS | Écublens (VD) |
