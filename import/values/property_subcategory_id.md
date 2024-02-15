@@ -622,7 +622,7 @@
 | fr | Parking double | Parking double |
 | fr | Parking extérieur | Parking extérieur |
 | fr | Parking sous-terrain | Parking sous-terrain |
-| fr | Parking souterrain | Parking |
+| fr | Parking souterrain | Parking souterrain |
 | fr | Parkings | Parking |
 | fr | Pavillon | Pavillon |
 | fr | Péniche | Péniche |
