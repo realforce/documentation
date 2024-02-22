@@ -154,6 +154,7 @@
 | en | Gallery | Gallery |
 | en | Garage(s) | Garage(s) |
 | en | Garbage room(s) | Garbage room(s) |
+| en | Garden shed | Garden shed |
 | en | Garden shelter(s) | Garden shelter(s) |
 | en | Garden(s) | Garden(s) |
 | en | Hall(s) | Hall(s) |
@@ -244,6 +245,7 @@
 | fr | Box(es) | Box(es) |
 | fr | Buanderie(s) | Buanderie(s) |
 | fr | Bureau(x) | Bureau(x) |
+| fr | Cabanon de jardin | Cabanon de jardin |
 | fr | Cabine(s) | Cabine(s) |
 | fr | Cafétéria(s) | Cafétéria(s) |
 | fr | Carnotzet(s) | Carnotzet(s) |
@@ -364,6 +366,7 @@
 | it | Camera padronale | Camera padronale |
 | it | Cameretta | Cameretta |
 | it | Cantina | Cantina |
+| it | Capanno da giardino | Capanno da giardino |
 | it | Capannone | Capannone |
 | it | Capannone della barca | Capannone della barca |
 | it | Casa | Casa |
