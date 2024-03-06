@@ -10,6 +10,8 @@
 | en | Not allowed | Not allowed |
 | fr | 1 | Autorisée |
 | fr | Autorisée | Autorisée |
+| fr | FALSE | Non autorisée |
 | fr | Non autorisée | Non autorisée |
+| fr | TRUE | Autorisée |
 | it | Consentito | Consentito |
 | it | Non consentito | Non consentito |
