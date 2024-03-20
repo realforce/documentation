@@ -129,6 +129,7 @@
 | de | Friseur | Friseur |
 | de | Fussbodenheizung | Fussbodenheizung |
 | de | Galerie | Galerie |
+| de | Galetas | Galetas |
 | de | Gang | Gang |
 | de | Garage | Garage |
 | de | Garten | Garten |
@@ -209,6 +210,7 @@
 | de | Klimaanlage | Klimaanlage |
 | de | Kochecke | Kochecke |
 | de | Kochfeld | Kochfeld |
+| de | Kommissar | Kommissar |
 | de | Konditorei | Konditorei |
 | de | Kongresszentrum | Kongresszentrum |
 | de | Kosmetiker | Kosmetiker |
@@ -253,6 +255,7 @@
 | de | Parkett | Parkett |
 | de | Parkplatz | Parkplatz |
 | de | Patio | Patio |
+| de | Pergola | Pergola |
 | de | Pflanzenfaser | Pflanzenfaser |
 | de | Pflasterstein | Pflasterstein |
 | de | Photovoltaik-Module | Photovoltaik-Module |
@@ -456,6 +459,7 @@
 | en | Coffeemaker | Coffeemaker |
 | en | Cold water | Cold water |
 | en | Commercial services | Commercial services |
+| en | Commissary | Commissary |
 | en | Communal pool | Communal pool |
 | en | Community laundry room | Community laundry room |
 | en | Computer | Computer |
@@ -523,6 +527,7 @@
 | en | Funicular | Funicular |
 | en | Furnished | Furnished |
 | en | Furniture store | Furniture store |
+| en | Galetas | Galetas |
 | en | Gallery | Gallery |
 | en | Garage | Garage |
 | en | Garden  | Garden  |
@@ -629,6 +634,7 @@
 | en | Parquet | Parquet |
 | en | Patio | Patio |
 | en | Perfumery | Perfumery |
+| en | Pergola | Pergola |
 | en | Pet store | Pet store |
 | en | Phone | Phone |
 | en | Photo | Photo |
@@ -914,6 +920,7 @@
 | fr | Ecole primaire | Ecole primaire |
 | fr | Ecole secondaire | Ecole secondaire |
 | fr | Ecoles | Ecoles |
+| fr | Économat | Économat |
 | fr | Électroménager | Électroménager |
 | fr | Enduits | Enduits |
 | fr | Enfants bienvenus | Enfants bienvenus |
@@ -941,6 +948,7 @@
 | fr | Fromager | Fromager |
 | fr | Funiculaire | Funiculaire |
 | fr | Galerie | Galerie |
+| fr | Galetas | Galetas |
 | fr | Garage | Garage |
 | fr | Garderie | Garderie |
 | fr | Gardien | Gardien |
@@ -1034,6 +1042,7 @@
 | fr | Pêche | Pêche |
 | fr | Peinture | Peinture |
 | fr | Penderie | Penderie |
+| fr | Pergola | Pergola |
 | fr | Pharmacie | Pharmacie |
 | fr | Photo | Photo |
 | fr | Pied dans l'eau | Pied dans l'eau |
@@ -1258,6 +1267,7 @@
 | it | Climatizzatore centralizzato | Climatizzatore centralizzato |
 | it | Codice numerico digitale | Codice numerico digitale |
 | it | Commercial services | Commercial services |
+| it | Commissario | Commissario |
 | it | Connessione internet | Connessione internet |
 | it | Controsoffitto | Controsoffitto |
 | it | Coperture per tende motorizzate | Coperture per tende motorizzate |
@@ -1314,6 +1324,7 @@
 | it | Frigorifero | Frigorifero |
 | it | Fruttivendolo | Fruttivendolo |
 | it | Funicolare | Funicolare |
+| it | Galetas | Galetas |
 | it | Galleria | Galleria |
 | it | Garage | Garage |
 | it | Gastronomia | Gastronomia |
@@ -1409,6 +1420,7 @@
 | it | Pasticceria | Pasticceria |
 | it | Patio | Patio |
 | it | Pensili | Pensili |
+| it | Pergola | Pergola |
 | it | Pergolato | Pergolato |
 | it | Pescheria | Pescheria |
 | it | Piano di cottura | Piano di cottura |
