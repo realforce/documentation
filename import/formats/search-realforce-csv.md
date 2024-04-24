@@ -18,27 +18,27 @@
 | 12 | string | [Property Sonority](../values/property_sonority_id.md) | Semicolon separated list of property sonorities |
 | 13 | string | [Property Space Type](../values/property_space_type_id.md) | Semicolon separated list of property space types |
 | 14 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
-| 15 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
-| 16 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 17 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
-| 18 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
-| 19 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
-| 20 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
-| 21 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
-| 22 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
-| 23 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
-| 24 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
-| 25 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
-| 26 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
-| 27 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
-| 28 |  |  | Property is new |
-| 29 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
-| 30 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Search is hidden in global matching |
+| 17 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
+| 18 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
+| 19 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
+| 20 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
+| 21 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
+| 22 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
+| 23 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
+| 24 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
+| 25 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
+| 26 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
+| 27 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
+| 28 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
+| 29 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
+| 30 |  |  | Property is new |
+| 31 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
+| 32 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Search is hidden in global matching |
 
 ## Sample
 
 [search-realforce.csv](../samples/search-realforce.csv)
 ```
-ID,managerAccountId,contactContactId,statusId,transactionTypeId,categoryId,subcategoryId,positionIds,furnishingIds,styleIds,viewIds,sonorityIds,propertySpaceTypeIds,realLocation,label,comment,priceMin,priceMax,areaMin,areaMax,roomMin,roomMax,bedroomMin,bedroomMax,landMin,landMax,updateDate,isPropertyNew,isAllowedForeigners,isHiddenMatching
-IDSEARCH00001,IDUSER002,IDCONTACT000002,En cours,Location,Appartement,Appartement à rénover,Combles; Dernier étage,Non meublé; Meublé,Rustique; Classique,Aperçu; Belle vue; Campagne,Bruyant; Normal,Abri(s) de jardin; Arcade(s); Balcon(s),"{""name"":""genève"", ""level"":""canton""}; {""name"":""genève"", ""level"":""city""}",Recherche importée de test,Ceci est un commentaire de test,1000,2000,100,200,3,4,1,2,1000,2000,2022-07-01,null,TRUE,FALSE
+ID,managerAccountId,contactContactId,statusId,transactionTypeId,categoryId,subcategoryId,positionIds,furnishingIds,styleIds,viewIds,sonorityIds,propertySpaceTypeIds,realLocation,sectorIds,zipIds,label,comment,priceMin,priceMax,areaMin,areaMax,roomMin,roomMax,bedroomMin,bedroomMax,landMin,landMax,updateDate,isPropertyNew,isAllowedForeigners,isHiddenMatching
+IDSEARCH00001,IDUSER002,IDCONTACT000002,En cours,Location,Appartement,Appartement à rénover,Combles; Dernier étage,Non meublé; Meublé,Rustique; Classique,Aperçu; Belle vue; Campagne,Bruyant; Normal,Abri(s) de jardin; Arcade(s); Balcon(s),"{""name"":""genève"", ""level"":""canton""}; {""name"":""genève"", ""level"":""city""}",,,Recherche importée de test,Ceci est un commentaire de test,1000,2000,100,200,3,4,1,2,1000,2000,2022-07-01,null,TRUE,FALSE
 ```
