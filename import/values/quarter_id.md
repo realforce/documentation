@@ -17,6 +17,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Annemasse RS | Annemasse |
 | fr | Apples VD | Apples |
 | fr | Aproz VS | Aproz |
+| fr | Aran VD | Aran |
 | fr | Aranno TN | Aranno |
 | fr | Arbaz VS | Arbaz |
 | fr | Ardon VS | Ardon |
@@ -27,6 +28,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Assens VD | Assens |
 | fr | Attalens FG | Attalens |
 | fr | Aubonne VD | Aubonne |
+| fr | Auboranges FG | Auboranges |
 | fr | Auddes-sur-Riddes VS | Auddes sur Riddes |
 | fr | Avenches VD | Avenches |
 | fr | Avully GE | Avully |
@@ -40,8 +42,10 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bellevue GE | Bellevue |
 | fr | Belmont BE | Belmont |
 | fr | Belmont-sur-Lausanne VD | Belmont-sur-Lausanne |
+| fr | Belmont-sur-Yverdon VD | Belmont-sur-Yverdon |
 | fr | Bernex GE | Bernex |
 | fr | Berolle VD | Berolle |
+| fr | Béthusy VD | Béthusy |
 | fr | Bettens VD | Bettens |
 | fr | Bex VD | Bex |
 | fr | Biel/Bienne | Bienne |
@@ -73,12 +77,14 @@ You will only find below values that have a different spelling than the one Real
 | fr | Bussigny VD | Bussigny |
 | fr | Bussigny-près-Lausanne | Bussigny |
 | fr | Bussigny-près-Lausanne VD | Bussigny |
+| fr | Bussigny-sur-Oron VD | Bussigny-sur-Oron |
 | fr | Bussy-Chardonney VD | Bussy-Chardonney |
 | fr | Carouge GE | Carouge |
 | fr | Carrouge VD | Carrouge |
 | fr | Cartigny GE | Cartigny |
 | fr | Caux VD | Caux |
 | fr | Céligny GE | Céligny |
+| fr | Centre VD | Centre |
 | fr | Cernier NL | Cernier |
 | fr | Chailly VD | Chailly |
 | fr | Chailly-Montreux VD | Chailly-Montreux |
@@ -96,6 +102,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Châtelard VD | Châtelard |
 | fr | Châtroz VS | Châtroz |
 | fr | Chaumont NL | Chaumont |
+| fr | Chavannes BE | Chavannes-de-Bogis |
 | fr | Chavannes-de-Bogis VD | Chavannes-de-Bogis |
 | fr | Chavannes-des-Bois VD | Chavannes-des-Bois |
 | fr | Chavannes-près-Renens VD | Chavannes-près-Renens |
@@ -137,6 +144,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Corseaux VD | Corseaux |
 | fr | Corsier GE | Corsier |
 | fr | Corsier-sur-Vevey VD | Corsier-sur-Vevey |
+| fr | Cossonay VD | Cossonay |
 | fr | Cossonay-Gare | Cossonay |
 | fr | Cossonay-Ville VD | Cossonay-Ville |
 | fr | Cottens VD | Cottens |
@@ -148,19 +156,24 @@ You will only find below values that have a different spelling than the one Real
 | fr | Crissier VD | Crissier |
 | fr | Cuarnens VD | Cuarnens |
 | fr | Cugy | Cugy (VD) |
+| fr | Cugy (VD) VD | Cugy (VD) |
 | fr | Cully VD | Cully |
+| fr | Daillens VD | Daillens |
 | fr | Daillon VS | Daillon |
 | fr | Dardagny GE | Dardagny |
 | fr | Denens VD | Denens |
 | fr | Denges VD | Denges |
+| fr | Dizy VD | Dizy |
 | fr | Dombresson NL | Dombresson |
 | fr | Dugny IE | Dugny |
 | fr | Duillier VD | Duillier |
+| fr | Dully VD | Dully |
 | fr | Dully-Bursinel VD | Dully-Bursinel |
 | fr | Échallens VD | Échallens |
 | fr | Échandens VD | Échandens |
 | fr | Echandens-Denges VD | Echandens-Denges |
 | fr | Échichens VD | Échichens |
+| fr | Éclépens VD | Éclépens |
 | fr | Ecublens | Écublens (VD) |
 | fr | Écublens (VD) VD | Écublens (VD) |
 | fr | Ecublens VD | Écublens (VD) |
@@ -174,6 +187,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Escherin VD | Escherin |
 | fr | Essertines-sur-Rolle VD | Essertines-sur-Rolle |
 | fr | Estavayer-le-Lac FG | Estavayer-le-Lac |
+| fr | Étagnières VD | Étagnières |
 | fr | Étoy VD | Étoy |
 | fr | Evionnaz VS | Evionnaz |
 | fr | Eysins VD | Eysins |
@@ -200,6 +214,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Gland VD VD | Gland |
 | fr | Glion VD | Glion |
 | fr | Gollion VD | Gollion |
+| fr | Goumoens-la-Ville VD | Goumoens-la-Ville |
+| fr | Grancy VD | Grancy |
 | fr | Grandson VD | Grandson |
 | fr | Grandvaux VD | Grandvaux |
 | fr | Granges VS VS | Granges |
@@ -250,6 +266,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Les Avanchets GE | Les Avanchets |
 | fr | Les Avants  VD | Les Avants  |
 | fr | Les bioux VD | Les bioux |
+| fr | Les Cullayes VD | Les Cullayes |
 | fr | Les Diablerets VD | Les Diablerets |
 | fr | Les Evouettes VS | Les Evouettes |
 | fr | Les Geneveys-sur-Coffrane NL | Les Geneveys-sur-Coffrane |
@@ -266,6 +283,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Luins VD | Luins |
 | fr | Lully FG | Lully |
 | fr | Lully VD | Lully |
+| fr | Lussery-Villars VD | Lussery-Villars |
 | fr | Lussy-sur-Morges VD | Lussy-sur-Morges |
 | fr | Lutry VD | Lutry |
 | fr | Marchissy VD | Marchissy |
@@ -279,6 +297,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Meinier GE | Meinier |
 | fr | Mex VD | Mex |
 | fr | Meyrin GE | Meyrin |
+| fr | Mézières FG | Mézières |
 | fr | Mies VD | Mies |
 | fr | Mies-Tannay VD | Mies-Tannay |
 | fr | Mission VS | Mission |
@@ -289,16 +308,20 @@ You will only find below values that have a different spelling than the one Real
 | fr | Monteiller-Savièse VS | Monteiller-Savièse |
 | fr | Montet (Glâne) | Montet |
 | fr | Montmollin NL | Montmollin |
+| fr | Montpreveyres VD | Montpreveyres |
 | fr | Montreux VD | Montreux |
 | fr | Montricher VD | Montricher |
 | fr | Morges VD | Morges |
 | fr | Morrens VD | Morrens |
+| fr | Moudon VD | Moudon |
 | fr | Neuchâtel NL | Neuchâtel |
 | fr | Niouc VS | Niouc |
 | fr | Noës VS | Noës |
 | fr | Nyon VD | Nyon |
 | fr | Ollon VD | Ollon |
 | fr | Orbe VD | Orbe |
+| fr | Oron-la-Ville VD | Oron-la-Ville |
+| fr | Ouchy VD | Ouchy |
 | fr | Ovronnaz VS | Ovronnaz |
 | fr | Palézieux VD | Palézieux |
 | fr | Pampigny VD | Pampigny |
@@ -310,6 +333,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Perroy VD | Perroy |
 | fr | Pizy VD | Pizy |
 | fr | Plan-les-Ouates GE | Plan-les-Ouates |
+| fr | Poliez-Pittet VD | Poliez-Pittet |
 | fr | Pont-Céard GE | Pont-Céard |
 | fr | Prangins VD | Prangins |
 | fr | Presinge GE | Presinge |
@@ -322,6 +346,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Réchy VS | Réchy |
 | fr | Remaufens FG | Remaufens |
 | fr | Renens VD | Renens |
+| fr | Renges VD | Renges |
 | fr | Reverolle VD | Reverolle |
 | fr | Riddes VS | Riddes |
 | fr | Riex VD | Riex |
@@ -332,6 +357,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Romanel-sur-Lausanne VD | Romanel-sur-Lausanne |
 | fr | Romanel-sur-Morges VD | Romanel-sur-Morges |
 | fr | Romont FR | Romont |
+| fr | Ropraz VD | Ropraz |
 | fr | Russin GE | Russin |
 | fr | Saclentz VS | Saclentz |
 | fr | Saillon VS | Saillon |
@@ -351,6 +377,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Satigny GE | Satigny |
 | fr | Saules BE | Saules |
 | fr | Savigny VD | Savigny |
+| fr | Savuit VD | Savuit |
 | fr | Semsales FG | Semsales |
 | fr | Senarclens VD | Senarclens |
 | fr | Sévery VD | Sévery |
@@ -361,6 +388,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Sion VS | Sion |
 | fr | Siviriez FG | Siviriez |
 | fr | Soral GE | Soral |
+| fr | Sous-Gare VD | Sous-Gare |
 | fr | St-Cergue VD | St-Cergue |
 | fr | Sullens VD | Sullens |
 | fr | Tannay VD | Tannay |
@@ -390,12 +418,15 @@ You will only find below values that have a different spelling than the one Real
 | fr | Vich-Coinsins VD | Vich-Coinsins |
 | fr | Villard-sur-Chamby VD | Villard-sur-Chamby |
 | fr | Villars-le-Grand VD | Villars-le-Grand |
+| fr | Villars-le-Terroir VD | Villars-le-Terroir |
 | fr | Villars-Sainte-Croix VD | Villars-Sainte-Croix |
 | fr | Villars-sous-Yens VD | Villars-sous-Yens |
 | fr | Villars-sur-Glâne FG | Villars-sur-Glâne |
 | fr | Villars-sur-Ollon VD | Villars-sur-Ollon |
+| fr | Villars-Tiercelin VD | Villars-Tiercelin |
 | fr | Villeneuve FG | Villeneuve |
 | fr | Villeneuve VD | Villeneuve |
+| fr | Villette VD | Villette |
 | fr | Villiers NL | Villiers |
 | fr | Vinzel VD | Vinzel |
 | fr | Vissoie VS | Vissoie |
