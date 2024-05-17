@@ -21,8 +21,10 @@
 | de | Büro | Büro |
 | de | Cafeteria | Cafeteria |
 | de | Carnotzet | Carnotzet |
+| de | Combles | Combles |
 | de | Dachterrasse | Dachterrasse |
 | de | Discothek | Discothek |
+| de | Disponible | Disponible |
 | de | Doppelter Empfangsraum | Doppelter Empfangsraum |
 | de | Dusche | Dusche |
 | de | Dusche / Toilette | Dusche / Toilette |
@@ -36,6 +38,7 @@
 | de | Estrich | Estrich |
 | de | Exterior | Exterior |
 | de | Galerie | Galerie |
+| de | Galetas | Galetas |
 | de | Gang | Gang |
 | de | Garage | Garage |
 | de | Garderobenschrank | Garderobenschrank |
@@ -138,6 +141,7 @@
 | en | Carnotzet(s) | Carnotzet(s) |
 | en | Cellar(s) | Cellar(s) |
 | en | Closet(s) | Closet(s) |
+| en | Combles | Combles |
 | en | Corridor(s) | Corridor(s) |
 | en | Courtyard(s) | Courtyard(s) |
 | en | Covered balcony | Covered balcony |
@@ -145,12 +149,14 @@
 | en | Cupboard(s) | Cupboard(s) |
 | en | Dining room / kitchen | Dining room / kitchen |
 | en | Dining room(s) | Dining room(s) |
+| en | Disponible | Disponible |
 | en | Double reception room(s) | Double reception room(s) |
 | en | Entrance(s) | Entrance(s) |
 | en | Equipped kitchen | Equipped kitchen |
 | en | Exercise room(s) | Exercise room(s) |
 | en | Exterior | Exterior |
 | en | Exterior swimming pool(s) | Exterior swimming pool(s) |
+| en | Galetas | Galetas |
 | en | Gallery | Gallery |
 | en | Garage(s) | Garage(s) |
 | en | Garbage room(s) | Garbage room(s) |
@@ -256,6 +262,7 @@
 | fr | Chambre(s) de maître | Chambre(s) de maître |
 | fr | Chambre(s) de service | Chambre(s) de service |
 | fr | Cinéma(s) | Cinéma(s) |
+| fr | Combles | Combles |
 | fr | Commerce(s) | Commerce(s) |
 | fr | Couloir(s) | Couloir(s) |
 | fr | Cour(s) | Cour(s) |
@@ -271,6 +278,7 @@
 | fr | Dégagement(s) | Dégagement(s) |
 | fr | Dépendance(s) | Dépendance(s) |
 | fr | Dépôt | Dépôt |
+| fr | Disponible | Disponible |
 | fr | Double réception | Double réception |
 | fr | Dressing(s) | Dressing(s) |
 | fr | Entrée(s) | Entrée(s) |
@@ -278,6 +286,7 @@
 | fr | Escalier(s) | Escalier(s) |
 | fr | Exterieur | Extérieur |
 | fr | Galerie | Galerie |
+| fr | Galetas | Galetas |
 | fr | Garage(s) | Garage(s) |
 | fr | Grange(s) | Grange(s) |
 | fr | Grenier(s) | Grenier(s) |
@@ -370,6 +379,7 @@
 | it | Capannone | Capannone |
 | it | Capannone della barca | Capannone della barca |
 | it | Casa | Casa |
+| it | Combles | Combles |
 | it | Corridoio | Corridoio |
 | it | Cortile | Cortile |
 | it | Cucina | Cucina |
@@ -381,6 +391,7 @@
 | it | Cucinino | Cucinino |
 | it | Discoteca | Discoteca |
 | it | Disimpegno | Disimpegno |
+| it | Disponible | Disponible |
 | it | Doccia / WC | Doccia / WC |
 | it | Doppia reception | Doppia reception |
 | it | Esterno | Esterno |
@@ -389,6 +400,7 @@
 | it | Fabbricato annesso | Fabbricato annesso |
 | it | Fienile | Fienile |
 | it | Foresteria | Foresteria |
+| it | Galetas | Galetas |
 | it | Galleria | Galleria |
 | it | Garage | Garage |
 | it | Giardino | Giardino |
