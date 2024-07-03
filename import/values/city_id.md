@@ -284,6 +284,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Vinet-Pontaise | Lausanne |
 | fr | Vinzel VD | Vinzel |
 | fr | Vionnaz VS | Vionnaz |
+| fr | Visp | Viège |
 | fr | Vouvry VS | Vouvry |
 | fr | VuffLens VS-la-Ville | Vufflens-la-Ville |
 | fr | VuffLens VS-le-Château | Vufflens-le-Château |

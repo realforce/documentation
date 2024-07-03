@@ -44,12 +44,15 @@
 | en | Suspended | Suspended |
 | fr | # | # |
 | fr | Actif | Actif |
+| fr | actived | Actif |
 | fr | Archivé | Actif |
+| fr | archived | Actif |
 | fr | Chantier ouvert | Chantier ouvert |
 | fr | Contrat expiré | Contrat expiré |
 | fr | Contrat résilié | Contrat résilié |
 | fr | En cours | Actif |
 | fr | En cours d'insertion | En cours d'insertion |
+| fr | in_addition | En cours d'insertion |
 | fr | Loué | Loué |
 | fr | Loué concur. | Loué concur. |
 | fr | Nouveau | Nouveau |
@@ -59,8 +62,10 @@
 | fr | Réservé | Réservé |
 | fr | Réservé propriétaire | Réservé propriétaire |
 | fr | Réservé, acompte versé | Réservé, acompte versé |
+| fr | reserved | Réservé |
 | fr | Retiré par l'agence | Suspendu |
 | fr | Retiré par le propriétaire | Suspendu |
+| fr | sold | Vendu |
 | fr | Sous offre / réservation | Réservé |
 | fr | status_property_active | Actif |
 | fr | status_property_sell | Vendu |

@@ -58,6 +58,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Brent | Riviera-Pays-d'Enhaut |
 | fr | Bretigny-sur-Morrens | Gros-de-Vaud |
 | fr | Bretonnières | Jura-Nord vaudois |
+| fr | Brig | Brigue |
 | fr | Buchillon | Morges |
 | fr | Bugnaux-sur-Rolle | Nyon |
 | fr | Bulle | Gruyère |
@@ -154,6 +155,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Denens | Morges |
 | fr | Denezy | Gros-de-Vaud |
 | fr | Denges | Morges |
+| fr | Diolly | Sion |
 | fr | Dizy | Morges |
 | fr | Dommartin | Gros-de-Vaud |
 | fr | Dompierre | Broye |
@@ -214,10 +216,12 @@ You will only find below values that have a different spelling than the one Real
 | fr | Grandevent | Jura-Nord vaudois |
 | fr | Grandson | Jura-Nord vaudois |
 | fr | Grandvaux | Lavaux-Oron |
+| fr | Gravelone | Sion |
 | fr | Grens | Nyon |
 | fr | Gressy | Jura-Nord vaudois |
 | fr | Gryon | Aigle |
 | fr | Gy | Rive Gauche |
+| fr | Haut-Valais | Viège |
 | fr | Hauterive | Région Le Littoral (Est) |
 | fr | Hermance | Rive Gauche |
 | fr | Hermenches | Broye-Vully |
@@ -410,6 +414,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Sergey | Jura-Nord vaudois |
 | fr | Servion | Lavaux-Oron |
 | fr | Sévery | Morges |
+| fr | Sierre | Sierre Plaine |
 | fr | Signy | Nyon |
 | fr | Soral | Rhône / Arve |
 | fr | Sottens | Gros-de-Vaud |
@@ -435,6 +440,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Troinex | Rhône / Arve |
 | fr | Troistorrents | Monthey |
 | fr | Ursins | Jura-Nord vaudois |
+| fr | Uvrier | Sion |
 | fr | Val-d'Illiez | Monthey |
 | fr | Valeyres-sous-Montagny | Jura-Nord vaudois |
 | fr | Valeyres-sous-Rances | Jura-Nord vaudois |

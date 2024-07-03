@@ -38,6 +38,7 @@
 | fr | Electrique, Gaz, Pellets | Electrique |
 | fr | Fioul | Fioul |
 | fr | Gaz | Gaz |
+| fr | Gaz, Solaire | Gaz |
 | fr | Mazout | Mazout |
 | fr | Pellets | Pellets |
 | fr | Pellets, Solaire | Pellets |

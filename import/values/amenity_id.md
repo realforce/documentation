@@ -798,6 +798,7 @@
 | fr | amenity_high_school | Ecole secondaire |
 | fr | amenity_motorway | Entrée/Sortie autoroute |
 | fr | amenity_number_box | Box |
+| fr | amenity_number_parking | Parking |
 | fr | amenity_number_parking_exterieur | Parking extérieur |
 | fr | amenity_number_parking_interor | Parking intérieur |
 | fr | amenity_parking | Parking |

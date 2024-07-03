@@ -21,6 +21,7 @@
 | fr | Immédiatement | Immédiatement |
 | fr | Loué | Loué |
 | fr | Occupé | Occupé |
+| fr | Saison | Choisir date |
 | it | Affittato | Affittato |
 | it | Da convenire | Da convenire |
 | it | Immediatamente | Immediatamente |

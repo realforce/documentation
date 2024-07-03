@@ -139,6 +139,17 @@
 | fr | Docteur | Docteur |
 | fr | Eminence | Eminence |
 | fr | Général | Général |
+| fr | greeting_Cher Monsieur Berger | Cher Monsieur |
+| fr | greeting_Cher Monsieur Guinnard | Cher Monsieur |
+| fr | greeting_Cher Monsieur Meunier | Cher Monsieur |
+| fr | greeting_Cher Monsieur Mühlmann | Cher Monsieur |
+| fr | greeting_Cher Monsieur Pignat | Cher Monsieur |
+| fr | greeting_Cher Monsieur Rouiller | Cher Monsieur |
+| fr | greeting_Cher Monsieur Schlomer | Cher Monsieur |
+| fr | greeting_Cher Monsieur Stelitano | Cher Monsieur |
+| fr | greeting_Chère Famille Ghezzi | Chère Madame, Cher Monsieur |
+| fr | greeting_Chère Madame Luyet | Chère Madame |
+| fr | greeting_Chère Madame Stryjenski | Chère Madame |
 | fr | greeting_Famille | Chère Madame, Cher Monsieur |
 | fr | greeting_Madame | Chère Madame |
 | fr | greeting_Madame Monsieur | Chère Madame, Cher Monsieur |

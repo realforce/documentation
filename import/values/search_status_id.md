@@ -22,6 +22,7 @@
 | fr | En suspens | En suspens |
 | fr | Traitée avec succès | Traitée avec succès |
 | fr | Traitée sans succès | Traitée sans succès |
+| fr | transaction_completed | Traitée avec succès |
 | it | Annullata | Annullata |
 | it | In corso | In corso |
 | it | In sospeso | In sospeso |

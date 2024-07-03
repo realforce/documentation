@@ -69,6 +69,7 @@
 | fr | Appartamento | Appartement |
 | fr | Appartement | Appartement |
 | fr | Appartement de plain-pied | Appartement |
+| fr | Appartement en terrasse | Appartement |
 | fr | Appartement neuf | Appartement |
 | fr | Appartement PPE | Appartement |
 | fr | Appartement sous le toit | Appartement |
@@ -86,6 +87,7 @@
 | fr | Box extérieur | Parking |
 | fr | Box intérieur | Parking |
 | fr | Bureau | Bureau |
+| fr | Cabinet | Bureau |
 | fr | Cabinet médical | Local commercial |
 | fr | Camping | Camping |
 | fr | Casa | Maison |

@@ -18,6 +18,7 @@
 | en | Public | Public |
 | fr | admin | Administrateur |
 | fr | Administrateur | Administrateur |
+| fr | Administration vente | Administrateur |
 | fr | Assistant(e) | Assistant(e) |
 | fr | Commercial | Courtier |
 | fr | Courtier | Courtier |
