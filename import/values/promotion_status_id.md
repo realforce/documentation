@@ -12,9 +12,12 @@
 | en | Done | Done |
 | en | Future | Future |
 | en | In process | In process |
+| fr | actived | Actuelle |
 | fr | Actuelle | Actuelle |
+| fr | archived | Réalisée |
 | fr | En cours d'insertion | En cours d'insertion |
 | fr | Future | Future |
+| fr | in_addition | En cours d'insertion |
 | fr | Réalisée | Réalisée |
 | it | Corrente | Corrente |
 | it | Futuro | Futuro |

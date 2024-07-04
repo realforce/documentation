@@ -571,6 +571,7 @@
 | fr | INDUS-19 | Atelier |
 | fr | INDUS-2 | Local commercial |
 | fr | INDUS-38 | Parking |
+| fr | INDUS-4 | Local commercial |
 | fr | INDUS-5 | Dépot |
 | fr | Institut de beauté  | Institut de beauté |
 | fr | Jardin d'enfants | Jardin d'enfants |
