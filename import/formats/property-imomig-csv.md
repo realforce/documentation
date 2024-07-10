@@ -24,6 +24,7 @@
 | 32 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property floor |
 | 160 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property title |
 | 161 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property description |
+| 161 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Property location description |
 | 54 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
 | 7 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property creation date & time |
 | 8 | datetime | d.m.Y H:i:s | d-m-Y H:i:s | Y-m-d H:i:s | Property update date & time |

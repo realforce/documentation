@@ -618,6 +618,7 @@
 | fr | Mobile Home | Mobile Home |
 | fr | Open space | Open space |
 | fr | PARK-1 | Parking |
+| fr | PARK-5 | Parking |
 | fr | Parking | Parking |
 | fr | Parking communautaire | Parking communautaire |
 | fr | Parking double | Parking double |

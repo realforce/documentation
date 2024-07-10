@@ -164,6 +164,7 @@
 | fr | Mas | Maison |
 | fr | Mobile home | Mobile home |
 | fr | Para-hôtellerie | Hôtellerie |
+| fr | PARK | Parking |
 | fr | Parking | Parking |
 | fr | Parking extérieur | Parking |
 | fr | Parking souterrain | Parking |

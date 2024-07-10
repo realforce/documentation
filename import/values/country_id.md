@@ -42,6 +42,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | PT | Portugal |
 | fr | Rolle | Suisse |
 | fr | Rueyres | Suisse |
+| fr | Russia | Fédération de Russie |
 | fr | SA | Arabie Saoudite |
 | fr | Sion | Suisse |
 | fr | Suchy | Suisse |
@@ -50,6 +51,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | TH | Thaïlande |
 | fr | Thônex | Suisse |
 | fr | United Kingdom | Royaume-Uni |
+| fr | United States of America | États-Unis |
 | fr | US | États-Unis |
 | fr | Verbier | Suisse |
 | fr | Vevey | Suisse |

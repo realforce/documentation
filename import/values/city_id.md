@@ -141,6 +141,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Grangettes-près-Romont FR | Grangettes |
 | fr | Grangettes-près-Romont FR FR | Grangettes |
 | fr | Granois (Savièse) | Granois |
+| fr | Gravelone | Sion |
 | fr | Grone VS | Grône |
 | fr | Hautemorges | Pampigny |
 | fr | Jongny VD | Jongny |
@@ -259,6 +260,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | SulLens VS | Sullens |
 | fr | Tannay VD | Tannay |
 | fr | TannayVD | Tannay |
+| fr | Täsch-Zermatt | Zermatt |
 | fr | Tavel VD | Tavel |
 | fr | Terre-Sainte | Nyon |
 | fr | Territet VD | Territet |
@@ -273,6 +275,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Veyrier GE | Veyrier |
 | fr | Veytaux VD | Veytaux |
 | fr | Veytaux-Chillon VD | Veytaux-Chillon |
+| fr | Viège-Visp | Viège |
 | fr | VILLARS-S-CROIX | Villars-Sainte-Croix |
 | fr | Villars-Sainte-Croix VD | Villars-Sainte-Croix |
 | fr | Villars-sur-Ollon VD | Villars-sur-Ollon |
