@@ -221,7 +221,6 @@ You will only find below values that have a different spelling than the one Real
 | fr | Gressy | Jura-Nord vaudois |
 | fr | Gryon | Aigle |
 | fr | Gy | Rive Gauche |
-| fr | Haut-Valais | Viège |
 | fr | Hauterive | Région Le Littoral (Est) |
 | fr | Hermance | Rive Gauche |
 | fr | Hermenches | Broye-Vully |

@@ -787,6 +787,7 @@
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
 | fr | amenity_animal_allowed | Animaux acceptés |
+| fr | amenity_balcon | Balcon |
 | fr | amenity_balcony | Balcon |
 | fr | amenity_cable_tv | Cable TV |
 | fr | amenity_cellar | Cave |
