@@ -118,6 +118,7 @@
 | fr | Acheteur | Acheteur |
 | fr | Agence immobilière | Agent immobilier |
 | fr | Agent immobilier | Agent immobilier |
+| fr | Ambassade | Ambassadeur |
 | fr | Ambassadeur | Ambassadeur |
 | fr | Annonceur | Annonceur |
 | fr | Apporteur d'affaires | Apporteur d'affaires |
@@ -148,6 +149,7 @@
 | fr | Electricien | Electricien |
 | fr | Entrepreneur | Autre |
 | fr | Entreprise générale | Entreprise générale |
+| fr | Expert immobilier | Agent immobilier |
 | fr | Fiduciaire | Fiduciaire |
 | fr | Fiscaliste | Fiscaliste |
 | fr | Gardien | Gardien |
@@ -166,6 +168,7 @@
 | fr | Maçon | Maçon |
 | fr | Maître d'oeuvre | Maître d'oeuvre |
 | fr | Mandant | Propriétaire |
+| fr | Marchand de biens | Investisseur |
 | fr | Newsletter | Newsletter |
 | fr | Notaire | Notaire |
 | fr | Partenaire Relocation | Partenaire Relocation |
@@ -178,6 +181,7 @@
 | fr | Prospect | Prospect |
 | fr | Restauration | Restauration |
 | fr | Serrurier | Serrurier |
+| fr | Société de gestion | Autre |
 | fr | Vendeur | Propriétaire |
 | fr | VIP | Autre |
 | fr | Visites | Visites |

@@ -384,8 +384,10 @@ You will only find below values that have a different spelling than the one Real
 | fr | RenensVD | Ouest lausannois |
 | fr | Rennaz | Aigle |
 | fr | Reverolle | Morges |
+| fr | Rhone-Arve | Rhône / Arve |
 | fr | Riex | Lavaux-Oron |
 | fr | Rivaz | Lavaux-Oron |
+| fr | Rive Droite | Rive Droite (lac) |
 | fr | Rive Droite campagne | Rive Droite (campagne) |
 | fr | Rive Droite lac | Rive Droite (lac) |
 | fr | Roche | Aigle |

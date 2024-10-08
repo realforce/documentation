@@ -110,6 +110,7 @@
 | fr | Enseigne | Enseigne |
 | fr | Ensemble immobilier | Immeuble |
 | fr | Entrepôt | Halle industrielle |
+| fr | Entrepôts | Dépot |
 | fr | Entreprise | Entreprise |
 | fr | Ferme | Maison |
 | fr | Ferme à rénover | Maison |

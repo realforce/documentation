@@ -169,6 +169,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Duillier VD | Duillier |
 | fr | Dully VD | Dully |
 | fr | Dully-Bursinel VD | Dully-Bursinel |
+| fr | Eaux-Vives-Lac | Eaux-Vives |
 | fr | Échallens VD | Échallens |
 | fr | Échandens VD | Échandens |
 | fr | Echandens-Denges VD | Echandens-Denges |
@@ -177,6 +178,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Ecublens | Écublens (VD) |
 | fr | Écublens (VD) VD | Écublens (VD) |
 | fr | Ecublens VD | Écublens (VD) |
+| fr | Église Russe | Eaux-Vives |
 | fr | Enges NL | Enges |
 | fr | Engollon NL | Engollon |
 | fr | Epagnier NL | Epagnier |
@@ -232,6 +234,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Hauterive FG | Hauterive |
 | fr | Hermance GE | Hermance |
 | fr | Isérables VS | Isérables |
+| fr | Jonction | Genève |
 | fr | Jongny VD | Jongny |
 | fr | Jouxtens-Mézery VD | Jouxtens-Mézery |
 | fr | Jussy GE | Jussy |
@@ -262,6 +265,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Le Mont-Pèlerin VD | Le Mont-Pèlerin |
 | fr | Le Mont-sur-Lausanne VD | Le Mont-sur-Lausanne |
 | fr | Le Pâquier NL | Le Pâquier |
+| fr | Le Petit-Saconnex | Petit-Saconnex |
 | fr | Le Vaud VD | Le Vaud |
 | fr | Les Avanchets GE | Les Avanchets |
 | fr | Les Avants  VD | Les Avants  |
@@ -399,6 +403,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Thielle NL | Thielle |
 | fr | Thônex GE | Thônex |
 | fr | Tolochenaz VD | Tolochenaz |
+| fr | Tout Genève (Canton) | Genève |
+| fr | Tout Genève + Terre Sainte | Genève |
 | fr | Trélex VD | Trélex |
 | fr | Trient VS | Trient |
 | fr | Troistorrents VS | Troistorrents |

@@ -16,6 +16,7 @@
 | fr | Location | Location |
 | fr | Location saisonnière | Location |
 | fr | Louer | Location |
+| fr | Programme | Achat |
 | fr | Renting | Location |
 | fr | Selling | Achat |
 | fr | Vendita | Achat |
