@@ -403,8 +403,6 @@ You will only find below values that have a different spelling than the one Real
 | fr | Thielle NL | Thielle |
 | fr | Thônex GE | Thônex |
 | fr | Tolochenaz VD | Tolochenaz |
-| fr | Tout Genève (Canton) | Genève |
-| fr | Tout Genève + Terre Sainte | Genève |
 | fr | Trélex VD | Trélex |
 | fr | Trient VS | Trient |
 | fr | Troistorrents VS | Troistorrents |

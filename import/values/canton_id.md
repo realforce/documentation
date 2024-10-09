@@ -42,6 +42,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Sion | Valais |
 | fr | Täsch | Valais |
 | fr | Thônex | Genève |
+| fr | Tout Genève (Canton) | Genève |
+| fr | Tout Genève + Terre Sainte | Genève |
 | fr | Trélex | Vaud |
 | fr | Uvrier | Valais |
 | fr | Vandoeuvres | Genève |
