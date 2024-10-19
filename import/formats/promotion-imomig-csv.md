@@ -13,6 +13,9 @@
 | 6 | string | [Promotion Status](../values/promotion_status_id.md) | Promotion status |
 | 22,23,24 | json | { "location_level": country|canton|district|zone|city|quarter, "location_name": string, "zip": string, "line1": string, "line2": string, "line3": string, "environment_id": string, "altitude": string, "longitude": string, "latitude": string } | Promotion real location |
 | 54 | json | { "filename": string, "brochure_page"?: 0|0.5|1, "is_website"?: boolean, "is_portal"?: boolean, "is_plan"?: boolean } | Semicolon separated list of photos |
+| 160 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Promotion title |
+| 161 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Promotion description |
+| 161 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Promotion location description |
 
 ## Sample
 

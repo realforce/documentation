@@ -71,6 +71,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Cheseaux-sur-Lausanne VD | Cheseaux-sur-Lausanne |
 | fr | Chesières VD | Chesières |
 | fr | Chexbres VD | Chexbres |
+| fr | Choully | Satigny |
 | fr | Clarens VD | Clarens |
 | fr | Clèbes (Nendaz) | Clèbes |
 | fr | Collex | Collex-Bossy |
@@ -128,6 +129,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | FerLens VS | Ferlens |
 | fr | Fes | Fès |
 | fr | Fontanivent VD | Fontanivent |
+| fr | Fontenelle-Dessus | Fontenelle |
 | fr | Forel (Lavaux) | Forel |
 | fr | Frensdorf | Berlin |
 | fr | Genève GE | Genève |
@@ -143,6 +145,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Granois (Savièse) | Granois |
 | fr | Gravelone | Sion |
 | fr | Grone VS | Grône |
+| fr | Gyóró | Thierrens |
 | fr | Hautemorges | Pampigny |
 | fr | Jongny VD | Jongny |
 | fr | Jorat-Menthue | Peney-le-Jorat |
@@ -158,6 +161,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | LaCh | La Chaux |
 | fr | LaConversion | La Conversion |
 | fr | LaCroix-de-Rozon | La Croix-de-Rozon |
+| fr | Lauenen bei Gstaad | Lauenen |
 | fr | LAUSANNE 26 | Lausanne |
 | fr | Lausanne VD | Lausanne |
 | fr | Lavey-les-Bains | Lavey-Morcles |
@@ -266,6 +270,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Territet VD | Territet |
 | fr | Territet-Veytaux | Territet |
 | fr | Tolochenaz VD | Tolochenaz |
+| fr | Turbach | Gessenay |
 | fr | Turin (Salins) | Turin |
 | fr | Valbroye | Cerniaz |
 | fr | Vaux-sur-Morges VD | Vaux-sur-Morges |

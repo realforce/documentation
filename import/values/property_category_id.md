@@ -102,6 +102,7 @@
 | fr | Commerce | Local commercial |
 | fr | Commercial | Local commercial |
 | fr | Commercio/ Industria | Local commercial |
+| fr | d'activité | Dépot |
 | fr | Dépot | Dépot |
 | fr | Domaine | Maison |
 | fr | Domaine de chasse | Maison |
@@ -121,6 +122,7 @@
 | fr | Gastronomie | Hôtellerie |
 | fr | ground | Terrain |
 | fr | Halle industrielle | Halle industrielle |
+| fr | Hôtel | Hôtellerie |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtellerie | Hôtellerie |
 | fr | HOUSE | Maison |
@@ -144,9 +146,11 @@
 | fr | Maison | Maison |
 | fr | Maison à rénover | Maison |
 | fr | Maison contemporaine | Maison |
+| fr | Maison d'hôtes | Hôtellerie |
 | fr | Maison de Maître | Maison |
 | fr | Maison de plain-pied | Maison |
 | fr | Maison de village | Maison |
+| fr | Maison de ville | Maison |
 | fr | Maison double | Maison |
 | fr | Maison en terrasse | Maison |
 | fr | Maison en ville | Maison |

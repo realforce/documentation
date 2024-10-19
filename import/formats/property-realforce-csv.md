@@ -68,7 +68,7 @@
 | 62 |  |  |  |
 | 63 |  |  |  |
 | 64 |  |  |  |
-| 65 |  |  |  |
+| 65 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | gateway description |
 | 66 |  |  |  |
 | 67 |  |  |  |
 | 68 |  |  |  |

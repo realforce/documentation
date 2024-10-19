@@ -589,6 +589,7 @@
 | fr | Maison à rénover | Maison à rénover |
 | fr | Maison contemporaine | Maison contemporaine |
 | fr | Maison d'été | Maison d'été |
+| fr | Maison d'hôtes | Hôtellerie |
 | fr | Maison de Maître | Maison de Maître |
 | fr | Maison de plage | Maison de plage |
 | fr | Maison de plain-pied | Maison de plain-pied |

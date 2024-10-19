@@ -47,6 +47,7 @@
 | fr | actived | Actif |
 | fr | Archivé | Actif |
 | fr | archived | Actif |
+| fr | Attente validation | En cours d'insertion |
 | fr | Chantier ouvert | Chantier ouvert |
 | fr | Contrat expiré | Contrat expiré |
 | fr | Contrat résilié | Contrat résilié |
