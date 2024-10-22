@@ -145,6 +145,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Granois (Savièse) | Granois |
 | fr | Gravelone | Sion |
 | fr | Grone VS | Grône |
+| fr | Grund bei Gstaad | Saanen |
+| fr | Gy GE | Gy |
 | fr | Gyóró | Thierrens |
 | fr | Hautemorges | Pampigny |
 | fr | Jongny VD | Jongny |
@@ -186,6 +188,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Lully VD VD | Lully |
 | fr | Lussy-sur-Morges VD | Lussy-sur-Morges |
 | fr | Lutry VD | Lutry |
+| fr | Machilly | Annemasse-Nord |
 | fr | Maxilly-sur-Léman | Évian-les-Bains |
 | fr | MEX VD | Mex |
 | fr | Mézières FG | Mézières |
@@ -222,6 +225,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Pully VD | Pully |
 | fr | Renens VD | Renens |
 | fr | RenensVD | Renens |
+| fr | Richerenches | Valréas |
 | fr | Rolle VD | Rolle |
 | fr | ROMAINMOTIER | Romainmôtier-Envy |
 | fr | ROMANEL | Romanel-sur-Lausanne |
@@ -270,6 +274,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Territet VD | Territet |
 | fr | Territet-Veytaux | Territet |
 | fr | Tolochenaz VD | Tolochenaz |
+| fr | Tresserve | Aix-les-Bains-Sud |
 | fr | Turbach | Gessenay |
 | fr | Turin (Salins) | Turin |
 | fr | Valbroye | Cerniaz |
@@ -293,6 +298,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Vinzel VD | Vinzel |
 | fr | Vionnaz VS | Vionnaz |
 | fr | Visp | Viège |
+| fr | Vonnas | Vonnas |
 | fr | Vouvry VS | Vouvry |
 | fr | VuffLens VS-la-Ville | Vufflens-la-Ville |
 | fr | VuffLens VS-le-Château | Vufflens-le-Château |
