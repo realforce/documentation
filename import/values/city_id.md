@@ -223,6 +223,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Prilly VD | Prilly |
 | fr | Puidoux-Gare | Puidoux |
 | fr | Pully VD | Pully |
+| fr | Raron | Rarogne |
 | fr | Renens VD | Renens |
 | fr | RenensVD | Renens |
 | fr | Richerenches | Valréas |
