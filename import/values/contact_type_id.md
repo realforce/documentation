@@ -54,6 +54,7 @@
 | de | Spengler | Spengler |
 | de | Steuerbehörde | Steuerbehörde |
 | de | Treuhänder | Treuhänder |
+| de | Vermitter | Vermitter |
 | de | Vermittler | Vermittler |
 | de | Vermögensverwalter | Vermögensverwalter |
 | de | Versicherung | Versicherung |
@@ -92,6 +93,7 @@
 | en | Land surveyor | Land surveyor |
 | en | Landscaper | Landscaper |
 | en | Lawyer | Lawyer |
+| en | Lessor | Lessor |
 | en | Locksmith | Locksmith |
 | en | Manager | Manager |
 | en | Mason | Mason |
@@ -129,6 +131,7 @@
 | fr | Assureur | Assureur |
 | fr | Autre | Autre |
 | fr | Avocat | Avocat |
+| fr | Bailleur | Bailleur |
 | fr | Banque | Banque |
 | fr | Bâtiment | Bâtiment |
 | fr | Beauté/Bien-être | Beauté/Bien-être |
@@ -220,6 +223,7 @@
 | it | Intermediario | Intermediario |
 | it | Investitore | Investitore |
 | it | Locatario | Locatario |
+| it | Locatore | Locatore |
 | it | Manager | Manager |
 | it | Mediatore Affitto | Mediatore Affitto |
 | it | Mediatore Vendita | Mediatore Vendita |
