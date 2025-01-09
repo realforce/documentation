@@ -32,6 +32,7 @@
 | de | Eingang | Eingang |
 | de | Elternschlafzimmer | Elternschlafzimmer |
 | de | Empfangsraum | Empfangsraum |
+| de | Erdgeschoss | Erdgeschoss |
 | de | Erdkeller | Erdkeller |
 | de | Essen / Wohnen | Essen / Wohnen |
 | de | Esszimmer | Esszimmer |
@@ -163,6 +164,7 @@
 | en | Garden shed | Garden shed |
 | en | Garden shelter(s) | Garden shelter(s) |
 | en | Garden(s) | Garden(s) |
+| en | Ground floor | Ground floor |
 | en | Hall(s) | Hall(s) |
 | en | Hallway(s) | Hallway(s) |
 | en | Hammam(s) | Hammam(s) |
@@ -325,6 +327,7 @@
 | fr | Pool house(s) | Pool house(s) |
 | fr | Remise(s) | Remise(s) |
 | fr | Rez inférieur | Rez inférieur |
+| fr | Rez-de-chaussée | Rez-de-chaussée |
 | fr | Salle à manger/Cuisine | Salle à manger/Cuisine |
 | fr | Salle(s) | Salle(s) |
 | fr | Salle(s) à manger | Salle(s) à manger |
@@ -432,6 +435,7 @@
 | it | Patio | Patio |
 | it | Pergolato | Pergolato |
 | it | Piano seminterrato | Piano seminterrato |
+| it | Piano terreno | Piano terreno |
 | it | Piscina interna | Piscina interna |
 | it | Pool house | Pool house |
 | it | Portico | Portico |
