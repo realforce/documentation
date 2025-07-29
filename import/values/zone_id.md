@@ -430,6 +430,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | TannayVDVD | Terre Sainte |
 | fr | Tartegnin | Nyon |
 | fr | Terre-Sainte | Terre Sainte |
+| fr | TerreSainte | Terre Sainte |
 | fr | Territet | Riviera-Pays-d'Enhaut |
 | fr | Thalheim | Brugg |
 | fr | Thierrens | Gros-de-Vaud |

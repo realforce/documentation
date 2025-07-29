@@ -218,6 +218,8 @@ You will only find below values that have a different spelling than the one Real
 | fr | Gollion VD | Gollion |
 | fr | Goumoens-la-Ville VD | Goumoens-la-Ville |
 | fr | Grancy VD | Grancy |
+| fr | GrandRiveDroite | Quais Rive Droite |
+| fr | GrandRiveGauche | Quais Rive Gauche |
 | fr | Grandson VD | Grandson |
 | fr | Grandvaux VD | Grandvaux |
 | fr | Granges VS VS | Granges |
@@ -355,6 +357,10 @@ You will only find below values that have a different spelling than the one Real
 | fr | Riddes VS | Riddes |
 | fr | Riex VD | Riex |
 | fr | Rivaz VD | Rivaz |
+| fr | RiveDroitecampagne | Quais Rive Droite |
+| fr | RiveDroitecentre | Quais Rive Droite |
+| fr | RiveDroiteLac | Quais Rive Droite |
+| fr | RiveGauche | Quais Rive Gauche |
 | fr | Roche VD | Roche |
 | fr | Rochefort NL | Rochefort |
 | fr | Rolle VD | Rolle |

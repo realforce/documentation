@@ -85,6 +85,7 @@ You will only find below values that have a different spelling than the one Real
 | fr | Cornaux NL | Cornaux |
 | fr | Corseaux VD | Corseaux |
 | fr | Corsier GE | Corsier |
+| fr | Corsier(GE) | Corsier |
 | fr | Corsier-sur-Vevey VD | Corsier-sur-Vevey |
 | fr | CorsierGE | Corsier |
 | fr | Cossonay VD | Cossonay |

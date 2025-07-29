@@ -9,6 +9,7 @@ You will only find below values that have a different spelling than the one Real
 | :--- | :--- | :--- |
 | fr | AE | Émirats Arabes Unis |
 | fr | AF | France |
+| fr | ArcLémaniquehorsGenêve | Suisse |
 | fr | BE | Belgique |
 | fr | Begnins | Suisse |
 | fr | Belgium | Belgique |
@@ -25,9 +26,11 @@ You will only find below values that have a different spelling than the one Real
 | fr | Echallens | Suisse |
 | fr | Forel(Lavaux) | Suisse |
 | fr | FR | France |
+| fr | GB | Royaume-Uni |
 | fr | Genève | Suisse |
 | fr | Genolier | Suisse |
 | fr | Givrins | Suisse |
+| fr | IT | Italie |
 | fr | Lausanne | Suisse |
 | fr | LeGrand-Saconnex | Suisse |
 | fr | LesAcacias | Suisse |
@@ -37,7 +40,9 @@ You will only find below values that have a different spelling than the one Real
 | fr | Marchissy | Suisse |
 | fr | Mont-sur-Rolle | Suisse |
 | fr | Morges | Suisse |
+| fr | NO | Norvège |
 | fr | Nyon | Suisse |
+| fr | PA | Panama |
 | fr | Petit-Lancy | Suisse |
 | fr | PT | Portugal |
 | fr | Rolle | Suisse |
@@ -45,9 +50,13 @@ You will only find below values that have a different spelling than the one Real
 | fr | Russia | Fédération de Russie |
 | fr | Russie | Fédération de Russie |
 | fr | SA | Arabie Saoudite |
+| fr | SE | Suède |
+| fr | SG | Singapour |
 | fr | Sion | Suisse |
+| fr | SL | Sierra Leone |
 | fr | Suchy | Suisse |
 | fr | Syrie | République Arabe Syrienne |
+| fr | SZ | Swaziland |
 | fr | Tannay | Suisse |
 | fr | TannayVD | Suisse |
 | fr | TH | Thaïlande |
@@ -58,3 +67,4 @@ You will only find below values that have a different spelling than the one Real
 | fr | Verbier | Suisse |
 | fr | Vevey | Suisse |
 | fr | Vich | Suisse |
+| fr | ZA | Afrique du Sud |
