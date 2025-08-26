@@ -9,6 +9,7 @@
 | de | Anwalt/Jurist | Anwalt/Jurist |
 | de | Architekt | Architekt |
 | de | Assistent/in | Assistent/in |
+| de | Ausgesetzt | Ausgesetzt |
 | de | Aussicht | Aussicht |
 | de | Bank | Bank |
 | de | Bauherrschaft | Bauherrschaft |
@@ -113,6 +114,7 @@
 | en | Restaurant industry | Restaurant industry |
 | en | Sales broker | Sales broker |
 | en | Shopkeeper | Shopkeeper |
+| en | Suspended | Suspended |
 | en | Tax office | Tax office |
 | en | Tenant | Tenant |
 | en | Viewings | Viewings |
@@ -150,6 +152,7 @@
 | fr | Courtier Vente | Courtier Vente |
 | fr | Diagnostiqueur | Diagnostiqueur |
 | fr | Electricien | Electricien |
+| fr | En suspens | En suspens |
 | fr | Entrepreneur | Autre |
 | fr | Entreprise générale | Entreprise générale |
 | fr | Expert immobilier | Agent immobilier |
@@ -239,6 +242,7 @@
 | it | Proprietario | Proprietario |
 | it | Prospettiva | Prospettiva |
 | it | Ristorazione | Ristorazione |
+| it | Sospeso | Sospeso |
 | it | Strutture alberghiere | Strutture alberghiere |
 | it | tributarista | tributarista |
 | it | ufficiale giudiziario | ufficiale giudiziario |
