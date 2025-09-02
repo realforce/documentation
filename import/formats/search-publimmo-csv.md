@@ -1,4 +1,4 @@
-# Search - Publimmo PUBLIMMOCSV
+# Search - Publimmo CSV
 
 ## Description
 
@@ -20,16 +20,16 @@
 | 35 | json | { "level": country|canton|district|zone|city|quarter, "name": string } | Search locations |
 | 35 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search label |
 | 31 | string | [String](https://en.wikipedia.org/wiki/String_(computer_science)) | Search private comment |
-| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price min |
-| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property price max |
-| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area min |
-| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property area max |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price min |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property price max |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area min |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property area max |
 | 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room min |
 | 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property room max |
 | 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom min |
 | 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property bedroom max |
-| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land min |
-| 35 | integer | [Number](https://en.wikipedia.org/wiki/Integer) | Property land max |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land min |
+| 35 | float | [Float](https://en.wikipedia.org/wiki/Decimal) | Property land max |
 | 34 | date | d.m.Y | d-m-Y | Y-m-d | Search update date |
 | 34 |  |  | Property is new |
 | 35 | boolean | [Boolean](https://en.wikipedia.org/wiki/Boolean_data_type) | Property is allowed to foreigners |
@@ -37,7 +37,8 @@
 
 ## Sample
 
-[search-publimmo.publimmocsv](../samples/search-publimmo.publimmocsv)
+[search-publimmo.csv](../samples/search-publimmo.csv)
 ```
-
+ID,Politesse,Nom,PrÃ©nom,Langue,eMail,Statut,Adresse,Adresse 2,Npa,LocalitÃ©,Pays,TÃ©lÃ©phone,Mobile,Evaluation,Courtier ID,Agence ID,Groupe ID,Type,Communication,SociÃ©tÃ©,Client Final,Nom 2,PrÃ©nom 2,eMail 2,eMail 3,eMail 4,Pays,Fax,TÃ©lÃ©phone 2,Remarques,Activer les relances,CrÃ©ation,Action,Filtre(s),,,
+897216,"Madame, Monsieur",KARO,Philippe,fr,infodecaro@immochateau.ch,Actif,,,,,CH,,,,jacky@cfp-immo.ch,431742,0,Acheteur,eMail,Agence ImmobiliÃ¨re du ChÃ¢teau,,,,,,,CH,,,,Oui,15.12.2020,21.02.2022,Acheter | Commercial,"Acheter | Maison | TrÃ©lex, 4km",,,
 ```

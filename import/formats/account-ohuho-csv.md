@@ -1,4 +1,4 @@
-# Account - Realforce CSV
+# Account - Ohuho CSV
 
 ## Description
 
@@ -16,7 +16,7 @@
 
 ## Sample
 
-[account-realforce.csv](../samples/account-realforce.csv)
+[account-ohuho.csv](../samples/account-ohuho.csv)
 ```
 ID,accountTypeId,email,password,firstname,lastname,expiryDate,comment,isActive
 IDUSER001,admin,import-admin-001@realforce.ch,mysecretpassword,Admino,Importo,,Ceci est un compte de test,TRUE
