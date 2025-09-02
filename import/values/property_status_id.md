@@ -10,6 +10,7 @@
 | de | Baustart erfolgt | Baustart erfolgt |
 | de | Interessent | Interessent |
 | de | Neu | Neu |
+| de | Off Market | Off Market |
 | de | Option | Option |
 | de | Reserviert | Reserviert |
 | de | Reserviert für Eigentümer | Reserviert für Eigentümer |
@@ -28,6 +29,7 @@
 | en | Contract terminated | Contract terminated |
 | en | In process | In process |
 | en | New | New |
+| en | Off Market | Off Market |
 | en | Option | Option |
 | en | Owner reserved | Owner reserved |
 | en | Project opened | Project opened |
@@ -42,23 +44,40 @@
 | en | Suspended | Suspended |
 | fr | # | # |
 | fr | Actif | Actif |
+| fr | actived | Actif |
+| fr | Archivé | Actif |
+| fr | archived | Actif |
+| fr | Attente validation | En cours d'insertion |
 | fr | Chantier ouvert | Chantier ouvert |
 | fr | Contrat expiré | Contrat expiré |
 | fr | Contrat résilié | Contrat résilié |
+| fr | En cours | Actif |
 | fr | En cours d'insertion | En cours d'insertion |
+| fr | in_addition | En cours d'insertion |
 | fr | Loué | Loué |
 | fr | Loué concur. | Loué concur. |
 | fr | Nouveau | Nouveau |
+| fr | Off Market | Off Market |
 | fr | Option | Option |
 | fr | Prospect | Prospect |
 | fr | Réservé | Réservé |
 | fr | Réservé propriétaire | Réservé propriétaire |
 | fr | Réservé, acompte versé | Réservé, acompte versé |
+| fr | reserved | Réservé |
+| fr | Retiré par l'agence | Suspendu |
+| fr | Retiré par le propriétaire | Suspendu |
+| fr | sold | Vendu |
+| fr | Sous offre / réservation | Réservé |
 | fr | status_property_active | Actif |
+| fr | status_property_sell | Vendu |
 | fr | Suspendu | Suspendu |
 | fr | Vendu | Vendu |
 | fr | Vendu concur. | Vendu concur. |
 | fr | Vendu p. propriétaire | Vendu p. propriétaire |
+| fr | Vendu/loué par l'agence | Vendu |
+| fr | Vendu/loué par le propriétaire | Vendu p. propriétaire |
+| fr | Vendu/loué par un confrère | Vendu concur. |
+| fr | Vente/location annulée | Suspendu |
 | it | # | # |
 | it | Affittato | Affittato |
 | it | Affittato concorr. | Affittato concorr. |
@@ -68,6 +87,7 @@
 | it | Contratto scaduto | Contratto scaduto |
 | it | Inserimento in corso | Inserimento in corso |
 | it | Nuovo | Nuovo |
+| it | Off Market | Off Market |
 | it | Option | Option |
 | it | Prospetto | Prospetto |
 | it | Riservato | Riservato |

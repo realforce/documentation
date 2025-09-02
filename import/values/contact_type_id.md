@@ -9,6 +9,7 @@
 | de | Anwalt/Jurist | Anwalt/Jurist |
 | de | Architekt | Architekt |
 | de | Assistent/in | Assistent/in |
+| de | Ausgesetzt | Ausgesetzt |
 | de | Aussicht | Aussicht |
 | de | Bank | Bank |
 | de | Bauherrschaft | Bauherrschaft |
@@ -54,6 +55,7 @@
 | de | Spengler | Spengler |
 | de | Steuerbehörde | Steuerbehörde |
 | de | Treuhänder | Treuhänder |
+| de | Vermitter | Vermitter |
 | de | Vermittler | Vermittler |
 | de | Vermögensverwalter | Vermögensverwalter |
 | de | Versicherung | Versicherung |
@@ -92,6 +94,7 @@
 | en | Land surveyor | Land surveyor |
 | en | Landscaper | Landscaper |
 | en | Lawyer | Lawyer |
+| en | Lessor | Lessor |
 | en | Locksmith | Locksmith |
 | en | Manager | Manager |
 | en | Mason | Mason |
@@ -111,21 +114,26 @@
 | en | Restaurant industry | Restaurant industry |
 | en | Sales broker | Sales broker |
 | en | Shopkeeper | Shopkeeper |
+| en | Suspended | Suspended |
 | en | Tax office | Tax office |
 | en | Tenant | Tenant |
 | en | Viewings | Viewings |
 | en | Yacht broker | Yacht broker |
 | fr | Acheteur | Acheteur |
+| fr | Agence immobilière | Agent immobilier |
 | fr | Agent immobilier | Agent immobilier |
+| fr | Ambassade | Ambassadeur |
 | fr | Ambassadeur | Ambassadeur |
 | fr | Annonceur | Annonceur |
 | fr | Apporteur d'affaires | Apporteur d'affaires |
 | fr | Architecte | Architecte |
 | fr | Artisan | Artisan |
 | fr | Assistant(e) | Assistant(e) |
+| fr | Assurance | Assureur |
 | fr | Assureur | Assureur |
 | fr | Autre | Autre |
 | fr | Avocat | Avocat |
+| fr | Bailleur | Bailleur |
 | fr | Banque | Banque |
 | fr | Bâtiment | Bâtiment |
 | fr | Beauté/Bien-être | Beauté/Bien-être |
@@ -134,14 +142,20 @@
 | fr | Commerçant | Commerçant |
 | fr | Comptable | Comptable |
 | fr | Concierge | Concierge |
+| fr | Conciergerie | Concierge |
+| fr | Conseiller fiscal | Fiscaliste |
 | fr | Constructeur | Constructeur |
+| fr | Courtier | Courtier immobilier |
 | fr | Courtier de yacht | Courtier de yacht |
 | fr | Courtier immobilier | Courtier immobilier |
 | fr | Courtier Location | Courtier Location |
 | fr | Courtier Vente | Courtier Vente |
 | fr | Diagnostiqueur | Diagnostiqueur |
 | fr | Electricien | Electricien |
+| fr | En suspens | En suspens |
+| fr | Entrepreneur | Autre |
 | fr | Entreprise générale | Entreprise générale |
+| fr | Expert immobilier | Agent immobilier |
 | fr | Fiduciaire | Fiduciaire |
 | fr | Fiscaliste | Fiscaliste |
 | fr | Gardien | Gardien |
@@ -153,11 +167,14 @@
 | fr | Ingénieur civil | Ingénieur civil |
 | fr | Intermédiaire | Intermédiaire |
 | fr | Investisseur | Investisseur |
+| fr | Investisseur privé | Investisseur |
 | fr | Jardinier | Jardinier |
 | fr | Juriste | Juriste |
 | fr | Locataire | Locataire |
 | fr | Maçon | Maçon |
 | fr | Maître d'oeuvre | Maître d'oeuvre |
+| fr | Mandant | Propriétaire |
+| fr | Marchand de biens | Investisseur |
 | fr | Newsletter | Newsletter |
 | fr | Notaire | Notaire |
 | fr | Partenaire Relocation | Partenaire Relocation |
@@ -170,7 +187,9 @@
 | fr | Prospect | Prospect |
 | fr | Restauration | Restauration |
 | fr | Serrurier | Serrurier |
+| fr | Société de gestion | Autre |
 | fr | Vendeur | Propriétaire |
+| fr | VIP | Autre |
 | fr | Visites | Visites |
 | it | Acquirente | Acquirente |
 | it | agente immobiliare | agente immobiliare |
@@ -207,6 +226,7 @@
 | it | Intermediario | Intermediario |
 | it | Investitore | Investitore |
 | it | Locatario | Locatario |
+| it | Locatore | Locatore |
 | it | Manager | Manager |
 | it | Mediatore Affitto | Mediatore Affitto |
 | it | Mediatore Vendita | Mediatore Vendita |
@@ -222,6 +242,7 @@
 | it | Proprietario | Proprietario |
 | it | Prospettiva | Prospettiva |
 | it | Ristorazione | Ristorazione |
+| it | Sospeso | Sospeso |
 | it | Strutture alberghiere | Strutture alberghiere |
 | it | tributarista | tributarista |
 | it | ufficiale giudiziario | ufficiale giudiziario |

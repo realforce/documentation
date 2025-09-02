@@ -129,6 +129,7 @@
 | de | Friseur | Friseur |
 | de | Fussbodenheizung | Fussbodenheizung |
 | de | Galerie | Galerie |
+| de | Galetas | Galetas |
 | de | Gang | Gang |
 | de | Garage | Garage |
 | de | Garten | Garten |
@@ -209,6 +210,7 @@
 | de | Klimaanlage | Klimaanlage |
 | de | Kochecke | Kochecke |
 | de | Kochfeld | Kochfeld |
+| de | Kommissar | Kommissar |
 | de | Konditorei | Konditorei |
 | de | Kongresszentrum | Kongresszentrum |
 | de | Kosmetiker | Kosmetiker |
@@ -253,6 +255,7 @@
 | de | Parkett | Parkett |
 | de | Parkplatz | Parkplatz |
 | de | Patio | Patio |
+| de | Pergola | Pergola |
 | de | Pflanzenfaser | Pflanzenfaser |
 | de | Pflasterstein | Pflasterstein |
 | de | Photovoltaik-Module | Photovoltaik-Module |
@@ -308,6 +311,7 @@
 | de | Sprinkleranlage | Sprinkleranlage |
 | de | Stadtzentrum | Stadtzentrum |
 | de | Stand-up Paddel | Stand-up Paddel |
+| de | Stazione di ricarica per auto elettriche | Stazione di ricarica per auto elettriche |
 | de | Steamer | Steamer |
 | de | Stein | Stein |
 | de | Strandspiele | Strandspiele |
@@ -455,6 +459,7 @@
 | en | Coffeemaker | Coffeemaker |
 | en | Cold water | Cold water |
 | en | Commercial services | Commercial services |
+| en | Commissary | Commissary |
 | en | Communal pool | Communal pool |
 | en | Community laundry room | Community laundry room |
 | en | Computer | Computer |
@@ -493,6 +498,7 @@
 | en | Drugstore | Drugstore |
 | en | DVD player | DVD player |
 | en | Electric awnings | Electric awnings |
+| en | Electric car charger station | Electric car charger station |
 | en | Electric gate | Electric gate |
 | en | Electric parking | Electric parking |
 | en | Electric shutters | Electric shutters |
@@ -521,6 +527,7 @@
 | en | Funicular | Funicular |
 | en | Furnished | Furnished |
 | en | Furniture store | Furniture store |
+| en | Galetas | Galetas |
 | en | Gallery | Gallery |
 | en | Garage | Garage |
 | en | Garden  | Garden  |
@@ -627,6 +634,7 @@
 | en | Parquet | Parquet |
 | en | Patio | Patio |
 | en | Perfumery | Perfumery |
+| en | Pergola | Pergola |
 | en | Pet store | Pet store |
 | en | Phone | Phone |
 | en | Photo | Photo |
@@ -778,10 +786,33 @@
 | fr | Alarme incendie | Alarme incendie |
 | fr | Alimentation | Alimentation |
 | fr | Aménagement extérieur | Aménagement extérieur |
+| fr | amenity_animal_allowed | Animaux acceptés |
+| fr | amenity_balcon | Balcon |
 | fr | amenity_balcony | Balcon |
+| fr | amenity_cable_tv | Cable TV |
+| fr | amenity_cellar | Cave |
+| fr | amenity_child_friendly | Enfants bienvenus |
+| fr | amenity_elevator | Ascenseur |
 | fr | amenity_fireplace | Cheminée |
 | fr | amenity_garage | Garage |
+| fr | amenity_garden_house | Abri de jardin |
+| fr | amenity_high_school | Ecole secondaire |
+| fr | amenity_motorway | Entrée/Sortie autoroute |
+| fr | amenity_number_box | Box |
+| fr | amenity_number_parking | Parking |
+| fr | amenity_number_parking_exterieur | Parking extérieur |
+| fr | amenity_number_parking_interor | Parking intérieur |
 | fr | amenity_parking | Parking |
+| fr | amenity_public_tansport | Proche Transports publics |
+| fr | amenity_railway_terminal | Gare |
+| fr | amenity_school_primary | Ecole primaire |
+| fr | amenity_shop | Commerces |
+| fr | amenity_swimming_pool | Piscine |
+| fr | amenity_terrace | Terrasse |
+| fr | amenity_veranda | Véranda |
+| fr | amenity_water_supply | Arrivée d'eau |
+| fr | amenity_wc | WC |
+| fr | amenity_wheelchair | Praticable en chaise roulante |
 | fr | Animalerie | Animalerie |
 | fr | Animaux acceptés | Animaux acceptés |
 | fr | Antiquaire | Antiquaire |
@@ -809,6 +840,7 @@
 | fr | Bibliothèque | Bibliothèque |
 | fr | Bijouterie | Bijouterie |
 | fr | Boîte de nuit | Boîte de nuit |
+| fr | Borne de recharge pour voiture électrique | Borne de recharge pour voiture électrique |
 | fr | Boucherie | Boucherie |
 | fr | Boulangerie | Boulangerie |
 | fr | Bowling | Bowling |
@@ -834,6 +866,7 @@
 | fr | Canoë | Canoë |
 | fr | Caoutchouc | Caoutchouc |
 | fr | Carnotzet | Carnotzet |
+| fr | Carreaux | Carreaux |
 | fr | Carrelage | Carrelage |
 | fr | Cave | Cave |
 | fr | Cave à vin | Cave à vin |
@@ -889,6 +922,7 @@
 | fr | Ecole primaire | Ecole primaire |
 | fr | Ecole secondaire | Ecole secondaire |
 | fr | Ecoles | Ecoles |
+| fr | Économat | Économat |
 | fr | Électroménager | Électroménager |
 | fr | Enduits | Enduits |
 | fr | Enfants bienvenus | Enfants bienvenus |
@@ -916,7 +950,9 @@
 | fr | Fromager | Fromager |
 | fr | Funiculaire | Funiculaire |
 | fr | Galerie | Galerie |
+| fr | Galetas | Galetas |
 | fr | Garage | Garage |
+| fr | Garderie | Garderie |
 | fr | Gardien | Gardien |
 | fr | Gare | Gare |
 | fr | Gare routière | Gare routière |
@@ -1008,6 +1044,7 @@
 | fr | Pêche | Pêche |
 | fr | Peinture | Peinture |
 | fr | Penderie | Penderie |
+| fr | Pergola | Pergola |
 | fr | Pharmacie | Pharmacie |
 | fr | Photo | Photo |
 | fr | Pied dans l'eau | Pied dans l'eau |
@@ -1232,6 +1269,7 @@
 | it | Climatizzatore centralizzato | Climatizzatore centralizzato |
 | it | Codice numerico digitale | Codice numerico digitale |
 | it | Commercial services | Commercial services |
+| it | Commissario | Commissario |
 | it | Connessione internet | Connessione internet |
 | it | Controsoffitto | Controsoffitto |
 | it | Coperture per tende motorizzate | Coperture per tende motorizzate |
@@ -1288,6 +1326,7 @@
 | it | Frigorifero | Frigorifero |
 | it | Fruttivendolo | Fruttivendolo |
 | it | Funicolare | Funicolare |
+| it | Galetas | Galetas |
 | it | Galleria | Galleria |
 | it | Garage | Garage |
 | it | Gastronomia | Gastronomia |
@@ -1319,6 +1358,7 @@
 | it | Kantine | Kantine |
 | it | Kitesurfen | Kitesurfen |
 | it | Laboratorio | Laboratorio |
+| it | Ladestation für Elektroauto | Ladestation für Elektroauto |
 | it | Lago | Lago |
 | it | Lastricato | Lastricato |
 | it | Lavanderia | Lavanderia |
@@ -1382,6 +1422,7 @@
 | it | Pasticceria | Pasticceria |
 | it | Patio | Patio |
 | it | Pensili | Pensili |
+| it | Pergola | Pergola |
 | it | Pergolato | Pergolato |
 | it | Pescheria | Pescheria |
 | it | Piano di cottura | Piano di cottura |

@@ -31,13 +31,26 @@
 | en | Sir | Sir |
 | en | Sir and Madam | Sir and Madam |
 | en | Succession | Succession |
+| fr | Cher Monsieur Berger | Monsieur |
+| fr | Cher Monsieur Guinnard | Monsieur |
+| fr | Cher Monsieur Meunier | Monsieur |
+| fr | Cher Monsieur Mühlmann | Monsieur |
+| fr | Cher Monsieur Pignat | Monsieur |
+| fr | Cher Monsieur Rouiller | Monsieur |
+| fr | Cher Monsieur Schlomer | Monsieur |
+| fr | Cher Monsieur Stelitano | Monsieur |
+| fr | Chère Famille Ghezzi | Madame et Monsieur |
+| fr | Chère Madame Luyet | Madame |
+| fr | Chère Madame Stryjenski | Madame |
 | fr | Docteur | Docteur |
+| fr | Famille | Madame et Monsieur |
 | fr | Frau | Madame |
 | fr | Frau und Herr | Madame et Monsieur |
 | fr | Herr | Monsieur |
 | fr | Hoirie | Hoirie |
 | fr | Madame | Madame |
 | fr | Madame et Monsieur | Madame et Monsieur |
+| fr | Madame Monsieur | Madame et Monsieur |
 | fr | Madame, Monsieur | Madame et Monsieur |
 | fr | Mademoiselle | Mademoiselle |
 | fr | Maître | Maître |
@@ -45,6 +58,7 @@
 | fr | Messieurs | Messieurs |
 | fr | Monsieur | Monsieur |
 | fr | Monsieur et Madame | Monsieur et Madame |
+| fr | Ms | Madame |
 | fr | Ms, Mr | Madame et Monsieur |
 | fr | Société | Société |
 | fr | Son Excellence Madame | Son Excellence Madame |

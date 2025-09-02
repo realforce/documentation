@@ -6,6 +6,7 @@
 | :--- | :--- | :--- |
 | de | Andere | Andere |
 | de | Angrenzend | Angrenzend |
+| de | Angrenzendes Haus | Angrenzendes Haus |
 | de | Anlegeplatz | Anlegeplatz |
 | de | Apartment Villa | Apartment Villa |
 | de | Arkade | Arkade |
@@ -39,10 +40,13 @@
 | de | Dance school | Dance school |
 | de | Diskothek  | Diskothek |
 | de | Domespace | Domespace |
+| de | Doppeleinfamilienhaus | Doppeleinfamilienhaus |
 | de | Doppelhaus | Doppelhaus |
 | de | Doppelparkplatz | Doppelparkplatz |
+| de | Dorfhaus | Dorfhaus |
 | de | Duplex | Duplex |
 | de | Durch Garagen verbundenes Doppelhaus | Durch Garagen verbundenes Doppelhaus |
+| de | Durchgangswohnung | Durchgangswohnung |
 | de | Durchgehende Wohnung | Durchgehende Wohnung |
 | de | Ebenerdiges Haus | Ebenerdiges Haus |
 | de | Eigentumswohnung | Eigentumswohnung |
@@ -58,6 +62,7 @@
 | de | Festsaal | Festsaal |
 | de | Firma | Firma |
 | de | Fleischerei  | Fleischerei  |
+| de | Garage | Garage |
 | de | Garage aussen | Garage aussen |
 | de | Garage innen | Garage innen |
 | de | Gartencenter | Gartencenter |
@@ -91,6 +96,7 @@
 | de | Hotel Restaurant | Hotel Restaurant |
 | de | Industrieel oppervlak | Industrieel oppervlak |
 | de | Industriefläche | Industriefläche |
+| de | Industrieflächen | Industrieflächen |
 | de | Industriegebäude | Industriegebäude |
 | de | Industriehalle | Industriehalle |
 | de | Industrieland | Industrieland |
@@ -133,6 +139,7 @@
 | de | Motorradparkplatz innen | Motorradparkplatz innen |
 | de | Music school | Music school |
 | de | Nebengebäude | Nebengebäude |
+| de | Neubauwohnung | Neubauwohnung |
 | de | Neues Haus | Neues Haus |
 | de | Neuwohnung | Neuwohnung |
 | de | Pachtrecht | Pachtrecht |
@@ -210,6 +217,7 @@
 | de | Wohnanlage | Wohnanlage |
 | de | Wohnraum | Wohnraum |
 | de | Wohnung | Wohnung |
+| de | Wohnung ab Plan | Wohnung ab Plan |
 | de | Wohnung nach Plan | Wohnung nach Plan |
 | de | Zimmer | Zimmer |
 | de | Zu renovierende Wohnung | Zu renovierende Wohnung |
@@ -425,6 +433,7 @@
 | en | Woodshed | Woodshed |
 | en | Workshop | Workshop |
 | fr | Agence de voyage | Agence de voyage |
+| fr | Ancien | Appartement |
 | fr | Appartement | Appartement |
 | fr | Appartement à rénover | Appartement à rénover |
 | fr | Appartement avec jardin | Appartement avec jardin |
@@ -440,10 +449,13 @@
 | fr | Appartement sous le toit | Appartement sous le toit |
 | fr | Appartement subventionné | Appartement subventionné |
 | fr | Appartement sur plan | Appartement sur plan |
+| fr | Appartement terrasse | Appartement |
 | fr | Appartement traversant | Appartement traversant |
 | fr | Appartement villa | Appartement villa |
+| fr | Appartements | Appartement |
 | fr | APPT-1 | Appartement |
 | fr | APPT-2 | Appartement |
+| fr | APPT-7 | Appartement |
 | fr | Arcade | Arcade |
 | fr | Atelier | Atelier |
 | fr | Attique | Attique |
@@ -481,7 +493,10 @@
 | fr | Chambre | Chambre |
 | fr | Château | Château |
 | fr | Cinéma | Cinéma |
+| fr | Clés en main | Clés-en-main |
+| fr | Club / Disco | Hôtellerie |
 | fr | Commerce | Commerce |
+| fr | Commercial | Local commercial |
 | fr | Contigüe | Contigüe |
 | fr | Dépendance | Dépendance |
 | fr | Dépôt | Dépot |
@@ -514,10 +529,12 @@
 | fr | Fromagerie | Fromagerie |
 | fr | Galerie d'art | Galerie d'art |
 | fr | Galetas | Galetas |
-| fr | Garage  | Garage  |
+| fr | Garage  | Garage |
 | fr | Garage automobile | Garage automobile |
 | fr | Garage individuel | Garage individuel |
 | fr | GARDEN-0 | Terrain |
+| fr | GASTRO-1 | Hôtellerie |
+| fr | GASTRO-2 | Hôtellerie |
 | fr | Gérance | Gérance |
 | fr | Gîte | Gîte |
 | fr | Grange | Grange |
@@ -530,9 +547,13 @@
 | fr | Hôtel  | Hôtel |
 | fr | Hôtel particulier | Hôtel particulier |
 | fr | Hôtel Restaurant | Hôtel Restaurant |
+| fr | Hôtellerie | Hôtellerie |
 | fr | HOUSE-1 | Maison |
+| fr | HOUSE-12 | Chalet |
 | fr | HOUSE-3 | Maison |
 | fr | HOUSE-5 | Maison |
+| fr | HOUSE-6 | Maison |
+| fr | HOUSE-7 | Maison |
 | fr | Ile | Ile |
 | fr | Immeuble | Immeuble |
 | fr | Immeuble administratif | Immeuble administratif |
@@ -542,11 +563,15 @@
 | fr | Immeuble de rendement | Immeuble de rendement |
 | fr | Immeuble industriel | Immeuble industriel |
 | fr | Immeuble mixte | Immeuble mixte |
+| fr | Immeubles | Immeuble |
 | fr | Immeubles de rendement | Immeubles de rendement |
+| fr | INDUS-1 | Local commercial |
 | fr | INDUS-10 | Entreprise |
+| fr | INDUS-18 | Arcade |
 | fr | INDUS-19 | Atelier |
 | fr | INDUS-2 | Local commercial |
 | fr | INDUS-38 | Parking |
+| fr | INDUS-4 | Local commercial |
 | fr | INDUS-5 | Dépot |
 | fr | Institut de beauté  | Institut de beauté |
 | fr | Jardin d'enfants | Jardin d'enfants |
@@ -555,6 +580,8 @@
 | fr | Laboratoire  | Laboratoire  |
 | fr | Local | Local |
 | fr | Local commercial | Local commercial |
+| fr | Locaux | Local commercial |
+| fr | Locaux commerciaux | Local commercial |
 | fr | Loft | Loft |
 | fr | Lotissement | Lotissement |
 | fr | Magasin  | Magasin  |
@@ -562,10 +589,12 @@
 | fr | Maison à rénover | Maison à rénover |
 | fr | Maison contemporaine | Maison contemporaine |
 | fr | Maison d'été | Maison d'été |
+| fr | Maison d'hôtes | Hôtellerie |
 | fr | Maison de Maître | Maison de Maître |
 | fr | Maison de plage | Maison de plage |
 | fr | Maison de plain-pied | Maison de plain-pied |
 | fr | Maison de vacances | Maison de vacances |
+| fr | Maison de village | Maison |
 | fr | Maison de ville | Maison de ville |
 | fr | Maison double | Maison double |
 | fr | Maison en pierre | Maison en pierre |
@@ -578,35 +607,46 @@
 | fr | Maison meublée | Maison meublée |
 | fr | Maison mitoyenne | Maison mitoyenne |
 | fr | Maison neuve | Maison neuve |
+| fr | Maison plurifamiliale | Maison |
 | fr | Maison PPE | Maison PPE |
 | fr | Maison rénovée | Maison rénovée |
 | fr | Maison sur plan | Maison sur plan |
 | fr | Maison villageoise | Maison villageoise |
+| fr | Maisons | Maison |
 | fr | Manoir | Manoir |
 | fr | Mas | Mas |
 | fr | Menuiserie | Menuiserie |
 | fr | Mobile Home | Mobile Home |
 | fr | Open space | Open space |
 | fr | PARK-1 | Parking |
+| fr | PARK-5 | Parking |
 | fr | Parking | Parking |
 | fr | Parking communautaire | Parking communautaire |
 | fr | Parking double | Parking double |
 | fr | Parking extérieur | Parking extérieur |
 | fr | Parking sous-terrain | Parking sous-terrain |
+| fr | Parking souterrain | Parking souterrain |
+| fr | Parkings | Parking |
 | fr | Pavillon | Pavillon |
 | fr | Péniche | Péniche |
 | fr | Pizzeria  | Pizzeria  |
+| fr | Place couverte | Parking |
 | fr | Place d'amarrage | Place d'amarrage |
 | fr | Place de camping | Place de camping |
 | fr | Place de parc couverte | Place de parc couverte |
 | fr | Place de parc surveillé | Place de parc surveillé |
 | fr | Place pour moto extérieure | Place pour moto extérieure |
 | fr | Place pour moto intérieure | Place pour moto intérieure |
+| fr | Place souterraine | Parking |
 | fr | Pressing | Pressing |
+| fr | Promotions/Neuf | Appartement |
+| fr | PROP-1 | Terrain |
+| fr | Propriété | Maison |
 | fr | Propriété viticole | Propriété viticole |
 | fr | Pub | Pub |
 | fr | Quartier Ger | Quartier Ger |
 | fr | Remise | Remise |
+| fr | Résidence hôtelière | Appartement |
 | fr | Résidence sénior | Résidence sénior |
 | fr | Restaurant  | Restaurant |
 | fr | Riad | Riad |
@@ -630,9 +670,11 @@
 | fr | Terrain agricole | Terrain agricole |
 | fr | Terrain artisanal | Terrain artisanal |
 | fr | Terrain commercial | Terrain commercial |
+| fr | Terrain constructible | Terrain |
 | fr | Terrain équipé | Terrain équipé |
 | fr | Terrain inconstructible | Terrain inconstructible |
 | fr | Terrain industriel | Terrain industriel |
+| fr | Terrains | Terrain |
 | fr | Théâtre | Théâtre |
 | fr | Triplex | Triplex |
 | fr | Usine | Usine |
@@ -730,6 +772,7 @@
 | it | Discoteca | Discoteca |
 | it | Discoteca  | Discoteca  |
 | it | Domespace | Domespace |
+| it | Duplex-/ Maisonette  | Duplex-/ Maisonette  |
 | it | Edicola | Edicola |
 | it | Esposizione | Esposizione |
 | it | Fabbrica | Fabbrica |

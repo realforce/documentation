@@ -39,10 +39,15 @@
 | fr | Chinois | Chinois |
 | fr | de | Allemand |
 | fr | en | Anglais |
+| fr | espagnol | Anglais |
 | fr | fr | Français |
 | fr | Français | Français |
+| fr | Français,Allemand | Français |
+| fr | Français,Anglais | Français |
 | fr | it | Italien |
 | fr | Italien | Italien |
+| fr | néerlandais | Anglais |
+| fr | portugais | Anglais |
 | fr | ru | Russe |
 | fr | Russe | Russe |
 | fr | zh | Chinois |

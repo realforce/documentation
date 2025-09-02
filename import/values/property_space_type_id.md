@@ -7,6 +7,7 @@
 | de | Abstellkammer | Abstellkammer |
 | de | Andere | Andere |
 | de | Arkade | Arkade |
+| de | Außenbereich | Außenbereich |
 | de | Aussenparkplatz | Aussenparkplatz |
 | de | Aussichtspunkt | Aussichtspunkt |
 | de | Autoparkplatz überdacht | Autoparkplatz überdacht |
@@ -20,8 +21,10 @@
 | de | Büro | Büro |
 | de | Cafeteria | Cafeteria |
 | de | Carnotzet | Carnotzet |
+| de | Combles | Combles |
 | de | Dachterrasse | Dachterrasse |
 | de | Discothek | Discothek |
+| de | Disponible | Disponible |
 | de | Doppelter Empfangsraum | Doppelter Empfangsraum |
 | de | Dusche | Dusche |
 | de | Dusche / Toilette | Dusche / Toilette |
@@ -29,11 +32,14 @@
 | de | Eingang | Eingang |
 | de | Elternschlafzimmer | Elternschlafzimmer |
 | de | Empfangsraum | Empfangsraum |
+| de | Erdgeschoss | Erdgeschoss |
 | de | Erdkeller | Erdkeller |
 | de | Essen / Wohnen | Essen / Wohnen |
 | de | Esszimmer | Esszimmer |
 | de | Estrich | Estrich |
+| de | Exterior | Exterior |
 | de | Galerie | Galerie |
+| de | Galetas | Galetas |
 | de | Gang | Gang |
 | de | Garage | Garage |
 | de | Garderobenschrank | Garderobenschrank |
@@ -51,6 +57,7 @@
 | de | Kellergeschoss | Kellergeschoss |
 | de | Kerichtraum  | Kerichtraum  |
 | de | Kino | Kino |
+| de | Kleiner Balkon | Kleiner Balkon |
 | de | Kochecke | Kochecke |
 | de | Korridor | Korridor |
 | de | Küche | Küche |
@@ -70,6 +77,7 @@
 | de | Patio | Patio |
 | de | Poolhaus | Poolhaus |
 | de | Raum | Raum |
+| de | Reduzierter Balkon | Reduzierter Balkon |
 | de | Sauna | Sauna |
 | de | Scheune | Scheune |
 | de | Schlafzimmer | Schlafzimmer |
@@ -79,6 +87,8 @@
 | de | Solarium | Solarium |
 | de | Sommerküche | Sommerküche |
 | de | Spa | Spa |
+| de | space_type_covered_terrace | space_type_covered_terrace |
+| de | space_type_winter_garden | space_type_winter_garden |
 | de | Spielzimmer | Spielzimmer |
 | de | Sportraum | Sportraum |
 | de | Studio | Studio |
@@ -92,6 +102,8 @@
 | de | Toilette | Toilette |
 | de | Treppe | Treppe |
 | de | Treppenabsatz | Treppenabsatz |
+| de | Überdachte Terrasse | Überdachte Terrasse |
+| de | Überdachter Balkon | Überdachter Balkon |
 | de | Ungenutzt | Ungenutzt |
 | de | Unteres Erdgeschoss | Unteres Erdgeschoss |
 | de | Unterkunft | Unterkunft |
@@ -101,6 +113,7 @@
 | de | Wäschekammer | Wäschekammer |
 | de | Waschküche | Waschküche |
 | de | Werkstatt | Werkstatt |
+| de | Wintergarten | Wintergarten |
 | de | Wohn-/Esszimmer | Wohn-/Esszimmer |
 | de | Wohneinheit | Wohneinheit |
 | de | Wohnen/Essen | Wohnen/Essen |
@@ -129,21 +142,29 @@
 | en | Carnotzet(s) | Carnotzet(s) |
 | en | Cellar(s) | Cellar(s) |
 | en | Closet(s) | Closet(s) |
+| en | Combles | Combles |
 | en | Corridor(s) | Corridor(s) |
 | en | Courtyard(s) | Courtyard(s) |
+| en | Covered balcony | Covered balcony |
+| en | Covered terrace | Covered terrace |
 | en | Cupboard(s) | Cupboard(s) |
 | en | Dining room / kitchen | Dining room / kitchen |
 | en | Dining room(s) | Dining room(s) |
+| en | Disponible | Disponible |
 | en | Double reception room(s) | Double reception room(s) |
 | en | Entrance(s) | Entrance(s) |
 | en | Equipped kitchen | Equipped kitchen |
 | en | Exercise room(s) | Exercise room(s) |
+| en | Exterior | Exterior |
 | en | Exterior swimming pool(s) | Exterior swimming pool(s) |
+| en | Galetas | Galetas |
 | en | Gallery | Gallery |
 | en | Garage(s) | Garage(s) |
 | en | Garbage room(s) | Garbage room(s) |
+| en | Garden shed | Garden shed |
 | en | Garden shelter(s) | Garden shelter(s) |
 | en | Garden(s) | Garden(s) |
+| en | Ground floor | Ground floor |
 | en | Hall(s) | Hall(s) |
 | en | Hallway(s) | Hallway(s) |
 | en | Hammam(s) | Hammam(s) |
@@ -186,6 +207,7 @@
 | en | Pool house(s) | Pool house(s) |
 | en | Prayer room(s) | Prayer room(s) |
 | en | Reception room(s) | Reception room(s) |
+| en | Reducted balcony | Reducted balcony |
 | en | Roof top terrace | Roof top terrace |
 | en | Room(s) | Room(s) |
 | en | Root cellar(s) | Root cellar(s) |
@@ -199,6 +221,8 @@
 | en | Ski storage room(s) | Ski storage room(s) |
 | en | Solarium(s) | Solarium(s) |
 | en | Spa | Spa |
+| en | space_type_covered_terrace | space_type_covered_terrace |
+| en | space_type_winter_garden | space_type_winter_garden |
 | en | Stair(s) | Stair(s) |
 | en | Stockroom(s) | Stockroom(s) |
 | en | Storage room(s) | Storage room(s) |
@@ -213,6 +237,7 @@
 | en | Walk-in closet(s) | Walk-in closet(s) |
 | en | Warehouse(s) | Warehouse(s) |
 | en | Watchtower(s) | Watchtower(s) |
+| en | Winter garden | Winter garden |
 | en | Workshop(s) | Workshop(s) |
 | fr | Abri voitures | Abri voitures |
 | fr | Abri(s) de jardin | Abri(s) de jardin |
@@ -220,12 +245,15 @@
 | fr | Arcade(s) | Arcade(s) |
 | fr | Atelier(s) | Atelier(s) |
 | fr | Autre(s) | Autre(s) |
+| fr | Balcon couvert | Balcon couvert |
+| fr | Balcon réduit | Balcon réduit |
 | fr | Balcon(s) | Balcon(s) |
 | fr | Bibliothèque(s) | Bibliothèque(s) |
 | fr | Boîte(s) de nuit | Boîte(s) de nuit |
 | fr | Box(es) | Box(es) |
 | fr | Buanderie(s) | Buanderie(s) |
 | fr | Bureau(x) | Bureau(x) |
+| fr | Cabanon de jardin | Cabanon de jardin |
 | fr | Cabine(s) | Cabine(s) |
 | fr | Cafétéria(s) | Cafétéria(s) |
 | fr | Carnotzet(s) | Carnotzet(s) |
@@ -236,6 +264,7 @@
 | fr | Chambre(s) de maître | Chambre(s) de maître |
 | fr | Chambre(s) de service | Chambre(s) de service |
 | fr | Cinéma(s) | Cinéma(s) |
+| fr | Combles | Combles |
 | fr | Commerce(s) | Commerce(s) |
 | fr | Couloir(s) | Couloir(s) |
 | fr | Cour(s) | Cour(s) |
@@ -251,18 +280,22 @@
 | fr | Dégagement(s) | Dégagement(s) |
 | fr | Dépendance(s) | Dépendance(s) |
 | fr | Dépôt | Dépôt |
+| fr | Disponible | Disponible |
 | fr | Double réception | Double réception |
 | fr | Dressing(s) | Dressing(s) |
 | fr | Entrée(s) | Entrée(s) |
 | fr | Entrepôt(s) | Entrepôt(s) |
 | fr | Escalier(s) | Escalier(s) |
+| fr | Exterieur | Extérieur |
 | fr | Galerie | Galerie |
+| fr | Galetas | Galetas |
 | fr | Garage(s) | Garage(s) |
 | fr | Grange(s) | Grange(s) |
 | fr | Grenier(s) | Grenier(s) |
 | fr | Hall(s) | Hall(s) |
 | fr | Hammam(s) | Hammam(s) |
 | fr | Hangar à bateaux | Hangar à bateaux |
+| fr | Jardin d'hiver | Jardin d'hiver |
 | fr | Jardin(s) | Jardin(s) |
 | fr | Kitchenette | Kitchenette |
 | fr | Lingerie(s) | Lingerie(s) |
@@ -294,6 +327,7 @@
 | fr | Pool house(s) | Pool house(s) |
 | fr | Remise(s) | Remise(s) |
 | fr | Rez inférieur | Rez inférieur |
+| fr | Rez-de-chaussée | Rez-de-chaussée |
 | fr | Salle à manger/Cuisine | Salle à manger/Cuisine |
 | fr | Salle(s) | Salle(s) |
 | fr | Salle(s) à manger | Salle(s) à manger |
@@ -312,10 +346,13 @@
 | fr | Solarium | Solarium |
 | fr | Sous-sol(s) | Sous-sol(s) |
 | fr | Spa | Spa |
+| fr | space_type_covered_terrace | space_type_covered_terrace |
+| fr | space_type_winter_garden | space_type_winter_garden |
 | fr | Stock / Réserve | Stock / Réserve |
 | fr | Studio(s) | Studio(s) |
 | fr | Studio(s) de service | Studio(s) de service |
 | fr | Suite(s) | Suite(s) |
+| fr | Terrasse couverte | Terrasse couverte |
 | fr | Terrasse(s) | Terrasse(s) |
 | fr | Toilette(s) | Toilette(s) |
 | fr | Toit terrasse | Toit terrasse |
@@ -329,6 +366,8 @@
 | it | Bagno / WC | Bagno / WC |
 | it | Bagno con doccia | Bagno con doccia |
 | it | Balcone | Balcone |
+| it | Balcone coperto | Balcone coperto |
+| it | Balcone ridotto | Balcone ridotto |
 | it | Ballatoio | Ballatoio |
 | it | Biblioteca | Biblioteca |
 | it | Box | Box |
@@ -339,9 +378,11 @@
 | it | Camera padronale | Camera padronale |
 | it | Cameretta | Cameretta |
 | it | Cantina | Cantina |
+| it | Capanno da giardino | Capanno da giardino |
 | it | Capannone | Capannone |
 | it | Capannone della barca | Capannone della barca |
 | it | Casa | Casa |
+| it | Combles | Combles |
 | it | Corridoio | Corridoio |
 | it | Cortile | Cortile |
 | it | Cucina | Cucina |
@@ -353,15 +394,20 @@
 | it | Cucinino | Cucinino |
 | it | Discoteca | Discoteca |
 | it | Disimpegno | Disimpegno |
+| it | Disponible | Disponible |
 | it | Doccia / WC | Doccia / WC |
 | it | Doppia reception | Doppia reception |
+| it | Esterno | Esterno |
+| it | Exterior | Exterior |
 | it | Exterior swimming pool(s) | Exterior swimming pool(s) |
 | it | Fabbricato annesso | Fabbricato annesso |
 | it | Fienile | Fienile |
 | it | Foresteria | Foresteria |
+| it | Galetas | Galetas |
 | it | Galleria | Galleria |
 | it | Garage | Garage |
 | it | Giardino | Giardino |
+| it | Giardino d'inverno | Giardino d'inverno |
 | it | Hall | Hall |
 | it | Hammam | Hammam |
 | it | Home cinema | Home cinema |
@@ -389,6 +435,7 @@
 | it | Patio | Patio |
 | it | Pergolato | Pergolato |
 | it | Piano seminterrato | Piano seminterrato |
+| it | Piano terreno | Piano terreno |
 | it | Piscina interna | Piscina interna |
 | it | Pool house | Pool house |
 | it | Portico | Portico |
@@ -413,6 +460,8 @@
 | it | Soggiorno | Soggiorno |
 | it | Solarium | Solarium |
 | it | Soppalco | Soppalco |
+| it | space_type_covered_terrace | space_type_covered_terrace |
+| it | space_type_winter_garden | space_type_winter_garden |
 | it | Stanza | Stanza |
 | it | Stenditoio | Stenditoio |
 | it | Studio | Studio |
@@ -420,7 +469,9 @@
 | it | Taverna | Taverna |
 | it | Terme | Terme |
 | it | Terrazza | Terrazza |
+| it | Terrazza coperta | Terrazza coperta |
 | it | Terrazza sul tetto | Terrazza sul tetto |
+| it | Terrazzo coperto | Terrazzo coperto |
 | it | Torre d'avvistamento | Torre d'avvistamento |
 | it | Ufficio | Ufficio |
 | it | Veranda | Veranda |

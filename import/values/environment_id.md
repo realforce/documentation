@@ -14,6 +14,9 @@
 | en | Lake | Lake |
 | en | Mountain | Mountain |
 | en | Sea | Sea |
+| fr | 23 | Ville |
+| fr | 24 | Campagne |
+| fr | 371 | Lac |
 | fr | Campagne | Campagne |
 | fr | Lac | Lac |
 | fr | Mer | Mer |

@@ -15,11 +15,13 @@
 | en | Rented | Rented |
 | en | To be determined | To be determined |
 | fr | A convenir | A convenir |
+| fr | availability_immediately | Immédiatement |
 | fr | availability_to_agreed | A convenir |
 | fr | Choisir date | Choisir date |
 | fr | Immédiatement | Immédiatement |
 | fr | Loué | Loué |
 | fr | Occupé | Occupé |
+| fr | Saison | Choisir date |
 | it | Affittato | Affittato |
 | it | Da convenire | Da convenire |
 | it | Immediatamente | Immediatamente |
