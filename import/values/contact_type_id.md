@@ -34,6 +34,7 @@
 | de | Immobilienmakler | Immobilienmakler |
 | de | Ingenieur | Ingenieur |
 | de | Inserent | Inserent |
+| de | Internationales Unternehmen | Internationales Unternehmen |
 | de | Investor | Investor |
 | de | Käufer | Käufer |
 | de | Kunde | Kunde |
@@ -55,6 +56,7 @@
 | de | Spengler | Spengler |
 | de | Steuerbehörde | Steuerbehörde |
 | de | Treuhänder | Treuhänder |
+| de | Uhrmacher | Uhrmacher |
 | de | Vermitter | Vermitter |
 | de | Vermittler | Vermittler |
 | de | Vermögensverwalter | Vermögensverwalter |
@@ -88,6 +90,7 @@
 | en | Hospitality | Hospitality |
 | en | Insurer | Insurer |
 | en | Intermediary | Intermediary |
+| en | International company | International company |
 | en | Investor | Investor |
 | en | Janitor | Janitor |
 | en | Jurist | Jurist |
@@ -118,6 +121,7 @@
 | en | Tax office | Tax office |
 | en | Tenant | Tenant |
 | en | Viewings | Viewings |
+| en | Watchmaker | Watchmaker |
 | en | Yacht broker | Yacht broker |
 | fr | Acheteur | Acheteur |
 | fr | Agence immobilière | Agent immobilier |
@@ -155,6 +159,7 @@
 | fr | En suspens | En suspens |
 | fr | Entrepreneur | Autre |
 | fr | Entreprise générale | Entreprise générale |
+| fr | Entreprise internationale | Entreprise internationale |
 | fr | Expert immobilier | Agent immobilier |
 | fr | Fiduciaire | Fiduciaire |
 | fr | Fiscaliste | Fiscaliste |
@@ -162,6 +167,7 @@
 | fr | Géomètre | Géomètre |
 | fr | Gestionnaire | Gestionnaire |
 | fr | Gestionnaire de fortune | Gestionnaire de fortune |
+| fr | Horloger | Horloger |
 | fr | Hôtellerie | Hôtellerie |
 | fr | Huissier de justice | Huissier de justice |
 | fr | Ingénieur civil | Ingénieur civil |
@@ -221,6 +227,7 @@
 | it | giurista | giurista |
 | it | idraulico  | idraulico  |
 | it | Impresa generale | Impresa generale |
+| it | Impresa internazionale | Impresa internazionale |
 | it | Ingegnere civile | Ingegnere civile |
 | it | inserzionista  | inserzionista  |
 | it | Intermediario | Intermediario |
@@ -234,6 +241,7 @@
 | it | negoziante | negoziante |
 | it | Newsletter | Newsletter |
 | it | Notaio | Notaio |
+| it | Orologiaio | Orologiaio |
 | it | Paessagista | Paessagista |
 | it | pittore | pittore |
 | it | portare affari | portare affari |
